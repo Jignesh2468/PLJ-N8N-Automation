@@ -1,0 +1,317 @@
+{
+  "lead": "544",
+  "note": "RESALE: Sajid Abdul Gaffar Khan (registered AFS 13054/2023 from the builder) sells Flat 904, A-wing, Building No. 2 (Mukund Apartment-II), Imperial Palms to Sarfaraj Bahadur & Sakara Bano Sarafaraj (draft). Flat 904 of Building No. 1 (1133/2022, 1340/2022) and Building 1 parking (2884/2885 of 2024) are other units. Documents imitate the live AI read, including its misreads: 9304/2023 (page stamp misread of 13054/2023), a blank Agreement for Sale part, Vinayak Patil as 'Developer' of 5240/2015, 494/2020 parties reversed. Second live read: 9304/2023 with no parties, developer role 'Developer (POA Holder)', one NA order read three times.",
+  "subject": {
+    "unit_type": "Flat",
+    "unit_no": "904",
+    "floor": "9th",
+    "wing": "A",
+    "building_name": "Building No. 2 - Mukund Apartment-II",
+    "project_name": "Imperial Palms",
+    "carpet_area": "31.81 sq. m.",
+    "survey_no": "47",
+    "hissa_no": "9",
+    "land_area": "6450 sq. m.",
+    "village": "Waliv",
+    "taluka": "Vasai",
+    "district": "Palghar",
+    "full_description": "Flat No. 904 in A wing on Ninth floor of Building No. 2 known as Mukund Apartment-II in the complex Imperial Palms, carpet area 31.81 sq.mtrs with balcony 2.47 m, constructed on land Survey No. 47, Hissa No. 9, area admeasuring 6450 sq. mtr, Revenue Village Waliv, Taluka Vasai, Dist. Palghar",
+    "search_terms_marathi": [
+      "इंपिरियल पाम्स",
+      "मुकुंद अपार्टमेंट",
+      "युनिवर्स एन्टरप्राइसेस"
+    ],
+    "search_terms_english": [
+      "Imperial Palms",
+      "Mukund Apartment",
+      "Universe Enterprises"
+    ]
+  },
+  "documents": [
+    {
+      "ref": "D1",
+      "doc_type": "Agreement for Sale",
+      "category": "title_transfer",
+      "level": "premises",
+      "execution_status": "draft",
+      "parties": [
+        {
+          "name": "Mr. Sajid Abdul Gaffar Khan",
+          "role": "Vendor"
+        },
+        {
+          "name": "Mr. Sarfaraj Bahadur",
+          "role": "Purchaser"
+        },
+        {
+          "name": "Mrs. Sakara Bano Sarafaraj",
+          "role": "Purchaser"
+        }
+      ],
+      "property_text": "Flat No. 904, A wing, Building No. 2, 9th Floor, 31.81 sq. m. carpet, Imperial Palms Building No. 2 A/B Wing CHS Ltd., Survey No. 47, Hissa No. 9, Village Waliv",
+      "furnished": true
+    },
+    {
+      "ref": "D1b",
+      "doc_type": "Agreement for Sale",
+      "category": "title_transfer",
+      "level": "premises",
+      "execution_status": "executed_not_registered",
+      "parties": [],
+      "property_text": "",
+      "furnished": true
+    },
+    {
+      "ref": "D2",
+      "doc_type": "Agreement for Sale",
+      "category": "title_transfer",
+      "level": "premises",
+      "execution_status": "registered",
+      "exec_date": "11/08/2023",
+      "doc_no_raw": "13054/2023",
+      "sro": "Joint Sub-Registrar Vasai 4",
+      "parties": [
+        {
+          "name": "M/s. Universe Enterprises",
+          "role": "Promoter"
+        },
+        {
+          "name": "Mohsin Mohammad Afzal Khan",
+          "role": "Representative of M/s. Universe Enterprises"
+        },
+        {
+          "name": "Mr. Sajid Abdul Gaffar Khan",
+          "role": "Purchaser"
+        }
+      ],
+      "consideration": "2100000",
+      "property_text": "Flat No. 904, A wing, 9th floor, Building No. 2, Mukund Apartment-II, Imperial Palms, carpet 31.81 sq.mtr plus balcony 2.47 sq.mtr",
+      "furnished": true
+    },
+    {
+      "ref": "D3",
+      "doc_type": "Agreement for Sale",
+      "category": "title_transfer",
+      "level": "premises",
+      "execution_status": "registered",
+      "doc_no_raw": "9304/2023",
+      "sro": "Joint Sub Registrar Class-II, Vasai-4 (Palghar Rural)",
+      "parties": [],
+      "consideration": "2100000",
+      "property_text": "Flat No. 904, A wing, Building No. 2",
+      "furnished": true
+    },
+    {
+      "ref": "D4",
+      "doc_type": "Development Agreement",
+      "category": "development",
+      "level": "land",
+      "execution_status": "registered",
+      "exec_date": "31/12/2014",
+      "doc_no_raw": "Vasai 1 - 5240/2015",
+      "sro": "Sub-Registrar Vasai 1",
+      "parties": [
+        {
+          "name": "Kashinath Mukund Patil",
+          "role": "Owner"
+        },
+        {
+          "name": "Vinayak Mukund Patil",
+          "role": "Owner"
+        },
+        {
+          "name": "Vinayak Mukund Patil",
+          "role": "Developer (POA Holder)"
+        }
+      ],
+      "property_text": "Survey No. 47, Hissa No. 9, 6450 sq. mtr, Village Waliv",
+      "furnished": false
+    },
+    {
+      "ref": "D5",
+      "doc_type": "Distribution Deed",
+      "category": "title_transfer",
+      "level": "land",
+      "execution_status": "registered",
+      "exec_date": "20/01/2020",
+      "doc_no_raw": "Vasai 6-494/2020",
+      "sro": "Sub-Registrar Vasai 6",
+      "parties": [
+        {
+          "name": "Kashinath Mukund Patil",
+          "role": "Vendor"
+        },
+        {
+          "name": "Vinayak Mukund Patil",
+          "role": "Vendor"
+        },
+        {
+          "name": "M/s. Universe Enterprises",
+          "role": "Purchaser"
+        }
+      ],
+      "property_text": "Survey No. 47, Hissa No. 9, Village Waliv",
+      "furnished": false
+    },
+    {
+      "ref": "D6",
+      "doc_type": "Release Deed",
+      "category": "title_transfer",
+      "level": "land",
+      "execution_status": "registered",
+      "exec_date": "20/12/2006",
+      "doc_no_raw": "09915/06",
+      "parties": [
+        {
+          "name": "Bhimabai Mukund Patil",
+          "role": "Releasor"
+        },
+        {
+          "name": "Babibai Nathu Patil",
+          "role": "Releasor"
+        },
+        {
+          "name": "Kashinath Mukund Patil",
+          "role": "Releasee"
+        }
+      ],
+      "property_text": "Survey No. 47, Village Waliv",
+      "furnished": false
+    },
+    {
+      "ref": "D7",
+      "doc_type": "Society Registration Certificate",
+      "category": "society",
+      "level": "premises",
+      "reference_no": "PLR (VSI) HSG / (TC) 2454 / 2024",
+      "parties": [
+        {
+          "name": "Imperial Palms Building No. 2 A / B Wing Co-Operative Housing Society Ltd.",
+          "role": "Society"
+        }
+      ],
+      "furnished": false
+    },
+    {
+      "ref": "D8",
+      "doc_type": "Occupancy Certificate",
+      "category": "approval",
+      "level": "land",
+      "exec_date": "23/06/2022",
+      "reference_no": "VVCMC/TP/O.C/VP-5764/44/2022-23",
+      "parties": [
+        {
+          "name": "Vasai Virar City Municipal Corporation",
+          "role": "Issuing Authority"
+        }
+      ],
+      "furnished": true
+    },
+    {
+      "ref": "D90",
+      "doc_type": "Non-Agricultural (NA) Order",
+      "category": "approval",
+      "level": "land",
+      "exec_date": "19/06/2010",
+      "reference_no": "REV/DESK-I/T-9/NAP/SR-88/2010",
+      "parties": [
+        {
+          "name": "Collector, Palghar",
+          "role": "Issuing Authority"
+        }
+      ],
+      "furnished": false
+    },
+    {
+      "ref": "D91",
+      "doc_type": "N.A. Order",
+      "category": "approval",
+      "level": "land",
+      "exec_date": "19/06/2010",
+      "reference_no": "Mahasul/K-1/T-9/NAP/SR-88/2010",
+      "parties": [
+        {
+          "name": "Collector, Thane",
+          "role": "Issuing Authority"
+        }
+      ],
+      "furnished": false
+    },
+    {
+      "ref": "D92",
+      "doc_type": "Non-Agricultural Permission Order",
+      "category": "approval",
+      "level": "land",
+      "exec_date": "19/06/2010",
+      "reference_no": "Revenue/K-1/Te-9/NAP/SR-88/2010",
+      "parties": [
+        {
+          "name": "Collector, Thane",
+          "role": "Issuing Authority"
+        }
+      ],
+      "furnished": true
+    }
+  ],
+  "chain_parties": [
+    "Universe Enterprises",
+    "Sajid Abdul Gaffar Khan",
+    "Kashinath Mukund Patil",
+    "Vinayak Mukund Patil",
+    "Sarfaraj Bahadur",
+    "Sakara Bano Sarafaraj"
+  ],
+  "receipts": [
+    {
+      "file": "eSearch (1).pdf",
+      "grn": "MH012623964202627U",
+      "receipt_no": "1115587526",
+      "date": "24/10/2026",
+      "fee": "625",
+      "period_from": 2002,
+      "period_to": 2026,
+      "survey_searched": "47",
+      "village": "Valiv"
+    }
+  ],
+  "expect": {
+    "must_find": {
+      "13054/2023": "A",
+      "5240/2015": "B",
+      "494/2020": "B",
+      "5791/2026": "B"
+    },
+    "must_not_find": [
+      "1133/2022",
+      "1340/2022",
+      "2884/2024",
+      "2885/2024",
+      "3369/2020",
+      "868/2026"
+    ],
+    "in_search": [
+      "5240/2015",
+      "494/2020",
+      "9915/2006",
+      "13054/2023"
+    ],
+    "no_doc_no": [
+      "9304/2023"
+    ],
+    "deal": "resale",
+    "proposed_contains": "Sarfaraj",
+    "developer": {
+      "5240/2015": "Universe"
+    },
+    "society_no": "2454",
+    "max_draft_flags": 1,
+    "sro": "Vasai No.1 to 6",
+    "owner_contains": "Sajid",
+    "owner_excludes": "Sarfaraj",
+    "draft": false,
+    "project_mortgage": false,
+    "max_count": {
+      "(?i)n\\.?\\s*a\\.?\\s*order|non-agricultural": 1
+    }
+  }
+}

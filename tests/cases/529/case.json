@@ -1,0 +1,274 @@
+{
+ "lead": "529",
+ "subject": {
+  "unit_type": "Flat",
+  "unit_no": "2601",
+  "wing": "A",
+  "floor": "26th",
+  "building_name": "S3 Woods (Building No. 4)",
+  "project_name": "Sanghvi S3 Ecocity",
+  "survey_no": "102, 88",
+  "hissa_no": "26, 13",
+  "village": "Mire",
+  "taluka": "Thane",
+  "district": "Thane",
+  "full_description": "Flat No. A-2601, 26th Floor, A Wing, S3 Woods Building, Building No. 4, Plot A, Sanghvi S3 Ecocity, Behind Thakur Mall, Mira Road (East), on land bearing old Survey No. 51, 67, new Survey No. 102, 88, Hissa No. 26, 13, Village Mire, Taluka & District Thane",
+  "search_terms_english": [
+   "Sanghvi S3 Ecocity",
+   "S3 Woods",
+   "Sanghvi Premises"
+  ],
+  "search_terms_marathi": [
+   "संघवी एस 3 इकोसिटी",
+   "एस 3 वुड्स",
+   "संघवी प्रिमायसेस"
+  ]
+ },
+ "documents": [
+  {
+   "ref": "D1",
+   "doc_type": "Agreement for Sale",
+   "category": "title_transfer",
+   "level": "premises",
+   "exec_date": "12/12/2024",
+   "parties": [
+    {
+     "name": "M/s. Sanghvi Premises Private Limited",
+     "role": "Promoter"
+    },
+    {
+     "name": "Meenakshi Deepak Pawar",
+     "role": "Purchaser"
+    },
+    {
+     "name": "Mithilesh Dipak Pawar",
+     "role": "Purchaser"
+    }
+   ],
+   "furnished": true,
+   "doc_no_raw": "TNN4-24821-2024",
+   "doc_number": "24821",
+   "doc_year": "2024",
+   "reg_date": "13/12/2024",
+   "sro": "Joint Sub-Registrar Thane 4",
+   "consideration": "8550000",
+   "market_value": "5020835",
+   "stamp_duty": "598500",
+   "registration_fee": "30000",
+   "execution_status": "registered"
+  },
+  {
+   "ref": "D2",
+   "doc_type": "Agreement for Sale",
+   "category": "title_transfer",
+   "level": "premises",
+   "exec_date": "",
+   "parties": [
+    {
+     "name": "M/s. Sanghvi Premises Private Limited",
+     "role": "Promoter"
+    },
+    {
+     "name": "Meenakshi Deepak Pawar",
+     "role": "Purchaser"
+    },
+    {
+     "name": "Mithilesh Dipak Pawar",
+     "role": "Purchaser"
+    }
+   ],
+   "furnished": true,
+   "doc_number": "Document No. 27529",
+   "consideration": "8550000"
+  },
+  {
+   "ref": "D3",
+   "doc_type": "Development Agreement",
+   "category": "development",
+   "level": "land",
+   "exec_date": "30/08/2006",
+   "parties": [
+    {
+     "name": "Mr. Ashish Chandrasen Zaveri",
+     "role": "Owner"
+    },
+    {
+     "name": "Ms. Shalini Chandrasen Zaveri",
+     "role": "Owner"
+    },
+    {
+     "name": "Ms. Ameeta Bharat Bhate",
+     "role": "Owner"
+    },
+    {
+     "name": "Mrs. Yamini Ramnik Kapadia",
+     "role": "Owner"
+    },
+    {
+     "name": "Ms. Nandita Pravin Desai",
+     "role": "Owner"
+    },
+    {
+     "name": "M/s. Sanghvi Premises Private Limited",
+     "role": "Developer"
+    }
+   ],
+   "furnished": false,
+   "doc_no_raw": "TNN7-06968-2006",
+   "doc_number": "TNN7-06968-2006"
+  },
+  {
+   "ref": "D4",
+   "doc_type": "Deed of Conveyance",
+   "category": "title_transfer",
+   "level": "land",
+   "exec_date": "20/01/2012",
+   "parties": [
+    {
+     "name": "Mr. Ashish Chandrasen Zaveri",
+     "role": "Vendor"
+    },
+    {
+     "name": "Ms. Shalini Chandrasen Zaveri",
+     "role": "Vendor"
+    },
+    {
+     "name": "Ms. Ameeta Bharat Bhate",
+     "role": "Vendor"
+    },
+    {
+     "name": "Mrs. Yamini Ramnik Kapadia",
+     "role": "Vendor"
+    },
+    {
+     "name": "Ms. Nandita Pravin Desai",
+     "role": "Vendor"
+    },
+    {
+     "name": "M/s. Sanghvi Premises Private Limited",
+     "role": "Purchaser"
+    }
+   ],
+   "furnished": false,
+   "doc_no_raw": "TNN/7/439/2012",
+   "doc_number": "TNN/7/439/2012",
+   "reg_date": "21/01/2012"
+  },
+  {
+   "ref": "D5",
+   "doc_type": "7/12 Extract",
+   "category": "revenue_record",
+   "level": "land",
+   "exec_date": "prior to 1993",
+   "parties": [],
+   "furnished": true,
+   "issued_by": "Talathi Saza, Mire",
+   "reference_no": "Survey No. 102/26"
+  },
+  {
+   "ref": "D6",
+   "doc_type": "7/12 Extract",
+   "category": "revenue_record",
+   "level": "land",
+   "exec_date": "prior to 1993",
+   "parties": [],
+   "furnished": true,
+   "issued_by": "Talathi Saza, Mire",
+   "reference_no": "Survey No. 88/13"
+  },
+  {
+   "ref": "D7",
+   "doc_type": "Title Certificate",
+   "category": "title_certificate",
+   "level": "land",
+   "exec_date": "02/06/2016",
+   "parties": [
+    {
+     "name": "M/s. Sanghvi Premises Private Limited",
+     "role": "Holder"
+    }
+   ],
+   "furnished": true,
+   "issued_by": "K.S.V. Rao, Advocate"
+  },
+  {
+   "ref": "D8",
+   "doc_type": "Commencement Certificate",
+   "category": "approval",
+   "level": "project",
+   "exec_date": "25/06/2021",
+   "parties": [
+    {
+     "name": "M/s. Sanghvi Premises Private Limited",
+     "role": "Addressee"
+    }
+   ],
+   "furnished": true,
+   "issued_by": "Mira Bhayander Municipal Corporation",
+   "reference_no": "MB/MNP/NR/841/2021-22"
+  },
+  {
+   "ref": "D9",
+   "doc_type": "Part Occupancy Certificate",
+   "category": "approval",
+   "level": "project",
+   "exec_date": "19/06/2024",
+   "parties": [
+    {
+     "name": "M/s. Sanghvi Premises Private Limited",
+     "role": "Addressee"
+    }
+   ],
+   "furnished": true,
+   "issued_by": "Mira Bhayandar Municipal Corporation",
+   "reference_no": "MBMC/PO/2024/APL/00017"
+  },
+  {
+   "ref": "D10",
+   "doc_type": "Occupation Certificate",
+   "category": "approval",
+   "level": "project",
+   "exec_date": "19/06/2024",
+   "parties": [],
+   "furnished": false
+  },
+  {
+   "ref": "D11",
+   "doc_type": "Sanction Letter",
+   "category": "other",
+   "level": "premises",
+   "exec_date": "",
+   "parties": [],
+   "furnished": true,
+   "issued_by": "Tata Capital Housing Finance Ltd"
+  }
+ ],
+ "chain_parties": [
+  "M/s. Sanghvi Premises Private Limited",
+  "Meenakshi Deepak Pawar",
+  "Mithilesh Dipak Pawar"
+ ],
+ "receipts": [
+  {
+   "file": "r.pdf",
+   "receipt_no": "1115555416",
+   "grn": "MH012043731202627U",
+   "fee": "625",
+   "date": "15/10/2026"
+  }
+ ],
+ "expect": {
+  "must_find": {
+   "24821/2024": "A",
+   "5766/2024": "A",
+   "5771/2021": "B",
+   "5774/2021": "B",
+   "10892/2022": "B"
+  },
+  "no_other_AB": true,
+  "sro": "Thane No.",
+  "owner_contains": "Pawar",
+  "draft": false,
+  "project_mortgage": false
+ }
+}

@@ -1,0 +1,49 @@
+# Render Blueprint for the PLJ Legal AI backend.
+# Render → New → Blueprint → pick this repository. Secrets marked "sync: false" are asked for once in the dashboard.
+services:
+  - type: web
+    name: plj-n8n-automation
+    runtime: python
+    plan: starter            # paid plan: the free plan sleeps after 15 min and kills long analysis jobs
+    region: singapore
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT --workers 1
+    healthCheckPath: /health
+    autoDeploy: true
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.13.5
+      # ── secrets: entered in the Render dashboard, never committed ──
+      - key: ANTHROPIC_API_KEY
+        sync: false
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: SUPABASE_URL
+        sync: false
+      - key: SUPABASE_SERVICE_KEY
+        sync: false
+      - key: PLJ_API_KEY
+        sync: false
+      # ── settings (same as the local .env) ──
+      - key: CLAUDE_MODEL
+        value: claude-sonnet-5-5
+      - key: OPENAI_MODEL
+        value: gpt-4o
+      - key: LLM_EXTRACT_IMAGE
+        value: claude
+      - key: LLM_EXTRACT_TEXT
+        value: openai
+      - key: LLM_IGR
+        value: openai
+      - key: LLM_DRAFT
+        value: openai
+      - key: LLM_FALLBACK
+        value: "true"
+      - key: STORAGE_BUCKET
+        value: documents
+      - key: LEADS_TABLE
+        value: Leads
+      - key: DEFAULT_SEARCH_YEARS
+        value: "30"
+      - key: PDF_CHUNK_MAX_PAGES
+        value: "10"

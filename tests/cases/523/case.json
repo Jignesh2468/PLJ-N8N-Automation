@@ -1,0 +1,2811 @@
+{
+ "lead": 523,
+ "subject": {
+  "unit_type": "Flat",
+  "unit_no": "201",
+  "building_name": "Jilani Heights",
+  "district": "Mumbai Suburban",
+  "pin": "400070",
+  "road_locality": "Hutatma Prabhakar Keluskar Marg, Match Factory Lane, Kurla West, Mumbai",
+  "full_description": "Self contained flat premises being Flat No. 201 on the 2nd Floor in the building known as 'JILANI HEIGHTS Co-op Hsg Society Ltd' situated at Hutatma Prabhakar Keluskar Marg, Match Factory Lane, Kurla West, Mumbai-400070, area admeasuring about 51.20 Sq. Mtrs. Carpet, in a registered Co-op Society having registration No. (MUM-2/WL/HSG/TC/10687/2014-2015) together with 05 shares under Share Certificate No.4 of Rs.50/- each bearing distinctive Nos. 16 to 20, on C.T.S. No. 196, 196/1 to 4, containing two bedrooms, living room and kitchen, in the revenue village of Kurla-4, year of construction 2010",
+  "search_terms_marathi": [
+   "Jilani Heights",
+   "Jilani Heights Co-op Housing Society",
+   "Fidvi",
+   "Jilani Heights",
+   "I. Y. Paik Realtors",
+   "Saifuddin Hashim Fidvi",
+   "Fatema Saifuddin Fidvi",
+   "Saifuddin Hashim Fidvi",
+   "Fatema Saifuddin Fidvi",
+   "I Y Paik Realtors",
+   "Dilani Heights",
+   "I Y Paik Realtors",
+   "Paik Realtors",
+   "Ambika Bhuwan",
+   "Durgabai Govind Dhavale",
+   "Arun Govind Dhavale",
+   "Jilani Heights Co-op Housing Society",
+   "I. Y. Paik Realtors",
+   "Ashfaq Abdul Razzak Kalaniya"
+  ],
+  "search_terms_english": [
+   "Jilani Heights",
+   "Saifuddin Hashim Fidvi",
+   "Fatima S Fidvi",
+   "Jilani Heights CHS Ltd",
+   "Fidvi",
+   "Sajuddin H. Fidvi",
+   "Fatema S. Fidvi",
+   "I.Y. Payak Realtors",
+   "IY Payak Realtors",
+   "Fatema Saifuddin Fidvi",
+   "Jilani Heights Co-op Hsg Soc Ltd",
+   "I.Y Payak Realtors",
+   "I Y Payak Realtors",
+   "Dilani Heights",
+   "Dilani Heights Kurla",
+   "Ambika Bhuvan",
+   "Durgabai Govind Dhavle",
+   "Arun Govind Dhavle",
+   "Jilani Heights CHSL",
+   "Jilani Heights Co-op Hsg Society Ltd",
+   "Ashfak Abdul Razak Kalaniya"
+  ],
+  "floor": "2nd Floor",
+  "carpet_area": "51.20 sq. Mtrs",
+  "cts_no": "196",
+  "village": "Kurla",
+  "taluka": "Kurla",
+  "project_name": "Dilani Heights",
+  "builtup_area": "61.44 sq. mtrs",
+  "land_area": "518 sq. metres"
+ },
+ "documents": [
+  {
+   "ref": "ChainAGM19cb5-7",
+   "doc_type": "Deed of Conveyance",
+   "category": "title_transfer",
+   "level": "land",
+   "furnished": false,
+   "execution_status": "registered",
+   "exec_date": "12/05/1948",
+   "reg_date": "12/05/1948",
+   "doc_number": "528",
+   "doc_year": "1948",
+   "doc_no_raw": "528",
+   "sro": "Sub-Registrar Bandra",
+   "parties": [
+    {
+     "name": "Sayyad Manzur Husein Sayyad Ahmed Kadri",
+     "role": "Vendor"
+    },
+    {
+     "name": "Sayad Usman Sayyad Ahmed Kadri",
+     "role": "Vendor"
+    },
+    {
+     "name": "Sayyad Abdul Kadir Sayyad Ahmed Kadri",
+     "role": "Vendor"
+    },
+    {
+     "name": "Munira Begum w/o Dr. Mahomed Amin Sayyad Manomed Kabir",
+     "role": "Vendor"
+    },
+    {
+     "name": "Dr. Govind Dattatray Dhavle",
+     "role": "Purchaser"
+    }
+   ],
+   "property_text": "Non-agricultural land about 632 sq. yards, Survey No. 740, Village Kurla, with a bungalow and a chawl, at road now known as Hutama Prabhakar Keluskar Marg, off Belgrami Road, Kurla (W)",
+   "short_description": "Recited Deed of Conveyance dated 12/05/1948 (Serial No. 528) registered at Sub-Registrar Bandra in favour of Dr. Govind Dattatray Dhavle",
+   "key_terms": [
+    "Recited in Agreement for Sale: land sold absolutely with structures to Dr. Govind Dattatray Dhavle",
+    "Recited in Title Certificate: registered 12/05/1948 under Serial No. 526 at Sub-Registrar, Bandra"
+   ],
+   "reference_no": "",
+   "issued_by": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "parent_ref": "",
+   "pages": "",
+   "files": [
+    "Chain_AGM_1.pdf"
+   ],
+   "file": "Chain_AGM_1.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM19cb5-8",
+   "doc_type": "Declaration (Sworn, Pune)",
+   "category": "other",
+   "level": "land",
+   "furnished": false,
+   "execution_status": "",
+   "exec_date": "10/12/2007",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Mrs. Sunila Ramesh Hardikar (Nee Miss Sunila Govind Dhavle)",
+     "role": "Declarant"
+    }
+   ],
+   "property_text": "Property of late Dr. Govind Dattatray Dhavle, Kurla",
+   "short_description": "Recited sworn declaration dated 10/12/2007 at Pune by Mrs. Sunila Ramesh Hardikar disclaiming interest in the property",
+   "key_terms": [
+    "Declares no wish to claim any right, title or interest in the property after her marriage"
+   ],
+   "reference_no": "",
+   "issued_by": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "parent_ref": "",
+   "pages": "",
+   "files": [
+    "Chain_AGM_1.pdf"
+   ],
+   "file": "Chain_AGM_1.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM19cb5-32",
+   "doc_type": "Declaration (Release / No-claim)",
+   "category": "other",
+   "level": "land",
+   "furnished": false,
+   "execution_status": "executed_not_registered",
+   "exec_date": "10/12/2007",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Mrs. Sunita Ramesh Hardikar (Nee' Miss Sunita Govind Dhavle)",
+     "role": "Declarant"
+    }
+   ],
+   "property_text": "Land with structures at C.T.S. No. 196, 196/1 to 4, Kurla (W), Mumbai",
+   "short_description": "Recited declaration sworn at Pune on 10/12/2007 by Mrs. Sunita Ramesh Hardikar giving up her claim in the property of late Dr. Govind Dhavle",
+   "key_terms": [
+    "Declaration sworn at Pune confirming she has no wish to claim any right, title or interest in the property after her marriage"
+   ],
+   "reference_no": "",
+   "issued_by": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "parent_ref": "",
+   "pages": "",
+   "files": [
+    "Chain_AGM_1.pdf"
+   ],
+   "file": "Chain_AGM_1.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM19cb5-9",
+   "doc_type": "Deed of Conveyance",
+   "category": "title_transfer",
+   "level": "land",
+   "furnished": false,
+   "execution_status": "registered",
+   "exec_date": "23/04/2008",
+   "reg_date": "23/04/2008",
+   "doc_number": "3386",
+   "doc_year": "2008",
+   "doc_no_raw": "3386/2008",
+   "sro": "Sub-Registrar Kurla-1",
+   "parties": [
+    {
+     "name": "Smt. Durgabai Govind Dhavle",
+     "role": "Vendor"
+    },
+    {
+     "name": "Dr. Arun Govind Dhavle",
+     "role": "Vendor"
+    },
+    {
+     "name": "M/s I Y Payak Realtors",
+     "role": "Purchaser"
+    }
+   ],
+   "property_text": "Non-agricultural freehold land about 518 sq. metres, C.T.S. No. 196, 196/1 to 4 of Kurla Division-IV, Taluka Kurla, Mumbai Suburban District, Hutama Prabhakar Keluskar Marg, off Belgrami Road, Kurla (W), Mumbai 400070",
+   "short_description": "Recited Deed of Conveyance dated 23/04/2008 registered under No. 3386/2008 (BDR-3) in favour of M/s I Y Payak Realtors",
+   "key_terms": [
+    "Recited: Builders became owner of land with full rights, title and interest over development",
+    "Recited in Title Certificate as dated 23/04/2008, registration No. 03386/2008, BDR-3"
+   ],
+   "reference_no": "",
+   "issued_by": "",
+   "consideration": "25000000",
+   "market_value": "14427084",
+   "stamp_duty": "1250000",
+   "registration_fee": "30000",
+   "parent_ref": "",
+   "pages": "",
+   "files": [
+    "Chain_AGM_1.pdf"
+   ],
+   "file": "Chain_AGM_1.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM19cb5-22",
+   "doc_type": "Intimation of Disapproval (IOD) - conditions pages",
+   "category": "approval",
+   "level": "project",
+   "furnished": true,
+   "execution_status": "",
+   "exec_date": "05/05/2008",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Executive Engineer, Building Proposals (Eastern Suburbs), Municipal Corporation of Greater Mumbai",
+     "role": "Issuing Authority"
+    }
+   ],
+   "property_text": "",
+   "short_description": "Conditions of Intimation of Disapproval No. CE/4234/BPES/A dated 05/05/2008 issued by Executive Engineer (Building Proposals) Eastern Suburbs, MCGM",
+   "key_terms": [
+    "Conditions to be complied before C.C. and before O.C",
+    "Registered undertaking to form Co-op. Housing Society to be submitted",
+    "No Objection Certificate from Hydraulic Engineer required for the proposed development",
+    "N.A. permission from the Collector of Bombay to be submitted",
+    "Conditions regarding NOC from Chief Fire Officer, Civil Aviation, and insecticide and drainage requirements"
+   ],
+   "reference_no": "CE/4234/BPES/A",
+   "issued_by": "Executive Engineer, Building Proposals (Eastern Suburbs), Brihanmumbai Mahanagarpalika",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "parent_ref": "",
+   "pages": "31-36",
+   "files": [
+    "Chain_AGM_1.pdf"
+   ],
+   "file": "Chain_AGM_1.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM19cb5-37",
+   "doc_type": "Registered Document (earlier deed)",
+   "category": "title_transfer",
+   "level": "premises",
+   "furnished": false,
+   "execution_status": "registered",
+   "exec_date": "",
+   "reg_date": "01/12/2008",
+   "doc_number": "9899",
+   "doc_year": "2008",
+   "doc_no_raw": "9899/2008",
+   "sro": "Kurla",
+   "parties": [],
+   "property_text": "",
+   "short_description": "Deed registered under No. 9899/2008 at Sub-Registrar Kurla, evidenced by its Dast Goshwara; deed type and parties not legible",
+   "key_terms": [],
+   "reference_no": "",
+   "issued_by": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "parent_ref": "",
+   "pages": "",
+   "files": [
+    "Chain_AGM_1.pdf"
+   ],
+   "file": "Chain_AGM_1.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM19cb5-36",
+   "doc_type": "Dast Goshwara (Registration Summary) with endorsement",
+   "category": "registration_record",
+   "level": "premises",
+   "furnished": true,
+   "execution_status": "registered",
+   "exec_date": "",
+   "reg_date": "01/12/2008",
+   "doc_number": "9899",
+   "doc_year": "2008",
+   "doc_no_raw": "9899/2008",
+   "sro": "Kurla",
+   "parties": [],
+   "property_text": "",
+   "short_description": "Dast Goshwara (Part 1 and 2) of document No. 9899/2008 presented on 01/12/2008, Sub-Registrar Kurla, with endorsement dated 07/03/2011",
+   "key_terms": [
+    "Dast Goshwara Part 1 and Part 2 with executants' photographs and thumb impressions",
+    "Page 54 carries a Marathi endorsement dated 07/03/2011"
+   ],
+   "reference_no": "",
+   "issued_by": "Sub-Registrar, Kurla",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "parent_ref": "ChainAGM19cb5-37",
+   "pages": "52-54",
+   "files": [
+    "Chain_AGM_1.pdf"
+   ],
+   "file": "Chain_AGM_1.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM19cb5-26",
+   "doc_type": "Title Certificate",
+   "category": "title_certificate",
+   "level": "land",
+   "furnished": true,
+   "execution_status": "",
+   "exec_date": "19/12/2008",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Vinod B. Singh, Advocate High Court",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "M/s I.Y. Payak Realtors",
+     "role": "Holder"
+    }
+   ],
+   "property_text": "Land admeasuring about 518 sq. meters bearing C.T.S. No. 196, 196/1 to 4, Kurla Division-IV, Taluka Kurla, Mumbai Suburban, Hutatma Prabhakar Keluskar Marg, off Belgrami Road, Kurla (W), with bungalow Ambika Bhuvan and chawl of 4 tenanted tenements",
+   "short_description": "Title Certificate dated 19/12/2008 issued by Advocate Vinod B. Singh, High Court, certifying title of M/s I.Y. Payak Realtors to land C.T.S. No. 196, 196/1 to 4 at Kurla (W), Mumbai as marketable and free from encumbrances",
+   "key_terms": [
+    "Land with structures stood in names of Smt. Durgabai Govind Dhavle and Dr. Arun Govind Dhavle in the property register card",
+    "Pre-1948 joint owners conveyed to Dr. Govind Dattatray Dhavle by conveyance registered 12/05/1948 under Serial No. 526 (Sub-Registrar Bandra)",
+    "Dr. Govind Dhavle died intestate; heirs: widow Smt. Durgabai, son Dr. Arun, daughter Mrs. Sunita Ramesh Hardikar",
+    "Mrs. Sunita Hardikar gave up her claim; declaration sworn at Pune 10/12/2007",
+    "Conveyance dated 23/04/2008 (Reg. No. 03386/2008) in favour of M/s I.Y. Payak Realtors through partners Shri Ismail Yakub Payak and Shri Rajesh Keshavji Chheda",
+    "Certifies I.Y. Payak Realtors have full right, title and interest; land with structure marketable and free from encumbrances"
+   ],
+   "reference_no": "",
+   "issued_by": "Vinod B. Singh, Advocate High Court, Sayba Palace, 17, 2nd Floor, Naw Mill Road, Kurla (W), Mumbai 400 070",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "parent_ref": "",
+   "pages": "41-44",
+   "files": [
+    "Chain_AGM_1.pdf"
+   ],
+   "file": "Chain_AGM_1.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM19cb5-27",
+   "doc_type": "Special Power of Attorney",
+   "category": "other",
+   "level": "project",
+   "furnished": true,
+   "execution_status": "registered",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_number": "2099",
+   "doc_year": "2008",
+   "doc_no_raw": "2099/2008",
+   "sro": "Sub-Registrar Bandra-3 (BDR-3)",
+   "parties": [
+    {
+     "name": "I.Y. Payak Realtors",
+     "role": "Principal (Grantor, Partnership Firm)"
+    },
+    {
+     "name": "Shri Ismail Yakub Payak",
+     "role": "Representative of I.Y. Payak Realtors"
+    },
+    {
+     "name": "Shri Rajesh Keshavji Chheda",
+     "role": "Representative of I.Y. Payak Realtors"
+    },
+    {
+     "name": "Mr. Shaikh Irfan",
+     "role": "Attorney (Power of Attorney holder) of I.Y. Payak Realtors"
+    }
+   ],
+   "property_text": "Land bearing C.T.S. No. 196, 196 (1 to 4), Hutatma Prabhakar Keloskar Marg, Match Factory Lane, Kurla (W), Mumbai 400 070, on which the firm is developing / selling flats, shops and galas",
+   "short_description": "Special Power of Attorney executed in November 2008 by I.Y. Payak Realtors through its partners in favour of Mr. Shaikh Irfan for lodging and admitting execution of agreements for sale before Sub-Registrar, Bandra-3",
+   "key_terms": [
+    "Firm appoints Mr. Shaikh Irfan (Flat A-4, Majid Panwala Compound, Opp. Kurla Police Station, Kurla (W)) as attorney",
+    "Attorney to present and lodge Agreements for sale of flats/shops/galas for registration, admit execution before the Sub-Registrar and do all acts for effective registration",
+    "Attorney to answer queries of the Sub-Registrar and collect registered originals, Index-II and certified copies",
+    "Firm agrees to ratify acts of the attorney; signed by both partners, accepted by the attorney"
+   ],
+   "reference_no": "",
+   "issued_by": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "500",
+   "registration_fee": "",
+   "parent_ref": "",
+   "pages": "46-48",
+   "files": [
+    "Chain_AGM_1.pdf"
+   ],
+   "file": "Chain_AGM_1.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM19cb5-28",
+   "doc_type": "Registration Receipt",
+   "category": "registration_record",
+   "level": "project",
+   "furnished": true,
+   "execution_status": "",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "Sub-Registrar Bandra-3 (BDR-3)",
+   "parties": [],
+   "property_text": "",
+   "short_description": "Registration receipt (Pavati) for the Special Power of Attorney No. 2099 lodged at the office of Sub-Registrar, Bandra-3, 'Original' copy, document delivered",
+   "key_terms": [],
+   "reference_no": "",
+   "issued_by": "Sub-Registrar of Assurances, Bandra-3",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "500",
+   "registration_fee": "",
+   "parent_ref": "ChainAGM19cb5-27",
+   "pages": "45",
+   "files": [
+    "Chain_AGM_1.pdf"
+   ],
+   "file": "Chain_AGM_1.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM19cb5-29",
+   "doc_type": "Stamp Paper Receipt (MSSIDC)",
+   "category": "receipt",
+   "level": "project",
+   "furnished": true,
+   "execution_status": "",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Maharashtra Small Scale Industries Development Corporation Ltd.",
+     "role": "Issuing Authority"
+    }
+   ],
+   "property_text": "",
+   "short_description": "MSSIDC cash receipt No. 102870 annexed to the Special Power of Attorney (stamp vendor receipt)",
+   "key_terms": [],
+   "reference_no": "102870",
+   "issued_by": "Maharashtra Small Scale Industries Development Corporation Ltd. (MSSIDC), MHADA, Griha Nirman Bhavan, Bandra (E), Mumbai 400 051",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "parent_ref": "ChainAGM19cb5-27",
+   "pages": "49-50",
+   "files": [
+    "Chain_AGM_1.pdf"
+   ],
+   "file": "Chain_AGM_1.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM19cb5-30",
+   "doc_type": "Election Identity Card",
+   "category": "identity",
+   "level": "project",
+   "furnished": true,
+   "execution_status": "",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Election Commission of India",
+     "role": "Issuing Authority"
+    }
+   ],
+   "property_text": "",
+   "short_description": "Copy of Election Commission of India Identity Card of an executant, annexed to the Special Power of Attorney",
+   "key_terms": [],
+   "reference_no": "",
+   "issued_by": "Election Commission of India",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "parent_ref": "ChainAGM19cb5-27",
+   "pages": "50",
+   "files": [
+    "Chain_AGM_1.pdf"
+   ],
+   "file": "Chain_AGM_1.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM19cb5-25",
+   "doc_type": "Full Occupation Permission / Occupation Certificate",
+   "category": "approval",
+   "level": "project",
+   "furnished": true,
+   "execution_status": "",
+   "exec_date": "27/04/2010",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Executive Engineer (Building Proposals) (E.S.) I, Municipal Corporation of Greater Mumbai",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "M/s. L.Y. Payak Realtors",
+     "role": "Addressee"
+    }
+   ],
+   "property_text": "Building on plot bearing C.T.S. No. 196, 196/1 to 4 of Village Kurla - IV, Kurla (W), Mumbai - Gr. + 1st to 8th upper floors",
+   "short_description": "Full Occupation Permission No. CE/4234/BPES/A dated 27/04/2010 issued by Executive Engineer (Building Proposals) E.S., MCGM to M/s. L.Y. Payak Realtors for building on C.T.S. No. 196, 196/1 to 4, Kurla - IV",
+   "key_terms": [
+    "Full occupation permission for Gr. + 1st to 8th upper floors",
+    "Work completed under supervision of Licensed Surveyor Shri Sanjay Shekhar (Lic. No. S/621/LS) and Licensed Structural Engineer Shri Vikas V. Gokhale (Lic. No. STR/G/42)",
+    "Certificate under Section 270-A of Mumbai Municipal Corporation Act to be submitted within 3 months",
+    "Permission issued without prejudice to action under Section 353-A of MMC Act",
+    "Full occupation permission for Ground + 1st to 8th upper floors",
+    "Work completed under Licensed Surveyor Sandip Shekhar (Lic. No. S/621/LS) and Structural Engineer Shri Vikas V. Gokhale (Lic. No. STR/G/42)",
+    "Condition: Certificate under Section 270-A of the Mumbai Municipal Corporation Act to be submitted within 3 months"
+   ],
+   "reference_no": "CE/4234/BPES/A",
+   "issued_by": "Executive Engineer (Building Proposals) (E.S.), Municipal Corporation of Greater Mumbai",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "parent_ref": "",
+   "pages": "40",
+   "files": [
+    "Chain_AGM_1.pdf",
+    "Chain_AGM_2.pdf"
+   ],
+   "file": "Chain_AGM_1.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM19cb5-1",
+   "doc_type": "Agreement for Sale",
+   "category": "title_transfer",
+   "level": "premises",
+   "furnished": true,
+   "execution_status": "registered",
+   "exec_date": "04/03/2011",
+   "reg_date": "07/03/2011",
+   "doc_number": "2542",
+   "doc_year": "2011",
+   "doc_no_raw": "बदर3/2542/2011",
+   "sro": "Sub-Registrar Kurla-1",
+   "parties": [
+    {
+     "name": "M/s I Y Payak Realtors",
+     "role": "Builder"
+    },
+    {
+     "name": "Shri Ismail Yakub Payak",
+     "role": "Representative of M/s I Y Payak Realtors"
+    },
+    {
+     "name": "Shri Rajesh Keshavji Chheda",
+     "role": "Representative of M/s I Y Payak Realtors"
+    },
+    {
+     "name": "Mr. Saifuddin Hashim Fidvi",
+     "role": "Purchaser"
+    },
+    {
+     "name": "Mrs. Fatema Saifuddin Fidvi",
+     "role": "Purchaser"
+    }
+   ],
+   "property_text": "Flat No. 201, 2nd floor, Dilani Heights, C.T.S. No. 196, 196/1 to 4 of Kurla Division-IV, Hutama Prabhakar Keluskar Marg, off Belgrami Road, Kurla (W), Mumbai 400070; carpet area about 51.20 sq. metres",
+   "short_description": "Agreement for Sale dated 04/03/2011 between M/s I Y Payak Realtors (Builders) and Mr. Saifuddin Hashim Fidvi and Mrs. Fatema Saifuddin Fidvi (Purchasers) for Flat No. 201, Dilani Heights, Kurla (W), registered under No. 2542/2011 at Kurla-1",
+   "key_terms": [
+    "Builders to develop the land and construct the building as per sanctioned plans",
+    "Flat No. 201 on 2nd floor, carpet area about 51.20 sq. metres",
+    "Title recited: Conveyance dated 23/04/2008 (No. 3386/2008) in favour of the Builders for about 518 sq. metres, C.T.S. 196, 196/1 to 4",
+    "Builders reserve the right to modify plans",
+    "Purchasers to form a Co-operative Housing Society / ultimate body",
+    "Title certified by Builders' advocate (Annexure D)",
+    "Recited: Vendors purchased the flat from the builder under this agreement",
+    "Recited as the registered agreement by which the present Vendors jointly purchased the flat",
+    "Original agreement reported lost; only recited in the public notice and police report",
+    "Owner declares no loan or lien created on the flat"
+   ],
+   "reference_no": "",
+   "issued_by": "",
+   "consideration": "",
+   "market_value": "2985984",
+   "stamp_duty": "147600",
+   "registration_fee": "30000",
+   "parent_ref": "",
+   "pages": "7-10",
+   "files": [
+    "Chain_AGM_1.pdf",
+    "Chain_AGM_2.pdf",
+    "Draft_agreement.pdf",
+    "papar_publication.pdf"
+   ],
+   "file": "Chain_AGM_1.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM19cb5-2",
+   "doc_type": "Index-II",
+   "category": "registration_record",
+   "level": "premises",
+   "furnished": true,
+   "execution_status": "registered",
+   "exec_date": "04/03/2011",
+   "reg_date": "07/03/2011",
+   "doc_number": "2542",
+   "doc_year": "2011",
+   "doc_no_raw": "2542/2011",
+   "sro": "Sub-Registrar Kurla-1",
+   "parties": [
+    {
+     "name": "M/s I.Y. Payak Realtors",
+     "role": "Vendor"
+    },
+    {
+     "name": "Saifuddin Hashim Fidvi",
+     "role": "Purchaser"
+    }
+   ],
+   "property_text": "Flat No. 201, 2nd floor, Dilani Heights, Hutama Keluskar Marg off CTS-196, Belgrami Road, Kurla (W), Mumbai 70",
+   "short_description": "Index-II of Document No. 2542/2011 (Agreement for Sale) registered on 07/03/2011 at Sub-Registrar Kurla-1",
+   "key_terms": [
+    "Execution 04/03/2011; registration 07/03/2011; Serial No. 2542/2011",
+    "Market-value stamp duty Rs.147600; registration fee Rs.30000"
+   ],
+   "reference_no": "",
+   "issued_by": "Sub-Registrar Kurla-1, Mumbai Suburban District",
+   "consideration": "",
+   "market_value": "2985984",
+   "stamp_duty": "147600",
+   "registration_fee": "30000",
+   "parent_ref": "ChainAGM19cb5-1",
+   "pages": "2",
+   "files": [
+    "Chain_AGM_1.pdf"
+   ],
+   "file": "Chain_AGM_1.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM2eb87-12",
+   "doc_type": "Index-II",
+   "category": "registration_record",
+   "level": "premises",
+   "furnished": true,
+   "execution_status": "registered",
+   "exec_date": "04/03/2011",
+   "reg_date": "07/03/2011",
+   "doc_number": "2542",
+   "doc_year": "2011",
+   "doc_no_raw": "2542/2011",
+   "sro": "Sub-Registrar Kurla-1",
+   "parties": [],
+   "property_text": "Village Kurla",
+   "short_description": "Index-II (certified copy) of Document No.2542/2011 executed 04/03/2011 and registered 07/03/2011 at Sub-Registrar Kurla-1",
+   "key_terms": [],
+   "reference_no": "",
+   "issued_by": "Sub-Registrar Kurla-1 (certified copy)",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "47800",
+   "registration_fee": "30000",
+   "parent_ref": "ChainAGM19cb5-1",
+   "pages": "19",
+   "files": [
+    "Chain_AGM_2.pdf"
+   ],
+   "file": "Chain_AGM_2.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM19cb5-4",
+   "doc_type": "Valuation Report (Mulyankan Patrak)",
+   "category": "other",
+   "level": "premises",
+   "furnished": true,
+   "execution_status": "",
+   "exec_date": "07/03/2011",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Sub-Registrar Kurla-1 / Inspector General of Registration",
+     "role": "Issuing Authority"
+    }
+   ],
+   "property_text": "C.T.S. No. 196, Kurla, Mumbai (Suburban); residential flat, built-up area 61.44 sq. metres, rate Rs.48600 per sq. metre",
+   "short_description": "Valuation report dated 07/03/2011 for Flat No. 201 showing market value Rs.29,85,984/- (Rs.48,600 per sq. metre x 61.44 sq. metres)",
+   "key_terms": [
+    "Residential flat rate Rs.48600 per sq. metre; area 61.44 sq. metres",
+    "Market value Rs.2985984"
+   ],
+   "reference_no": "",
+   "issued_by": "Registration and Stamps Department, Maharashtra",
+   "consideration": "",
+   "market_value": "2985984",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "parent_ref": "ChainAGM19cb5-1",
+   "pages": "4",
+   "files": [
+    "Chain_AGM_1.pdf"
+   ],
+   "file": "Chain_AGM_1.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM19cb5-42",
+   "doc_type": "Index-II / Dast Goshwara (Part 1 and 2)",
+   "category": "registration_record",
+   "level": "premises",
+   "furnished": true,
+   "execution_status": "registered",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_number": "2542",
+   "doc_year": "2011",
+   "doc_no_raw": "2542/2011",
+   "sro": "Kurla",
+   "parties": [],
+   "property_text": "",
+   "short_description": "Dast Goshwara Part 1 and 2 of document No. 2542/2011 issued by Sub-Registrar, Kurla",
+   "key_terms": [
+    "Dast Goshwara Part 1 and Part 2 of document No. 2542/2011",
+    "Photographs and thumb impressions of executants; signed and sealed by Sub-Registrar"
+   ],
+   "reference_no": "",
+   "issued_by": "Sub-Registrar, Kurla",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "parent_ref": "ChainAGM19cb5-1",
+   "pages": "59-60",
+   "files": [
+    "Chain_AGM_1.pdf"
+   ],
+   "file": "Chain_AGM_1.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM19cb5-5",
+   "doc_type": "Copy Fee Receipt (certified copy of document)",
+   "category": "receipt",
+   "level": "premises",
+   "furnished": true,
+   "execution_status": "",
+   "exec_date": "06/10/2022",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Sub-Registrar Kurla-1",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Siraj Malgaonkar",
+     "role": "Applicant"
+    }
+   ],
+   "property_text": "Copy of document No. 3/2542/2011",
+   "short_description": "Receipt No. 20643 dated 06/10/2022 for Rs.285/- cash, copy of Document No. 3/2542/2011, Sub-Registrar Kurla-1",
+   "key_terms": [
+    "Fee Rs.285 paid in cash on 06/10/2022 for copy of Document 3/2542/2011"
+   ],
+   "reference_no": "20643",
+   "issued_by": "Sub-Registrar Kurla-1 (Class-2)",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "285",
+   "parent_ref": "ChainAGM19cb5-1",
+   "pages": "1",
+   "files": [
+    "Chain_AGM_1.pdf"
+   ],
+   "file": "Chain_AGM_1.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM19cb5-3",
+   "doc_type": "e-Stamp Certificate and SHCIL Receipt",
+   "category": "receipt",
+   "level": "premises",
+   "furnished": true,
+   "execution_status": "",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "M/s I Y Payak Realtors",
+     "role": "First Party"
+    },
+    {
+     "name": "Saifuddin Hashim Fidvi",
+     "role": "Second Party"
+    },
+    {
+     "name": "Saifuddin Hashim Fidvi",
+     "role": "Stamp Duty Paid By"
+    },
+    {
+     "name": "Stock Holding Corporation of India Ltd (SHCIL)",
+     "role": "Issuing Authority"
+    }
+   ],
+   "property_text": "Flat 201, Dilani Heights, Hutama Keluskar Marg off CTS-196, Belgrami Rd, Kurla W, Mumbai-70",
+   "short_description": "e-Stamp Certificate No. IN-MH02032606359052J dated 26/02/2011 for Rs.1,47,600/- with SHCIL receipt dated 28/02/2011 for the Agreement for Sale",
+   "key_terms": [
+    "e-Stamp certificate issued 26/02/2011, Article 25(b)(d) Conveyance, Rs.147600",
+    "SHCIL receipt dated 28/02/2011 against pay order No. 088384 dated 23/02/2011 of Canara Bank, Kurla, for Rs.147600"
+   ],
+   "reference_no": "IN-MH02032606359052J",
+   "issued_by": "Stock Holding Corporation of India Ltd, SHCIL Bandra",
+   "consideration": "0",
+   "market_value": "",
+   "stamp_duty": "147600",
+   "registration_fee": "",
+   "parent_ref": "ChainAGM19cb5-1",
+   "pages": "5-6",
+   "files": [
+    "Chain_AGM_1.pdf"
+   ],
+   "file": "Chain_AGM_1.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM19cb5-38",
+   "doc_type": "Floor Plan (Flat No. 201)",
+   "category": "plan",
+   "level": "premises",
+   "furnished": true,
+   "execution_status": "",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "L. Y. Payak Realtors",
+     "role": "Developer"
+    }
+   ],
+   "property_text": "Flat No. 201, 2nd floor, proposed building, Kurla (W), Mumbai; 1st to 8th floor plan",
+   "short_description": "Floor plan of Flat No. 201, 2nd floor, of the proposed building of developer L. Y. Payak Realtors, Kurla (W), Mumbai, annexed to the registered deed",
+   "key_terms": [
+    "Flat No. 201 on 2nd floor",
+    "Plan titled 1st to 8th Floor Plan",
+    "Carpet area noted on plan (illegible)"
+   ],
+   "reference_no": "",
+   "issued_by": "Sai Consultant (architect / consultant)",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "parent_ref": "ChainAGM19cb5-1",
+   "pages": "55-56",
+   "files": [
+    "Chain_AGM_1.pdf"
+   ],
+   "file": "Chain_AGM_1.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM19cb5-40",
+   "doc_type": "Payment Challan / Receipt",
+   "category": "receipt",
+   "level": "premises",
+   "furnished": true,
+   "execution_status": "",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [],
+   "property_text": "",
+   "short_description": "Computer-generated government payment challan/receipt page annexed to the registered deed; amounts illegible",
+   "key_terms": [],
+   "reference_no": "",
+   "issued_by": "Bank / Government receipt (Registration / stamp duty)",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "parent_ref": "ChainAGM19cb5-1",
+   "pages": "57",
+   "files": [
+    "Chain_AGM_1.pdf"
+   ],
+   "file": "Chain_AGM_1.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM19cb5-10",
+   "doc_type": "Property Card Extract (Annexure A)",
+   "category": "revenue_record",
+   "level": "land",
+   "furnished": false,
+   "execution_status": "",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "City Survey Office",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "M/s I Y Payak Realtors",
+     "role": "Holder"
+    }
+   ],
+   "property_text": "C.T.S. No. 196, 196/1 to 4 of Kurla Division-IV",
+   "short_description": "Annexure A to the Agreement: extract of property card of C.T.S. No. 196, 196/1 to 4, Kurla Division-IV",
+   "key_terms": [
+    "Annexure A: extract of property card showing land under development in name of the Builders"
+   ],
+   "reference_no": "",
+   "issued_by": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "parent_ref": "ChainAGM19cb5-1",
+   "pages": "",
+   "files": [
+    "Chain_AGM_1.pdf"
+   ],
+   "file": "Chain_AGM_1.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM19cb5-11",
+   "doc_type": "Intimation of Disapproval / Sanction of Building Plans (Annexure B)",
+   "category": "approval",
+   "level": "project",
+   "furnished": false,
+   "execution_status": "",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Municipal Corporation of Greater Bombay",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "M/s I Y Payak Realtors",
+     "role": "Addressee"
+    }
+   ],
+   "property_text": "Proposed residential and commercial building on C.T.S. No. 196, 196/1 to 4, Kurla",
+   "short_description": "Annexure B: sanction / I.O.D. of Municipal Corporation of Greater Bombay No. CE/4234/BPES/AL for the proposed building",
+   "key_terms": [
+    "Annexure B: sanction / permission / I.O.D. with extract of sanctioned plan"
+   ],
+   "reference_no": "CE/4234/BPES/AL",
+   "issued_by": "Municipal Corporation of Greater Bombay",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "parent_ref": "ChainAGM19cb5-1",
+   "pages": "",
+   "files": [
+    "Chain_AGM_1.pdf"
+   ],
+   "file": "Chain_AGM_1.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM19cb5-13",
+   "doc_type": "Title Certificate (Annexure D)",
+   "category": "title_certificate",
+   "level": "land",
+   "furnished": false,
+   "execution_status": "",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Advocate for the Builders",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "M/s I Y Payak Realtors",
+     "role": "Addressee"
+    }
+   ],
+   "property_text": "Land bearing C.T.S. No. 196, 196/1 to 4, Kurla Division-IV",
+   "short_description": "Annexure D: Title Certificate issued by the advocate for the Builders for the land at Kurla",
+   "key_terms": [
+    "Annexure D: title of the owners to the said land duly certified by the Builders' advocate"
+   ],
+   "reference_no": "",
+   "issued_by": "Advocate for the Builders",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "parent_ref": "ChainAGM19cb5-1",
+   "pages": "",
+   "files": [
+    "Chain_AGM_1.pdf"
+   ],
+   "file": "Chain_AGM_1.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM19cb5-17",
+   "doc_type": "Agreement for Sale",
+   "category": "title_transfer",
+   "level": "premises",
+   "furnished": true,
+   "execution_status": "registered",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "2011",
+   "doc_no_raw": "",
+   "sro": "Sub-Registrar Kurla-3",
+   "parties": [
+    {
+     "name": "Messrs J.Y. Payak Realtors",
+     "role": "Builders"
+    },
+    {
+     "name": "Shri Irmad Yatub Payak",
+     "role": "Representative of Messrs J.Y. Payak Realtors"
+    },
+    {
+     "name": "Shri Rajesh Neelkanth Chheda",
+     "role": "Representative of Messrs J.Y. Payak Realtors"
+    }
+   ],
+   "property_text": "Flat no. 201, 2nd floor, building bearing C.T.S. No. 198, 198/1 to 4 of Kurla Division-IV, Taluka Kurla, Mumbai Suburban District, Hutama Prabhakar Kelushkar Marg, off Belgrami Road, Kurla (W), Mumbai 400 070, carpet area about 51.20 sq. mtrs, known as Jilani Heights",
+   "short_description": "Agreement for Sale (pages 15-19 of the deed) between Messrs J.Y. Payak Realtors (Builders) and the Purchaser(s) for Flat No. 201, 2nd floor, Jilani Heights, C.T.S. No. 198, 198/1 to 4, Kurla (W), Mumbai; registration stamp 'Kurla-3 / 2011'",
+   "key_terms": [
+    "Cl.35: conveyance to the ultimate body only after construction and sale of all units",
+    "Cl.38: Builders have first lien on the premises for unpaid amounts",
+    "Cl.43/44: Builders may put up additional construction and use balance TDR / development rights",
+    "Cl.48: society bye-laws; parking only for the Purchaser's vehicle; no sub-letting or transfer without society consent",
+    "Cl.40: governed by the Maharashtra Ownership Flats Act, 1963",
+    "Second Schedule: Flat 201, 2nd floor, carpet area about 51.20 sq. mtrs"
+   ],
+   "reference_no": "",
+   "issued_by": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "parent_ref": "",
+   "pages": "21-25",
+   "files": [
+    "Chain_AGM_1.pdf"
+   ],
+   "file": "Chain_AGM_1.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM19cb5-20",
+   "doc_type": "Intimation of Disapproval",
+   "category": "approval",
+   "level": "project",
+   "furnished": true,
+   "execution_status": "",
+   "exec_date": "05/05/2008",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Municipal Corporation of Greater Mumbai - Executive Engineer, Building Proposals",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "M/s. J. Y. Payak Realtors",
+     "role": "Addressee"
+    }
+   ],
+   "property_text": "Proposed residential building on land bearing C.T.S. Nos. 198, 198/1 to 4 of village Kurla, Kurla (W)",
+   "short_description": "Intimation of Disapproval dated 05/05/2008 issued by Executive Engineer, Building Proposals, MCGM to M/s. J. Y. Payak Realtors for the proposed residential building at C.T.S. No. 198, Kurla (W)",
+   "key_terms": [
+    "Refers to the Notice / letter No. 5257 dated 29/04/2008",
+    "Intimation under Section 346 of the MMC Act: work not to be commenced until the conditions are complied with",
+    "Commencement Certificate under Sec. 45/69(1)(a) of the MR&TP Act to be obtained before starting the work",
+    "Completion certificate will not be obtained from the Executive Engineer (S.W.D.) before the conditions are met",
+    "Structural design and calculations to be submitted by a licensed structural engineer"
+   ],
+   "reference_no": "",
+   "issued_by": "Municipal Corporation of Greater Mumbai, Executive Engineer, Building Proposals",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "parent_ref": "ChainAGM19cb5-17",
+   "pages": "29-30",
+   "files": [
+    "Chain_AGM_1.pdf"
+   ],
+   "file": "Chain_AGM_1.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM19cb5-18",
+   "doc_type": "Payment Receipt",
+   "category": "other",
+   "level": "premises",
+   "furnished": true,
+   "execution_status": "",
+   "exec_date": "07/02/2011",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Messrs J.Y. Payak Realtors",
+     "role": "Builders"
+    },
+    {
+     "name": "Shri Rajesh K. Chheda",
+     "role": "Representative of Messrs J.Y. Payak Realtors"
+    }
+   ],
+   "property_text": "",
+   "short_description": "Builders' receipt for Rs.15,00,000/- paid by cheque of Dena Bank, Kurla, annexed to the Agreement for Sale",
+   "key_terms": [
+    "Rs.15,00,000/- (Rupees Fifteen Lakhs only) received by cheque drawn on Dena Bank, Kurla",
+    "Cheque dated 7/2/2011"
+   ],
+   "reference_no": "",
+   "issued_by": "Messrs J.Y. Payak Realtors",
+   "consideration": "1500000",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "parent_ref": "ChainAGM19cb5-17",
+   "pages": "26",
+   "files": [
+    "Chain_AGM_1.pdf"
+   ],
+   "file": "Chain_AGM_1.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM19cb5-19",
+   "doc_type": "Property Register Card",
+   "category": "revenue_record",
+   "level": "land",
+   "furnished": true,
+   "execution_status": "",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "City Survey Officer, Mumbai Suburban",
+     "role": "Issuing Authority"
+    }
+   ],
+   "property_text": "C.T.S. No. 198 and sub-numbers, Kurla Division-IV (partly legible)",
+   "short_description": "Property Register Card (Marathi, ruled card) of the land at C.T.S. No. 198, Kurla, annexed to the Agreement for Sale",
+   "key_terms": [
+    "Recited: names of Smt. Durgabai Govind Dhavle and Dr. Arun Govind Dhavle reflected as owners"
+   ],
+   "reference_no": "",
+   "issued_by": "City Survey Officer, Mumbai Suburban (Nagar Bhumapan Adhikari, Mumbai Upanagar)",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "parent_ref": "ChainAGM19cb5-17",
+   "pages": "27-28",
+   "files": [
+    "Chain_AGM_1.pdf"
+   ],
+   "file": "Chain_AGM_1.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM2eb87-20",
+   "doc_type": "Electricity Bill",
+   "category": "other",
+   "level": "premises",
+   "furnished": true,
+   "execution_status": "",
+   "exec_date": "23/06/2026",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "The Tata Power Company Limited",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Saifuddin Hashim / Fatima S Fidvi",
+     "role": "Holder"
+    }
+   ],
+   "property_text": "Flat No. 201, Jilani Heights, Belgrami Road, Match Factory Lane, H.P.K. Marg, Kurla (W), Mumbai 400070",
+   "short_description": "Tata Power electricity bill No. 92627834310 dated 23/06/2026 for Flat No. 201, Jilani Heights, Kurla (W)",
+   "key_terms": [
+    "Bill month JUN-2026; current bill Rs. 9947.00",
+    "Bill states it is not proof of ownership of the premises"
+   ],
+   "reference_no": "Bill No. 92627834310; Consumer No. 9000 0048 9144",
+   "issued_by": "The Tata Power Company Limited",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "parent_ref": "",
+   "pages": "27",
+   "files": [
+    "Chain_AGM_2.pdf"
+   ],
+   "file": "Chain_AGM_2.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM2eb87-1",
+   "doc_type": "Agreement for Sale",
+   "category": "title_transfer",
+   "level": "premises",
+   "furnished": true,
+   "execution_status": "registered",
+   "exec_date": "21/09/2026",
+   "reg_date": "21/09/2026",
+   "doc_number": "21619",
+   "doc_year": "2026",
+   "doc_no_raw": "मबई31-21619-2026",
+   "sro": "Joint Sub-Registrar Class 2, Mumbai-31",
+   "parties": [
+    {
+     "name": "Mr. Saifuddin Hashim Fidvi",
+     "role": "Vendor/Transferor"
+    },
+    {
+     "name": "Mrs. Fatema Saifuddin Fidvi",
+     "role": "Vendor/Transferor"
+    },
+    {
+     "name": "Mr. Ashfak Abdul Razak Kalaniya",
+     "role": "Purchaser/Transferee"
+    }
+   ],
+   "property_text": "Flat No. 201, 2nd Floor, 'Jilani Heights Co-op Hsg Society Ltd', Hutatma Prabhakar Keluskar Marg, Match Factory Lane, Kurla West, Mumbai-400070; carpet area about 51.20 sq. mtrs; 5 shares under Share Certificate No.4, distinctive Nos. 16 to 20",
+   "short_description": "Agreement for Sale dated 21/09/2026 between Mr. Saifuddin Hashim Fidvi and Mrs. Fatema Saifuddin Fidvi (Vendors) and Mr. Ashfak Abdul Razak Kalaniya (Purchaser) for Flat No. 201, 2nd Floor, Jilani Heights, Kurla West, for Rs.75,00,000/-, registered at Mumbai-31 under No. 21619/2026",
+   "key_terms": [
+    "Full and final sale consideration Rs.75,00,000/- including 1% TDS of Rs.75,000/-",
+    "Rs.14,25,000/- paid on execution",
+    "Balance Rs.60,00,000/- payable within 45 working days from registration by obtaining a housing loan or other sources",
+    "Transfer and possession to be handed over on receipt of full and final balance consideration",
+    "Vendors declare flat free from encumbrance, hypothecation, charge, lien or mortgage and give indemnity",
+    "Vendors declare no litigation, attachment or insolvency; Section 281 Income-Tax Act not applicable",
+    "Residential use only; Purchaser to abide by society bye-laws",
+    "Resale by present owners; builder is not a party",
+    "Consideration Rs.75,00,000/-",
+    "Market value Rs.71,63,289.6/- (Index II)",
+    "Stamp duty Rs.4,50,000/- (5% Rs.3,75,000 + 1% Rs.75,000) paid by e-Challan",
+    "Registration fee Rs.30,000/-",
+    "Executants: Saifuddin Hashim Fidvi and Fatema Saifuddin Fidvi; claimant: Ashfak Abdul Razak Kalaniya",
+    "Certified as 34 pages by the Joint Sub-Registrar, Mumbai-31",
+    "Part payments: Rs.5,00,000 (cheque 000317 dt 18/08/2026), Rs.5,00,000 (cheque 000318 dt 22/08/2026), Rs.4,25,000 (cheque 000324 dt 19/09/2026), all Bank of Baroda",
+    "Cl.19-a: Rs.60,00,000 to be paid within 45 days of registration, extendable at seller's option, failing which the agreement stands terminated",
+    "Cl.19-b: on termination purchaser returns original title deeds; Deed of Cancellation to be executed",
+    "Cl.10: Vendors state they obtained society permission for the sale",
+    "Cl.15/20: Vendors declare flat and shares not attached, encumbered or hypothecated; indemnity given",
+    "Cl.18: vacant possession on receipt of entire consideration",
+    "Cl.12: society transfer fees shared equally by both parties",
+    "Cl.14: all dues/outgoings up to the date of transfer borne by Vendors"
+   ],
+   "reference_no": "",
+   "issued_by": "",
+   "consideration": "7500000",
+   "market_value": "7163289.6",
+   "stamp_duty": "450000",
+   "registration_fee": "30000",
+   "parent_ref": "",
+   "pages": "7-10",
+   "files": [
+    "Chain_AGM_2.pdf"
+   ],
+   "file": "Chain_AGM_2.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM2eb87-2",
+   "doc_type": "Registration Receipt",
+   "category": "receipt",
+   "level": "premises",
+   "furnished": true,
+   "execution_status": "",
+   "exec_date": "",
+   "reg_date": "21/09/2026",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "Joint Sub-Registrar Class 2, Mumbai-31",
+   "parties": [
+    {
+     "name": "Joint Sub-Registrar Class 2, Mumbai-31",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Mr. Ashfak Abdul Razak Kalaniya",
+     "role": "Addressee"
+    }
+   ],
+   "property_text": "Village Kurla; document type Karaarnama (Agreement); 35 pages",
+   "short_description": "Registration Receipt No.13080 dated 21/09/2026 for Rs.31,400/- issued by Joint Sub-Registrar Class 2, Mumbai-31, for Karaarnama No. 21619/2026",
+   "key_terms": [
+    "Receipt No. 13080 dated 21/09/2026; Document serial No. 520/21619; Document No. Mumbai31-21619-2026",
+    "Registration fee Rs.30000, document handling fee Rs.1400, total Rs.31400",
+    "Number of pages 35",
+    "Stamp duty paid Rs.450000 (DHC challan and eChallan referred)"
+   ],
+   "reference_no": "13080",
+   "issued_by": "Joint Sub-Registrar Class 2, Mumbai-31",
+   "consideration": "7500000",
+   "market_value": "7163289.6",
+   "stamp_duty": "450000",
+   "registration_fee": "30000",
+   "parent_ref": "ChainAGM2eb87-1",
+   "pages": "1",
+   "files": [
+    "Chain_AGM_2.pdf"
+   ],
+   "file": "Chain_AGM_2.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM2eb87-3",
+   "doc_type": "Valuation Report (Ready Reckoner)",
+   "category": "other",
+   "level": "premises",
+   "furnished": true,
+   "execution_status": "",
+   "exec_date": "21/09/2026",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Joint Sub-Registrar Class 2, Mumbai-31",
+     "role": "Issuing Authority"
+    }
+   ],
+   "property_text": "District Mumbai Suburban; Zone 108-Kurla-4; Lal Bahadur Shastri Marg west side, all parts of village; CTS No. 196; built-up 61.44 sq. mtrs; residential; floor 1st to 4th",
+   "short_description": "Valuation Report ID 2026092106011 dated 21/09/2026 showing market value Rs.71,63,289.6/- for built-up area 61.44 sq. mtrs, Kurla",
+   "key_terms": [
+    "Valuation ID 2026092106011, year 2026",
+    "Rate Rs.116590 per sq. mtr x 61.44 sq. mtrs = Rs.7163289.6",
+    "Built-up rate Rs.31763; open land rate Rs.45280; 100% apply to rate",
+    "Sale type printed as First Sale"
+   ],
+   "reference_no": "2026092106011",
+   "issued_by": "Department of Registration and Stamps, Maharashtra (Valuation Report - Urban, Built-up)",
+   "consideration": "",
+   "market_value": "7163289.6",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "parent_ref": "ChainAGM2eb87-1",
+   "pages": "2",
+   "files": [
+    "Chain_AGM_2.pdf"
+   ],
+   "file": "Chain_AGM_2.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM2eb87-30",
+   "doc_type": "Dast Goshwara (Document Summary)",
+   "category": "registration_record",
+   "level": "premises",
+   "furnished": true,
+   "execution_status": "registered",
+   "exec_date": "21/09/2026",
+   "reg_date": "21/09/2026",
+   "doc_number": "21619",
+   "doc_year": "2026",
+   "doc_no_raw": "21619/2026",
+   "sro": "Joint Sub-Registrar Class 2, Mumbai-31",
+   "parties": [
+    {
+     "name": "Saifuddin Hashim Fidvi",
+     "role": "Executant (Executant)"
+    },
+    {
+     "name": "Fatema Saifuddin Fidvi",
+     "role": "Executant (Executant)"
+    },
+    {
+     "name": "Ashfak Abdul Razak Kalaniya",
+     "role": "Claimant (Claimant)"
+    }
+   ],
+   "property_text": "",
+   "short_description": "Dast Goshwara Parts 1 and 2 of Doc. No. 21619/2026 dated 21/09/2026, Joint Sub-Registrar Mumbai-31",
+   "key_terms": [
+    "Document type: Agreement for Sale; submitted 21/09/2026 14:49",
+    "Executants' Aadhaar verification dated 21/09/2026 recorded in Part 2",
+    "Page count shown: 35"
+   ],
+   "reference_no": "",
+   "issued_by": "Joint Sub-Registrar Class 2, Mumbai-31",
+   "consideration": "7500000",
+   "market_value": "7163290",
+   "stamp_duty": "450000",
+   "registration_fee": "30000",
+   "parent_ref": "ChainAGM2eb87-1",
+   "pages": "34-36",
+   "files": [
+    "Chain_AGM_2.pdf"
+   ],
+   "file": "Chain_AGM_2.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM2eb87-31",
+   "doc_type": "Index II",
+   "category": "registration_record",
+   "level": "premises",
+   "furnished": true,
+   "execution_status": "registered",
+   "exec_date": "21/09/2026",
+   "reg_date": "21/09/2026",
+   "doc_number": "21619",
+   "doc_year": "2026",
+   "doc_no_raw": "MBI31-21619-2026",
+   "sro": "Joint Sub-Registrar Class 2, Mumbai-31",
+   "parties": [
+    {
+     "name": "Saifuddin Hashim Fidvi",
+     "role": "Executant (Executant)"
+    },
+    {
+     "name": "Fatema Saifuddin Fidvi",
+     "role": "Executant (Executant)"
+    },
+    {
+     "name": "Ashfak Abdul Razak Kalaniya",
+     "role": "Claimant (Claimant)"
+    }
+   ],
+   "property_text": "Flat No. 201, 2nd floor, Jilani Heights Co-op. Hsg. Soc. Ltd., Hutatma Prabhakar Kelushkar Marg, Main Factory Lane, Kurla 400070; CTS No. 196, 196/1 to 4; Village Kurla (943568); area 61.44 sq. mtrs",
+   "short_description": "Index II of Doc. No. MBI31-21619-2026 dated 21/09/2026, Joint Sub-Registrar Mumbai-31, Village Kurla",
+   "key_terms": [
+    "Article: Agreement; stamp duty under Article 25(b) Immovable Property within Municipal Corporation limits",
+    "Executed and registered on 21/09/2026; Serial MBI31-21619-2026",
+    "Details forwarded by email on 22/09/2026 to Municipal Corporation of Greater Mumbai"
+   ],
+   "reference_no": "Suchi Kra. 2",
+   "issued_by": "Joint Sub-Registrar Class 2, Mumbai-31",
+   "consideration": "7500000",
+   "market_value": "7163289.6",
+   "stamp_duty": "450000",
+   "registration_fee": "30000",
+   "parent_ref": "ChainAGM2eb87-1",
+   "pages": "37-38",
+   "files": [
+    "Chain_AGM_2.pdf"
+   ],
+   "file": "Chain_AGM_2.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM2eb87-32",
+   "doc_type": "Registration Receipt",
+   "category": "receipt",
+   "level": "premises",
+   "furnished": true,
+   "execution_status": "",
+   "exec_date": "",
+   "reg_date": "21/09/2026",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "Joint Sub-Registrar Class 2, Mumbai-31",
+   "parties": [
+    {
+     "name": "Joint Sub-Registrar Class 2, Mumbai-31",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Ashfak Abdul Razak Kalaniya",
+     "role": "Addressee"
+    }
+   ],
+   "property_text": "",
+   "short_description": "Registration Receipt No.13080 dated 21/09/2026 for Rs.31,400/- issued by Joint Sub-Registrar, Mumbai-31",
+   "key_terms": [
+    "Receipt No. 13080 dated 21/09/2026: registration fee Rs.30,000 + document handling charges Rs.1,400 = Rs.31,400",
+    "Document submitted by Ashfak Abdul Razak Kalaniya"
+   ],
+   "reference_no": "13080",
+   "issued_by": "Joint Sub-Registrar Class 2, Mumbai-31",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "30000",
+   "parent_ref": "ChainAGM2eb87-1",
+   "pages": "34",
+   "files": [
+    "Chain_AGM_2.pdf"
+   ],
+   "file": "Chain_AGM_2.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM2eb87-4",
+   "doc_type": "Document Handling Charges Receipt",
+   "category": "receipt",
+   "level": "premises",
+   "furnished": true,
+   "execution_status": "",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Department of Registration and Stamps, Maharashtra",
+     "role": "Issuing Authority"
+    }
+   ],
+   "property_text": "",
+   "short_description": "Document Handling Charges Receipt PRN 0926218309386 dated 21/09/2026 for Rs.1,400/- against Document No. MBI31-21619-2026",
+   "key_terms": [
+    "Rs.1400 DHC paid 21/09/2026 through SBIN, CIN 10029762026092109068",
+    "Against Document No. MBI31-21619-2026 dated 21/09/2026"
+   ],
+   "reference_no": "PRN 0926218309386",
+   "issued_by": "Department of Registration and Stamps, Maharashtra",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "1400",
+   "parent_ref": "ChainAGM2eb87-1",
+   "pages": "3-4",
+   "files": [
+    "Chain_AGM_2.pdf"
+   ],
+   "file": "Chain_AGM_2.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM2eb87-5",
+   "doc_type": "Challan (Stamp Duty and Registration Fee)",
+   "category": "receipt",
+   "level": "premises",
+   "furnished": true,
+   "execution_status": "",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Ashfak Abdul Razak Kalaniya",
+     "role": "Payer"
+    },
+    {
+     "name": "Inspector General of Registration",
+     "role": "Issuing Authority"
+    }
+   ],
+   "property_text": "Flat No. 201, 2nd Floor, Jilani Heights CHSL, Hutatma Prabhakar Keluskar Marg, Match Factory Lane, Kurla West, Mumbai 400070",
+   "short_description": "Challan GRN MH010529672202627E dated 21/09/2026 for Rs.4,80,000/- (stamp duty Rs.4,50,000/- and registration fee Rs.30,000/-), paid by Ashfak Abdul Razak Kalaniya",
+   "key_terms": [
+    "Stamp duty Rs.450000 and registration fee Rs.30000, total Rs.480000 dated 21/09/2026",
+    "Paid through State Bank of India, Bank CIN 00040572026092162699",
+    "Challan office name MBI-27 Jt Sub Registrar Mumbai 27",
+    "Second party name shown as Saifuddin Hashim Fidvi"
+   ],
+   "reference_no": "GRN MH010529672202627E",
+   "issued_by": "Inspector General of Registration, Maharashtra (MTR Form Number-6)",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "450000",
+   "registration_fee": "30000",
+   "parent_ref": "ChainAGM2eb87-1",
+   "pages": "5-6",
+   "files": [
+    "Chain_AGM_2.pdf"
+   ],
+   "file": "Chain_AGM_2.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM2eb87-10",
+   "doc_type": "Payment Receipts (Receipt Nos. 1 to 3)",
+   "category": "receipt",
+   "level": "premises",
+   "furnished": true,
+   "execution_status": "",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Mr. Saifuddin Hashim Fidvi",
+     "role": "Vendor"
+    },
+    {
+     "name": "Mrs. Fatema Saifuddin Fidvi",
+     "role": "Vendor"
+    },
+    {
+     "name": "Mr. Ashfak Abdul Razak Kalaniya",
+     "role": "Purchaser"
+    }
+   ],
+   "property_text": "Part sale consideration for Schedule 'A' flat premises",
+   "short_description": "Three part-consideration receipts totalling Rs.14,25,000/- acknowledged by the Vendors, annexed to the Agreement for Sale",
+   "key_terms": [
+    "Receipt 1: Rs.5,00,000 by cheque 000317 dt 18/08/2026, Bank of Baroda",
+    "Receipt 2: Rs.5,00,000 by cheque 000318 dt 22/08/2026, Bank of Baroda",
+    "Receipt 3: Rs.4,25,000 by cheque 000324 dt 19/09/2026, Bank of Baroda"
+   ],
+   "reference_no": "",
+   "issued_by": "Vendors (Mr. Saifuddin Hashim Fidvi and Mrs. Fatema Saifuddin Fidvi)",
+   "consideration": "1425000",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "parent_ref": "ChainAGM2eb87-1",
+   "pages": "17-18",
+   "files": [
+    "Chain_AGM_2.pdf"
+   ],
+   "file": "Chain_AGM_2.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM2eb87-28",
+   "doc_type": "Declaration / Affidavit (One State One Registration)",
+   "category": "other",
+   "level": "premises",
+   "furnished": true,
+   "execution_status": "executed_not_registered",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Saifuddin Hashim Fidvi",
+     "role": "Declarant (Executant / Executant)"
+    },
+    {
+     "name": "Ashfak Abdul Razak Kalaniya",
+     "role": "Declarant (Claimant / Claimant)"
+    }
+   ],
+   "property_text": "",
+   "short_description": "Declaration-cum-affidavit under 'One State One Registration' signed by the executant and claimant, annexed to Doc. No. 21619/2026",
+   "key_terms": [
+    "Declaration / affidavit on 'One State One Registration' (Common Jurisdiction) annexed to the deed",
+    "Declares compliance with registration formalities and the correctness of particulars in the document"
+   ],
+   "reference_no": "",
+   "issued_by": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "parent_ref": "ChainAGM2eb87-1",
+   "pages": "32",
+   "files": [
+    "Chain_AGM_2.pdf"
+   ],
+   "file": "Chain_AGM_2.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM2eb87-29",
+   "doc_type": "Aadhaar Card (KYC)",
+   "category": "identity",
+   "level": "premises",
+   "furnished": true,
+   "execution_status": "",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Unique Identification Authority of India",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Arif Hasan Solanki",
+     "role": "Holder"
+    }
+   ],
+   "property_text": "",
+   "short_description": "Aadhaar card copy of Arif Hasan Solanki annexed to Doc. No. 21619/2026",
+   "key_terms": [
+    "Aadhaar letter of Arif Hasan Solanki, Masjid Bandar West, Mumbai 400009, dated 06/07/2011, annexed to the deed"
+   ],
+   "reference_no": "Aadhaar ending 0548",
+   "issued_by": "Unique Identification Authority of India",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "parent_ref": "ChainAGM2eb87-1",
+   "pages": "31",
+   "files": [
+    "Chain_AGM_2.pdf"
+   ],
+   "file": "Chain_AGM_2.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM2eb87-33",
+   "doc_type": "e-Challan (Stamp Duty and Registration Fee)",
+   "category": "receipt",
+   "level": "premises",
+   "furnished": true,
+   "execution_status": "",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Ashfak Abdul Razak Kalaniya",
+     "role": "Payer / Purchaser"
+    }
+   ],
+   "property_text": "",
+   "short_description": "e-Challan GRN MH010529672202627E, defaced 21/09/2026, for stamp duty Rs.4,50,000/- and registration fee Rs.30,000/-",
+   "key_terms": [
+    "Stamp duty Rs.4,50,000 paid (5% Rs.3,75,000 + 1% Rs.75,000)",
+    "Registration fee Rs.30,000",
+    "Defacement No. 0005934311202627 dated 21/09/2026",
+    "Document handling charges Rs.1,400 paid via DHC, PRN 0926218309386"
+   ],
+   "reference_no": "GRN MH010529672202627E",
+   "issued_by": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "450000",
+   "registration_fee": "30000",
+   "parent_ref": "ChainAGM2eb87-1",
+   "pages": "34",
+   "files": [
+    "Chain_AGM_2.pdf"
+   ],
+   "file": "Chain_AGM_2.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "paparpublicad4e7-3",
+   "doc_type": "Police Lost Article Report",
+   "category": "other",
+   "level": "premises",
+   "furnished": true,
+   "execution_status": "",
+   "exec_date": "24/09/2026",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Greater Mumbai Police, Vinoba Bhave Nagar Police Station",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Saifuddin Hashim Fidvi",
+     "role": "Complainant"
+    }
+   ],
+   "property_text": "Flat No. 201, 2nd Floor, Jilani Heights Coop Hsg Society Ltd, Hutatma Prabhakar Keluskar Marg, Match Factory Lane, Kurla West, Mumbai-400070",
+   "short_description": "Greater Mumbai Police Lost Report No. 137534-2026 dated 24/09/2026 lodged by Saifuddin Hashim Fidvi for loss of the Agreement for Sale dated 04/03/2011",
+   "key_terms": [
+    "Article lost: Agreement for Sale dated 04/03/2011, stated as registered under No. BDR325422011",
+    "Stated to be lost / misplaced while renovating the house; date of loss 25/04/2015 15:38",
+    "Report dated 24/09/2026 03:40:24, digitally signed"
+   ],
+   "reference_no": "137534-2026",
+   "issued_by": "Greater Mumbai Police, Vinoba Bhave Nagar Police Station",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "parent_ref": "",
+   "pages": "3",
+   "files": [
+    "papar_publication.pdf"
+   ],
+   "file": "papar_publication.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "Draftagreeme918d-1",
+   "doc_type": "Agreement for Sale",
+   "category": "title_transfer",
+   "level": "premises",
+   "furnished": true,
+   "execution_status": "draft",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Mr. Saifuddin Hashim Fidvi",
+     "role": "Vendor"
+    },
+    {
+     "name": "Mrs. Fatema Saifuddin Fidvi",
+     "role": "Vendor"
+    },
+    {
+     "name": "Mr. Ashfak Abdul Razak Kalaniya",
+     "role": "Purchaser"
+    }
+   ],
+   "property_text": "Flat No.201, 2nd Floor, Jilani Heights Co-op Hsg Soc Ltd, Hutama Prabhakar Keluskar Marg, Off Belgrami Road, Kurla (W), Mumbai-400070, 51.20 Sq. Mtrs. Carpet, C.T.S No.196, 196/1 to 4, village Kurla IV, Taluka Kurla",
+   "short_description": "Draft Agreement for Sale at Mumbai in September 2026 (day blank) between Mr. Saifuddin Hashim Fidvi and Mrs. Fatema Saifuddin Fidvi (Vendors) and Mr. Ashfak Abdul Razak Kalaniya (Purchaser) for Flat No.201, Jilani Heights, Kurla (W), for Rs.80,00,000/-",
+   "key_terms": [
+    "Total consideration Rs.80,00,000 incl. 1% TDS Rs.80,000 u/s 195 to be deducted and paid by Purchaser",
+    "Rs.10,00,000 paid on execution (cheques 000317 dt 18/08/2026 and 000318 dt 22/08/2026, BOB, Rs.5,00,000 each)",
+    "Balance Rs.70,00,000 within 30 working days of registration via housing loan from Bank/Financial Institution or other sources",
+    "Default in balance payment: deal cancelled/continued at Vendor's discretion; refund without interest",
+    "Possession 10 days after receipt of full balance consideration",
+    "Vendor declares flat free from encumbrance, mortgage, lien, litigation; indemnity given",
+    "Share Certificate No.4 (Shares 16 to 20) to be transferred; society transfer fees borne equally",
+    "Purchaser to register agreement and pay stamp duty and registration fees",
+    "Consideration Rs.3300000: Rs.1500000 at execution, Rs.1800000 at taking possession",
+    "Default in an instalment: interest 24% p.a.; continuous default allows termination and forfeiture of earnest money",
+    "Builders may escalate the price if material costs rise by more than 5%",
+    "Purchaser may not assign, transfer or encumber the premises without the Builders' prior written consent; transfer charges payable",
+    "Additional payments at possession Rs.33631 (share money Rs.261, legal Rs.2000, deposits Rs.5000, 12 months outgoings Rs.23870 on 663 sq. ft., society formation Rs.2500)",
+    "Provisional maintenance Rs.5/- per built-up sq. ft. per month until the society is formed",
+    "Builders to refund amounts if possession is not given, subject to extension for causes beyond their control",
+    "Agreement is not a conveyance; terrace, stilt, unsold premises and FSI/TDR remain with the Builders"
+   ],
+   "reference_no": "",
+   "issued_by": "",
+   "consideration": "8000000",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "parent_ref": "",
+   "pages": "1-9",
+   "files": [
+    "Chain_AGM_1.pdf",
+    "Draft_agreement.pdf"
+   ],
+   "file": "Draft_agreement.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM19cb5-15",
+   "doc_type": "Typical Floor Plan (Annexure E)",
+   "category": "plan",
+   "level": "premises",
+   "furnished": false,
+   "execution_status": "",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [],
+   "property_text": "Typical floor plan showing the said premises surrounded in blue ink",
+   "short_description": "Annexure-'E' typical floor plan annexed to the Agreement for Sale, recited in clause 4",
+   "key_terms": [],
+   "reference_no": "Annexure-E",
+   "issued_by": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "parent_ref": "Draftagreeme918d-1",
+   "pages": "",
+   "files": [
+    "Chain_AGM_1.pdf"
+   ],
+   "file": "Chain_AGM_1.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM19cb5-16",
+   "doc_type": "List of Amenities, Fixtures and Fittings (Annexure F)",
+   "category": "other",
+   "level": "premises",
+   "furnished": false,
+   "execution_status": "",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [],
+   "property_text": "",
+   "short_description": "Annexure-'F' describing the amenities, fixtures and fittings included in the consideration, recited in clause 4",
+   "key_terms": [],
+   "reference_no": "Annexure-F",
+   "issued_by": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "parent_ref": "Draftagreeme918d-1",
+   "pages": "",
+   "files": [
+    "Chain_AGM_1.pdf"
+   ],
+   "file": "Chain_AGM_1.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM19cb5-35",
+   "doc_type": "Driving Licence (KYC copy)",
+   "category": "identity",
+   "level": "premises",
+   "furnished": true,
+   "execution_status": "",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [],
+   "property_text": "",
+   "short_description": "Copy of Driving Licence of the licence holder (photo identity), bearing registration page stamp, issued in 2006; details illegible",
+   "key_terms": [],
+   "reference_no": "",
+   "issued_by": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "parent_ref": "",
+   "pages": "51",
+   "files": [
+    "Chain_AGM_1.pdf"
+   ],
+   "file": "Chain_AGM_1.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM19cb5-41",
+   "doc_type": "PAN Card (KYC copy)",
+   "category": "identity",
+   "level": "premises",
+   "furnished": true,
+   "execution_status": "",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [],
+   "property_text": "",
+   "short_description": "Copy of PAN card (holder's name appears to include 'Rajendra Yadav'; number illegible) bearing registration page stamp",
+   "key_terms": [],
+   "reference_no": "",
+   "issued_by": "Income Tax Department, Govt. of India",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "parent_ref": "",
+   "pages": "58",
+   "files": [
+    "Chain_AGM_1.pdf"
+   ],
+   "file": "Chain_AGM_1.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM2eb87-17",
+   "doc_type": "Ruled Card (annexed sheet)",
+   "category": "plan",
+   "level": "project",
+   "furnished": true,
+   "execution_status": "",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [],
+   "property_text": "",
+   "short_description": "Ruled card sheet annexed to the deed; handwritten / printed contents illegible",
+   "key_terms": [],
+   "reference_no": "",
+   "issued_by": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "parent_ref": "",
+   "pages": "23",
+   "files": [
+    "Chain_AGM_2.pdf"
+   ],
+   "file": "Chain_AGM_2.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM2eb87-18",
+   "doc_type": "Payment Receipt",
+   "category": "other",
+   "level": "premises",
+   "furnished": true,
+   "execution_status": "",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Mr. Saifuddin H. Fidvi",
+     "role": "Payer"
+    },
+    {
+     "name": "Mrs. Fatema S. Fidvi",
+     "role": "Payer"
+    },
+    {
+     "name": "Builders",
+     "role": "Builder"
+    }
+   ],
+   "property_text": "",
+   "short_description": "Receipt for Rs.15,00,000/- by cheque no. 605559 of Dena Bank, Kurla from Mr. Saifuddin H. Fidvi and Mrs. Fatema S. Fidvi, issued by the Builders",
+   "key_terms": [
+    "Rs. 1500000/- received by cheque no. 605559 drawn on Dena Bank, Kurla",
+    "Receipt signed for the Builders; witness signature present"
+   ],
+   "reference_no": "",
+   "issued_by": "Builders (Payak & Chheda, as read)",
+   "consideration": "1500000",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "parent_ref": "",
+   "pages": "24",
+   "files": [
+    "Chain_AGM_2.pdf"
+   ],
+   "file": "Chain_AGM_2.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM2eb87-19",
+   "doc_type": "Share Certificate",
+   "category": "society",
+   "level": "premises",
+   "furnished": true,
+   "execution_status": "",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Jilani Heights Co-operative Housing Society Limited",
+     "role": "Society"
+    },
+    {
+     "name": "Saifuddin H. Fidvi",
+     "role": "Holder"
+    },
+    {
+     "name": "Fatema S. Fidvi",
+     "role": "Holder"
+    }
+   ],
+   "property_text": "Flat No. 201, Jilani Heights, H.P.K. Marg, Match Factory Lane, Kurla (W), Mumbai 400070",
+   "short_description": "Share Certificate No. 4 of Jilani Heights Co-operative Housing Society Limited for five shares (Nos. 16-20) in favour of Saifuddin H. Fidvi and Fatema S. Fidvi, Flat No. 201",
+   "key_terms": [
+    "Member's Register No. 5; Flat No. 201",
+    "Five shares of Rs. 50/- each, fully paid up",
+    "Distinctive Nos. 16 to 20 (both inclusive)",
+    "Reverse page: transfer endorsement blocks (blank)",
+    "Society Regn. No. MUM-2/WL/HSG/TC/10687/2014-2015",
+    "5 (Five) shares of Rs. 50/- each, fully paid up",
+    "Signed by Chairman, Hon. Secretary and Treasurer under Common Seal; date of issue left blank",
+    "Share Certificate No.4, shares 16 to 20, Member Reg. No. 5 (recited)",
+    "Share Certificate No.4, Shares No. 16 to 20, Members Reg No. 5; recital also reads Ten/Five/Twenty shares"
+   ],
+   "reference_no": "Certificate No. 4",
+   "issued_by": "Jilani Heights Co-operative Housing Society Limited",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "parent_ref": "",
+   "pages": "25-26",
+   "files": [
+    "Chain_AGM_2.pdf",
+    "Draft_agreement.pdf",
+    "Share_certificate.pdf"
+   ],
+   "file": "Chain_AGM_2.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM2eb87-21",
+   "doc_type": "Aadhaar Card",
+   "category": "identity",
+   "level": "premises",
+   "furnished": true,
+   "execution_status": "",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Saifuddin Hashim Fidvi",
+     "role": "Holder"
+    },
+    {
+     "name": "Unique Identification Authority of India",
+     "role": "Issuing Authority"
+    }
+   ],
+   "property_text": "",
+   "short_description": "Aadhaar card of Saifuddin Hashim Fidvi, DOB 17/10/1967, Aadhaar No. 6001 2308 1254",
+   "key_terms": [],
+   "reference_no": "6001 2308 1254",
+   "issued_by": "Unique Identification Authority of India",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "parent_ref": "",
+   "pages": "28",
+   "files": [
+    "Chain_AGM_2.pdf"
+   ],
+   "file": "Chain_AGM_2.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM2eb87-22",
+   "doc_type": "Aadhaar Card",
+   "category": "identity",
+   "level": "premises",
+   "furnished": true,
+   "execution_status": "",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Fatema Saifuddin Fidvi",
+     "role": "Holder"
+    },
+    {
+     "name": "Unique Identification Authority of India",
+     "role": "Issuing Authority"
+    }
+   ],
+   "property_text": "",
+   "short_description": "Aadhaar card of Fatema Saifuddin Fidvi, DOB 24/07/1969, Aadhaar No. 8204 2242 6529",
+   "key_terms": [],
+   "reference_no": "8204 2242 6529",
+   "issued_by": "Unique Identification Authority of India",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "parent_ref": "",
+   "pages": "28",
+   "files": [
+    "Chain_AGM_2.pdf"
+   ],
+   "file": "Chain_AGM_2.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM2eb87-23",
+   "doc_type": "PAN Card",
+   "category": "identity",
+   "level": "premises",
+   "furnished": true,
+   "execution_status": "",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Saifuddin H Fidvi",
+     "role": "Holder"
+    },
+    {
+     "name": "Income Tax Department",
+     "role": "Issuing Authority"
+    }
+   ],
+   "property_text": "",
+   "short_description": "PAN card No. AAEPF7073L of Saifuddin H Fidvi, DOB 17/10/1967",
+   "key_terms": [],
+   "reference_no": "AAEPF7073L",
+   "issued_by": "Income Tax Department, Government of India",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "parent_ref": "",
+   "pages": "28",
+   "files": [
+    "Chain_AGM_2.pdf"
+   ],
+   "file": "Chain_AGM_2.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM2eb87-24",
+   "doc_type": "PAN Card",
+   "category": "identity",
+   "level": "premises",
+   "furnished": true,
+   "execution_status": "",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Fatema Saifuddin Fidvi",
+     "role": "Holder"
+    },
+    {
+     "name": "Income Tax Department",
+     "role": "Issuing Authority"
+    }
+   ],
+   "property_text": "",
+   "short_description": "PAN card No. AFIPF9668L of Fatema Saifuddin Fidvi, DOB 24/07/1969",
+   "key_terms": [],
+   "reference_no": "AFIPF9668L",
+   "issued_by": "Income Tax Department, Government of India",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "parent_ref": "",
+   "pages": "28",
+   "files": [
+    "Chain_AGM_2.pdf"
+   ],
+   "file": "Chain_AGM_2.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM2eb87-25",
+   "doc_type": "Aadhaar Card",
+   "category": "identity",
+   "level": "premises",
+   "furnished": true,
+   "execution_status": "",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Ashfak Abdul Razak Kalaniya",
+     "role": "Holder"
+    },
+    {
+     "name": "Unique Identification Authority of India",
+     "role": "Issuing Authority"
+    }
+   ],
+   "property_text": "",
+   "short_description": "Aadhaar card of Ashfak Abdul Razak Kalaniya, DOB 24/05/1979, Aadhaar No. 7927 9643 2082",
+   "key_terms": [],
+   "reference_no": "7927 9643 2082",
+   "issued_by": "Unique Identification Authority of India",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "parent_ref": "",
+   "pages": "29",
+   "files": [
+    "Chain_AGM_2.pdf"
+   ],
+   "file": "Chain_AGM_2.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM2eb87-26",
+   "doc_type": "PAN Card",
+   "category": "identity",
+   "level": "premises",
+   "furnished": true,
+   "execution_status": "",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Ashfak Abdul Razak Kalaniya",
+     "role": "Holder"
+    },
+    {
+     "name": "Income Tax Department",
+     "role": "Issuing Authority"
+    }
+   ],
+   "property_text": "",
+   "short_description": "PAN card of Ashfak Abdul Razak Kalaniya, DOB 24/05/1979 (PAN number illegible)",
+   "key_terms": [],
+   "reference_no": "",
+   "issued_by": "Income Tax Department, Government of India",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "parent_ref": "",
+   "pages": "30",
+   "files": [
+    "Chain_AGM_2.pdf"
+   ],
+   "file": "Chain_AGM_2.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "Lightbill7a35-1",
+   "doc_type": "Electricity Bill",
+   "category": "other",
+   "level": "premises",
+   "furnished": true,
+   "execution_status": "",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "The Tata Power Company Limited",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "SAIFUDDIN HASHIM / FATIMA S FIDVI",
+     "role": "Holder"
+    }
+   ],
+   "property_text": "FLT NO - 201, JILANI HEIGHTS, BELGRAMI ROAD, MATCH FACTORY LANE, H P K MARG, 1 TO 4 196/196-1 NEAR HPK SCH, KURLA (W), MUMBAI 400070",
+   "short_description": "Tata Power electricity bill No. 92627834310 dated 23/06/2026 for June 2026 in the name of Saifuddin Hashim / Fatima S Fidvi, Flat 201, Jilani Heights, Kurla (W), Mumbai",
+   "key_terms": [
+    "Bill date 23/06/2026; bill period 22/05/2026 to 21/06/2026; month JUN-2026",
+    "Current bill amount Rs. 9947.00; total amount before due date Rs. 9807.00",
+    "Due date 14/07/2026",
+    "Meter No. G1052255; tariff LT-I(B) Residential; 1 phase LT",
+    "Supply date 02/02/2013",
+    "Bill states it is not proof of ownership of the premises"
+   ],
+   "reference_no": "Bill No. 92627834310; Consumer No. (CA no.) 9000 0048 9144",
+   "issued_by": "The Tata Power Company Limited",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "parent_ref": "",
+   "pages": "1",
+   "files": [
+    "Light_bill.pdf"
+   ],
+   "file": "Light_bill.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "paparpublicad4e7-1",
+   "doc_type": "Public Notice (Newspaper)",
+   "category": "other",
+   "level": "premises",
+   "furnished": true,
+   "execution_status": "",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Adv. Shaikh Mohammed Asif",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Mr. Saifuddin Hashim Fidvi",
+     "role": "Client"
+    }
+   ],
+   "property_text": "Flat No. 201, 2nd Floor, Jilani Heights CHS Ltd, Hutatma Prabhakar Keluskar Marg, Match Factory Lane, Kurla (W), Mumbai-400070",
+   "short_description": "Public Notice by Adv. Shaikh Mohammed Asif on behalf of Mr. Saifuddin Hashim Fidvi regarding loss of the original Agreement for Sale dated 04/03/2011 for Flat No. 201, Jilani Heights",
+   "key_terms": [
+    "Original Agreement for Sale dated 04/03/2011 (Sr. No. BDR-3-2542-2011) is lost / misplaced",
+    "Lost report lodged with Vinoba Bhave Nagar Police Station, No. 137534-2026 dated 24/09/2026",
+    "Owner declares no loan taken and no lien / mortgage created by deposit of the original agreement",
+    "Claims or objections invited within 15 days of publication, failing which none will be presumed"
+   ],
+   "reference_no": "",
+   "issued_by": "Adv. Shaikh Mohammed Asif, B-102, Baitunoor Building, S.G. Barve Marg, Kurla (W), Mumbai-400070",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "parent_ref": "",
+   "pages": "1, 4",
+   "files": [
+    "papar_publication.pdf"
+   ],
+   "file": "papar_publication.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "paparpublicad4e7-2",
+   "doc_type": "Society Registration Certificate",
+   "category": "society",
+   "level": "project",
+   "furnished": true,
+   "execution_status": "",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Deputy Registrar, Co-operative Societies",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Jilani Heights Co-operative Housing Society Ltd",
+     "role": "Society"
+    }
+   ],
+   "property_text": "Jilani Heights Co-operative Housing Society Ltd, M.P. Marg, S.R. Match Factory Road, Kurla (West), Mumbai-400070",
+   "short_description": "Society Registration Certificate of Jilani Heights Co-operative Housing Society Ltd, Kurla (West), registered in 2014",
+   "key_terms": [
+    "Registered under Section 9(1) of the Maharashtra Co-operative Societies Act 1960 and Rule 1961",
+    "Classified as a Housing Society; sub-classification Tenant Co-partnership Housing Society",
+    "Registration year 2014"
+   ],
+   "reference_no": "MUEM-3/WL/HSG/TC/10687/2014-2015",
+   "issued_by": "Deputy Registrar, Co-operative Societies",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "parent_ref": "",
+   "pages": "2",
+   "files": [
+    "papar_publication.pdf"
+   ],
+   "file": "papar_publication.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM19cb5-21",
+   "doc_type": "Commencement Certificate",
+   "category": "approval",
+   "level": "project",
+   "furnished": false,
+   "execution_status": "",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Municipal Corporation of Greater Mumbai",
+     "role": "Issuing Authority"
+    }
+   ],
+   "property_text": "",
+   "short_description": "Commencement Certificate under Sec. 45 / 69(1)(a) of the MR&TP Act, referred to in the Intimation of Disapproval; its own copy is not furnished",
+   "key_terms": [
+    "Required by the IOD conditions before plinth / commencement of work"
+   ],
+   "reference_no": "",
+   "issued_by": "Municipal Corporation of Greater Mumbai",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "parent_ref": "",
+   "pages": "",
+   "files": [
+    "Chain_AGM_1.pdf"
+   ],
+   "file": "Chain_AGM_1.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "ChainAGM2eb87-7",
+   "doc_type": "Society Registration Certificate",
+   "category": "society",
+   "level": "project",
+   "furnished": false,
+   "execution_status": "",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Jilani Heights Co-op Hsg Society Ltd",
+     "role": "Society"
+    }
+   ],
+   "property_text": "Jilani Heights Co-op Hsg Soc Ltd, Hutama Prabhakar Keluskar Marg, Off Belgrami Road, Kurla (W), Mumbai-400070",
+   "short_description": "Society Registration No. MUM-2/WL/HSG/TC/10687/2014-2015 of Jilani Heights Co-op Hsg Society Ltd, recited only",
+   "key_terms": [
+    "Society registration No. MUM-2/WL/HSG/TC/10687/2014-2015"
+   ],
+   "reference_no": "MUM-2/WL/HSG/TC/10687/2014-2015",
+   "issued_by": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "parent_ref": "",
+   "pages": "1, 8",
+   "files": [
+    "Chain_AGM_2.pdf",
+    "Draft_agreement.pdf"
+   ],
+   "file": "Chain_AGM_2.pdf",
+   "source": "pdf"
+  }
+ ],
+ "chain_parties": [
+  "Adv. Shaikh Mohammed Asif",
+  "Advocate for the Builders",
+  "Arif Hasan Solanki",
+  "Ashfak Abdul Razak Kalaniya",
+  "Builders",
+  "City Survey Office",
+  "City Survey Officer, Mumbai Suburban",
+  "Department of Registration and Stamps, Maharashtra",
+  "Deputy Registrar, Co-operative Societies",
+  "Dr. Arun Govind Dhavle",
+  "Dr. Govind Dattatray Dhavle",
+  "Election Commission of India",
+  "Executive Engineer (Building Proposals) (E.S.) I, Municipal Corporation of Greater Mumbai",
+  "Executive Engineer, Building Proposals (Eastern Suburbs), Municipal Corporation of Greater Mumbai",
+  "Fatema S. Fidvi",
+  "Fatema Saifuddin Fidvi",
+  "Greater Mumbai Police, Vinoba Bhave Nagar Police Station",
+  "I.Y. Payak Realtors",
+  "Income Tax Department",
+  "Inspector General of Registration",
+  "Jilani Heights Co-op Hsg Society Ltd",
+  "Jilani Heights Co-operative Housing Society Limited",
+  "Jilani Heights Co-operative Housing Society Ltd",
+  "Joint Sub-Registrar Class 2, Mumbai-31",
+  "L. Y. Payak Realtors",
+  "M/s I Y Payak Realtors",
+  "M/s I.Y. Payak Realtors",
+  "M/s. J. Y. Payak Realtors",
+  "M/s. L.Y. Payak Realtors",
+  "Maharashtra Small Scale Industries Development Corporation Ltd.",
+  "Messrs J.Y. Payak Realtors",
+  "Mr. Ashfak Abdul Razak Kalaniya",
+  "Mr. Saifuddin H. Fidvi",
+  "Mr. Saifuddin Hashim Fidvi",
+  "Mr. Shaikh Irfan",
+  "Mrs. Fatema S. Fidvi",
+  "Mrs. Fatema Saifuddin Fidvi",
+  "Mrs. Sunila Ramesh Hardikar (Nee Miss Sunila Govind Dhavle)",
+  "Mrs. Sunita Ramesh Hardikar (Nee' Miss Sunita Govind Dhavle)",
+  "Municipal Corporation of Greater Bombay",
+  "Municipal Corporation of Greater Mumbai",
+  "Municipal Corporation of Greater Mumbai - Executive Engineer, Building Proposals",
+  "Munira Begum w/o Dr. Mahomed Amin Sayyad Manomed Kabir",
+  "SAIFUDDIN HASHIM / FATIMA S FIDVI",
+  "Saifuddin H Fidvi",
+  "Saifuddin H. Fidvi",
+  "Saifuddin Hashim / Fatima S Fidvi",
+  "Saifuddin Hashim Fidvi",
+  "Sayad Usman Sayyad Ahmed Kadri",
+  "Sayyad Abdul Kadir Sayyad Ahmed Kadri",
+  "Sayyad Manzur Husein Sayyad Ahmed Kadri",
+  "Shri Irmad Yatub Payak",
+  "Shri Ismail Yakub Payak",
+  "Shri Rajesh K. Chheda",
+  "Shri Rajesh Keshavji Chheda",
+  "Shri Rajesh Neelkanth Chheda",
+  "Siraj Malgaonkar",
+  "Smt. Durgabai Govind Dhavle",
+  "Stock Holding Corporation of India Ltd (SHCIL)",
+  "Sub-Registrar Kurla-1",
+  "Sub-Registrar Kurla-1 / Inspector General of Registration",
+  "The Tata Power Company Limited",
+  "Unique Identification Authority of India",
+  "Vinod B. Singh, Advocate High Court"
+ ],
+ "receipts": [
+  {
+   "file": "eSearch.pdf",
+   "grn": "MH013000093202627U",
+   "date": "29/10/2026",
+   "receipt_no": "1115609456",
+   "period_from": 2002,
+   "period_to": 2026,
+   "fee": "625",
+   "survey_searched": "196",
+   "village": "Kurla"
+  },
+  {
+   "file": "INDEX_2_21619_2026.pdf",
+   "date": "21/09/2026"
+  }
+ ],
+ "expect": {
+  "must_find": {
+   "21619/2026": "A"
+  },
+  "sro": "Kurla",
+  "owner_contains": "Ashfak Abdul Razak Kalaniya",
+  "owner_excludes": "Payak",
+  "deal": "registered",
+  "draft": false,
+  "project_mortgage": false,
+  "max_draft_flags": 0,
+  "no_flag_contains": [
+   "UNEXECUTED DRAFT",
+   "Property Card",
+   "9899/2008",
+   "Building name"
+  ],
+  "flag_contains": [
+   "ORIGINAL Agreement for Sale dated 04/03/2011 (Doc No. 2542/2011) is reported LOST",
+   "registered before the search period"
+  ],
+  "share_holders": [
+   "Saifuddin",
+   "Fatema"
+  ],
+  "original_or_copy": {
+   "2542/2011": "original lost"
+  },
+  "max_count": {
+   "(?i)intimation of disapproval|\bIOD\b": 1,
+   "(?i)society registration": 1,
+   "(?i)^agreement for sale$": 2
+  }
+ }
+}

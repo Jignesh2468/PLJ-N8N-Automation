@@ -1,0 +1,335 @@
+{
+ "lead": "pradyuman",
+ "note": "Registered Agreement for Sale 16367/2025 (Mumbai 29) from the joint developer of an SRA scheme. No IGR file for 2025 was supplied. The Index-II of the deed was uploaded in the search folder.",
+ "subject": {
+  "unit_type": "Flat",
+  "unit_no": "603",
+  "floor": "6th",
+  "wing": "B",
+  "building_name": "Vinayak Heights",
+  "project_name": "Vinayak Heights (sale building of SRA scheme of Kranti Jyot No. 1 CHS)",
+  "carpet_area": "407 sq. ft.",
+  "cts_no": "194A (part) of Village Ghatkopar and 1(B) (part) of Village Vikhroli",
+  "village": "Ghatkopar",
+  "taluka": "Kurla",
+  "district": "Mumbai Suburban",
+  "pin": "400075",
+  "road_locality": "Savitribai Phule Nagar, Galli No. 1 to 7, Pant Nagar, Ghatkopar East",
+  "full_description": "Residential Flat No. 603 admeasuring 407 sq. ft. RERA carpet area on the 6th Floor of Wing B of the building known as Vinayak Heights, on land bearing CTS No. 194A (part) of Village Ghatkopar and CTS No. 1(B) (part) of Village Vikhroli, Savitribai Phule Nagar, Pant Nagar, Ghatkopar (East), Mumbai - 400075",
+  "search_terms_marathi": [
+   "विनायक हाईट्स",
+   "विनायक हाइट्स",
+   "विनायक असोसिएट",
+   "क्रांती ज्योत"
+  ],
+  "search_terms_english": [
+   "Vinayak Heights",
+   "Vinayak Associate",
+   "Shree Samarth Erectors",
+   "Kranti Jyot"
+  ]
+ },
+ "documents": [
+  {
+   "ref": "D1",
+   "doc_type": "Agreement for Sale",
+   "category": "title_transfer",
+   "level": "premises",
+   "exec_date": "05/09/2025",
+   "reg_date": "05/09/2025",
+   "doc_no_raw": "MBI29-16367-2025",
+   "doc_number": "16367",
+   "doc_year": "2025",
+   "sro": "Joint Sub-Registrar Mumbai 29",
+   "parties": [
+    {
+     "name": "M/s. Vinayak Associate",
+     "role": "Promoter"
+    },
+    {
+     "name": "Mr. Sanjay Dayashankar Singh",
+     "role": "Representative of M/s. Vinayak Associate"
+    },
+    {
+     "name": "Mr. Pradyuman Chauhan",
+     "role": "Purchaser"
+    }
+   ],
+   "consideration": "7200000",
+   "market_value": "3543321",
+   "stamp_duty": "432000",
+   "registration_fee": "30000",
+   "property_text": "Flat No. 603, 6th Floor, Wing B, Vinayak Heights, CTS No. 194A (part), Village Ghatkopar",
+   "furnished": true,
+   "execution_status": "registered"
+  },
+  {
+   "ref": "D2",
+   "doc_type": "Index-II",
+   "category": "registration_record",
+   "level": "premises",
+   "reg_date": "05/09/2025",
+   "doc_no_raw": "16367/2025",
+   "doc_number": "16367",
+   "doc_year": "2025",
+   "sro": "Joint Sub-Registrar Mumbai 29",
+   "parent_ref": "D1",
+   "furnished": true,
+   "parties": [
+    {
+     "name": "M/s. Vinayak Associate",
+     "role": "Promoter"
+    },
+    {
+     "name": "Mr. Pradyuman Chauhan",
+     "role": "Purchaser"
+    }
+   ]
+  },
+  {
+   "ref": "D3",
+   "doc_type": "Development Agreement",
+   "category": "development",
+   "level": "land",
+   "exec_date": "21/08/2004",
+   "parties": [
+    {
+     "name": "Kranti Jyot No. 1 Co-operative Housing Society (Proposed)",
+     "role": "Owner"
+    },
+    {
+     "name": "M/s. Shree Samarth Erectors & Developers",
+     "role": "Developer"
+    }
+   ],
+   "furnished": false
+  },
+  {
+   "ref": "D4",
+   "doc_type": "Power of Attorney",
+   "category": "development",
+   "level": "land",
+   "exec_date": "21/08/2004",
+   "parties": [
+    {
+     "name": "Kranti Jyot No. 1 Co-operative Housing Society (Proposed)",
+     "role": "Principal"
+    },
+    {
+     "name": "M/s. Shree Samarth Erectors & Developers",
+     "role": "Attorney"
+    }
+   ],
+   "furnished": false
+  },
+  {
+   "ref": "D5",
+   "doc_type": "Joint Development Agreement",
+   "category": "development",
+   "level": "project",
+   "exec_date": "17/09/2013",
+   "reg_date": "30/10/2013",
+   "doc_no_raw": "KRL-2/10387/2013",
+   "doc_number": "10387",
+   "doc_year": "2013",
+   "sro": "Sub-Registrar Kurla-2",
+   "parties": [
+    {
+     "name": "M/s. Shree Samarth Erectors & Developers",
+     "role": "Developer"
+    },
+    {
+     "name": "M/s. Vinayak Associate",
+     "role": "Joint Developer"
+    }
+   ],
+   "furnished": false
+  },
+  {
+   "ref": "D6",
+   "doc_type": "Supplementary Joint Development Agreement",
+   "category": "development",
+   "level": "project",
+   "exec_date": "17/09/2013",
+   "parties": [
+    {
+     "name": "M/s. Shree Samarth Erectors & Developers",
+     "role": "Developer"
+    },
+    {
+     "name": "M/s. Vinayak Associate",
+     "role": "Joint Developer"
+    }
+   ],
+   "furnished": false
+  },
+  {
+   "ref": "D7",
+   "doc_type": "Articles of Agreement",
+   "category": "development",
+   "level": "project",
+   "exec_date": "02/01/2015",
+   "reg_date": "24/03/2015",
+   "doc_no_raw": "KRL-3/2387/2015",
+   "doc_number": "2387",
+   "doc_year": "2015",
+   "sro": "Sub-Registrar Kurla-3",
+   "parties": [
+    {
+     "name": "M/s. Shree Samarth Erectors & Developers",
+     "role": "Developer"
+    },
+    {
+     "name": "M/s. Vinayak Associate",
+     "role": "Joint Developer"
+    },
+    {
+     "name": "Kanak Dixit",
+     "role": "Facilitator"
+    }
+   ],
+   "furnished": false
+  },
+  {
+   "ref": "D8",
+   "doc_type": "Irrevocable General Power of Attorney",
+   "category": "development",
+   "level": "project",
+   "exec_date": "02/01/2015",
+   "reg_date": "24/03/2015",
+   "doc_no_raw": "KRL-3/2388/2015",
+   "doc_number": "2388",
+   "doc_year": "2015",
+   "sro": "Sub-Registrar Kurla-3",
+   "parties": [
+    {
+     "name": "M/s. Shree Samarth Erectors & Developers",
+     "role": "Principal"
+    },
+    {
+     "name": "Kanak Dixit",
+     "role": "Attorney"
+    }
+   ],
+   "furnished": false
+  },
+  {
+   "ref": "D9",
+   "doc_type": "Allocation Agreement",
+   "category": "development",
+   "level": "project",
+   "exec_date": "11/12/2017",
+   "parties": [
+    {
+     "name": "M/s. Vinayak Associate",
+     "role": "Joint Developer"
+    },
+    {
+     "name": "M/s. Shree Samarth Erectors & Developers",
+     "role": "Developer"
+    }
+   ],
+   "furnished": false
+  },
+  {
+   "ref": "D10",
+   "doc_type": "Commencement Certificate",
+   "category": "approval",
+   "level": "project",
+   "exec_date": "18/04/2017",
+   "issued_by": "Slum Rehabilitation Authority",
+   "reference_no": "SRA/ENG/2240/N/STGL/AP",
+   "parties": [
+    {
+     "name": "Slum Rehabilitation Authority",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "M/s. Vinayak Associate",
+     "role": "Addressee"
+    }
+   ],
+   "furnished": true
+  },
+  {
+   "ref": "D11",
+   "doc_type": "Intimation of Approval",
+   "category": "approval",
+   "level": "project",
+   "exec_date": "05/10/2016",
+   "issued_by": "Slum Rehabilitation Authority",
+   "reference_no": "SRA/ENG/2240/N/STGL/AP (revised)",
+   "parties": [
+    {
+     "name": "Slum Rehabilitation Authority",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "M/s. Vinayak Associate",
+     "role": "Addressee"
+    }
+   ],
+   "furnished": true
+  },
+  {
+   "ref": "D12",
+   "doc_type": "Title Certificate",
+   "category": "title_certificate",
+   "level": "project",
+   "exec_date": "20/03/2018",
+   "issued_by": "Argus Partners",
+   "parties": [
+    {
+     "name": "Argus Partners",
+     "role": "Issuing Authority"
+    }
+   ],
+   "furnished": true
+  },
+  {
+   "ref": "D13",
+   "doc_type": "MahaRERA Registration Certificate",
+   "category": "approval",
+   "level": "project",
+   "exec_date": "18/07/2017",
+   "issued_by": "Maharashtra Real Estate Regulatory Authority",
+   "reference_no": "P51800000626",
+   "parties": [
+    {
+     "name": "M/s. Vinayak Associate",
+     "role": "Addressee"
+    }
+   ],
+   "furnished": true
+  },
+  {
+   "ref": "D14",
+   "doc_type": "Property Card",
+   "category": "revenue_record",
+   "level": "land",
+   "parties": [],
+   "furnished": true
+  }
+ ],
+ "receipts": [
+  {
+   "file": "eSearch.pdf",
+   "receipt_no": "1115590029",
+   "grn": "MH012647975202627U",
+   "date": "25/10/2026",
+   "fee": "625",
+   "period_from": 2002,
+   "period_to": 2026,
+   "survey_searched": "194",
+   "village": "Ghatkopar"
+  }
+ ],
+ "expect": {
+  "must_find": {
+   "10387/2013": "B"
+  },
+  "sro": "",
+  "owner_contains": "Chauhan",
+  "draft": false
+ }
+}

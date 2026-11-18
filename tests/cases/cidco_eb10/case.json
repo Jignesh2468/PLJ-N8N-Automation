@@ -1,0 +1,217 @@
+{
+ "lead": 900,
+ "subject": {
+  "unit_type": "Flat",
+  "unit_no": "1008",
+  "floor": "10",
+  "building_name": "EB10",
+  "project_name": "My Preferred CIDCO Home - Mass Housing Scheme MH-02/Dec 2025",
+  "carpet_area": "27.1200 sq. mt (RERA)",
+  "plot_no": "39",
+  "road_locality": "Sector 14, Node Kharghar, Navi Mumbai",
+  "full_description": "Flat No. 1008, 10th Floor, Building No. EB10, Sector 14, Plot No. 39, Node Kharghar, Navi Mumbai, under CIDCO's 'My Preferred CIDCO Home' Mass Housing Scheme MH-02/Dec 2025 (Type: EWS; Maha RERA Registration No. P52000028196)",
+  "search_terms_marathi": [
+   "CIDCO",
+   "Manaji Parshuram Shinde",
+   "Aarti Manaji Shinde",
+   "My Preferred CIDCO Home"
+  ],
+  "search_terms_english": [
+   "CIDCO",
+   "City and Industrial Development Corporation (Maharashtra) Limited",
+   "EB10",
+   "E-B-10",
+   "My Preferred CIDCO Home",
+   "Manaji Parshuram Shinde",
+   "Aarti Manaji Shinde"
+  ]
+ },
+ "documents": [
+  {
+   "ref": "AgreementofMf67f-3",
+   "doc_type": "Letter of Intent",
+   "category": "other",
+   "level": "premises",
+   "furnished": false,
+   "execution_status": "",
+   "exec_date": "05/08/2026",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "City and Industrial Development Corporation (Maharashtra) Limited (CIDCO)",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Mr. Manaji Parshuram Shinde",
+     "role": "Addressee"
+    }
+   ],
+   "property_text": "Allotment of unit/flat vide lottery conducted on 20.07.2026 under 'My Preferred CIDCO Home'",
+   "short_description": "Letter of Intent (LOI) dated 05/08/2026 issued by CIDCO for allotment of flat after lottery of 20/07/2026, recited in the Letter of Confirmation of Booking",
+   "key_terms": [
+    "Issued pursuant to lottery conducted on 20/07/2026 under 'My Preferred CIDCO Home'"
+   ],
+   "reference_no": "",
+   "issued_by": "CIDCO Ltd",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "parent_ref": "",
+   "pages": "",
+   "files": [
+    "Agreement_of_Mr._Manaji_Parshuram_Shinde.pdf"
+   ],
+   "file": "Agreement_of_Mr._Manaji_Parshuram_Shinde.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "AgreementofMf67f-1",
+   "doc_type": "Letter of Confirmation of Booking",
+   "category": "other",
+   "level": "premises",
+   "furnished": true,
+   "execution_status": "",
+   "exec_date": "19/08/2026",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "City and Industrial Development Corporation (Maharashtra) Limited (CIDCO)",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Mr. Manaji Parshuram Shinde",
+     "role": "Addressee"
+    },
+    {
+     "name": "Sheetal Prasad Katwate",
+     "role": "Representative of City and Industrial Development Corporation (Maharashtra) Limited (CIDCO)"
+    }
+   ],
+   "property_text": "Flat (Sector-14 Kharghar (EWS) / Plot - 39 / E-B-10 / 10 / 1008) under Mass Housing Scheme MH-02 / Dec 2025",
+   "short_description": "Letter of Confirmation of Booking dated 19/08/2026 (Application No. 250201253901, Type EWS) issued by CIDCO to Mr. Manaji Parshuram Shinde calling for confirmation amount of Rs. 75,000/-",
+   "key_terms": [
+    "Confirmation amount of Rs. 75,000 payable within 15 days of the letter",
+    "Allotment Letter with schedule of further instalments to be issued after receipt",
+    "On non-payment the LOI stands cancelled; booking amount refunded after deduction of Rs. 5000 + GST",
+    "Confirmation based on documents uploaded; liable to cancellation and forfeiture if false"
+   ],
+   "reference_no": "Application No. 250201253901",
+   "issued_by": "CIDCO Ltd, GM (Housing) Department - Assistant Marketing Officer (HSG)",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "parent_ref": "",
+   "pages": "1-2",
+   "files": [
+    "Agreement_of_Mr._Manaji_Parshuram_Shinde.pdf"
+   ],
+   "file": "Agreement_of_Mr._Manaji_Parshuram_Shinde.pdf",
+   "source": "pdf"
+  },
+  {
+   "ref": "AgreementofMf67f-2",
+   "doc_type": "Allotment Letter",
+   "category": "other",
+   "level": "premises",
+   "furnished": true,
+   "execution_status": "",
+   "exec_date": "04/09/2026",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "City and Industrial Development Corporation (Maharashtra) Limited (CIDCO)",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Mr. Manaji Parshuram Shinde",
+     "role": "Addressee"
+    },
+    {
+     "name": "Ms. Aarti Manaji Shinde",
+     "role": "Addressee"
+    },
+    {
+     "name": "Pramada Dattatray Bidve",
+     "role": "Representative of City and Industrial Development Corporation (Maharashtra) Limited (CIDCO)"
+    }
+   ],
+   "property_text": "Flat No. 1008, 10th Floor, Building No. EB10, Sector 14, Plot No. 39, Node Kharghar, Navi Mumbai; RERA carpet area 27.1200 sq. mt",
+   "short_description": "Allotment Letter dated 04/09/2026 (Mass Housing Scheme MH-02/Dec 2025) issued by CIDCO allotting Flat No. 1008, Building EB10, Sector 14, Plot 39, Kharghar to Mr. Manaji Parshuram Shinde and Ms. Aarti Manaji Shinde for sale price Rs. 4350000/-",
+   "key_terms": [
+    "Sale price Rs. 4350000 + incidental charges Rs. 10658 = Rs. 4360658 (excl. GST, stamp duty, registration); tentative, may increase under NMDL(A)R 2008",
+    "Booking Rs. 75000 (22/02/2026) and Confirmation Rs. 75000 (25/08/2026) received; balance Rs. 4200000 in instalments BC1-BC5 of Rs. 790000 each (11/11/2026 to 10/08/2027)",
+    "BC6 Rs. 250000 is PMAY subsidy (EWS) due 17/10/2027; PMAY allottees ineligible for CLSS",
+    "Unit declared free from all encumbrances; none to be created",
+    "Possession on receipt of Occupation Certificate and payment of consideration",
+    "Agreement for Sale to be executed within 2 months of CIDCO's communication and registered",
+    "Transfer barred for 5 years from agreement date (EWS) without CIDCO's written consent; mortgage/transfer needs CIDCO permission and transfer charges",
+    "Housing loan permitted from CIDCO-empanelled banks; CIDCO gives no-objection to mortgage of allotted flat"
+   ],
+   "reference_no": "Application No. 250201253901; Reference No. 10043303; Customer No. 30741003; Maha RERA Reg. No. P52000028196",
+   "issued_by": "CIDCO Ltd, General Manager (Housing) Office",
+   "consideration": "4350000",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "parent_ref": "",
+   "pages": "3-10",
+   "files": [
+    "Agreement_of_Mr._Manaji_Parshuram_Shinde.pdf"
+   ],
+   "file": "Agreement_of_Mr._Manaji_Parshuram_Shinde.pdf",
+   "source": "pdf"
+  }
+ ],
+ "chain_parties": [
+  "City and Industrial Development Corporation (Maharashtra) Limited (CIDCO)",
+  "Mr. Manaji Parshuram Shinde",
+  "Ms. Aarti Manaji Shinde",
+  "Pramada Dattatray Bidve",
+  "Sheetal Prasad Katwate"
+ ],
+ "receipts": [
+  {
+   "file": "eSearch (4).pdf",
+   "grn": "MH012883401202627U",
+   "date": "28/10/2026",
+   "receipt_no": "1115603507",
+   "period_from": 2002,
+   "period_to": 2026,
+   "fee": "625",
+   "survey_searched": "39",
+   "village": "Kharaghar"
+  }
+ ],
+ "expect": {
+  "must_find": {},
+  "no_other_AB": true,
+  "must_not_find": [
+   "1497/2026"
+  ],
+  "sro": "Panvel",
+  "owner_contains": "Aarti Manaji Shinde",
+  "deal": "new_sale",
+  "draft": true,
+  "project_mortgage": false,
+  "flag_contains": [
+   "Only the Allotment Letter dated 04/09/2026"
+  ],
+  "no_flag_contains": [
+   "Current owner could not be established"
+  ]
+ }
+}

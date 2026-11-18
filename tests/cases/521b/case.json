@@ -1,0 +1,428 @@
+{
+ "lead": "521",
+ "note": "Lead 521 with the subject exactly as the live run read it: the Tower B 'said Land' (125/4 pt, 125/7/2 pt, 126/1-5 pt) given as two separate lists. The 118/x conveyances belong to Towers A/C and must NOT match; the supplemental mortgage 583/2025 (land text only '118/7 पै व इतर') must match because it names 8088/2024 and 20573/2024; the land line must read as survey/hissa pairs.",
+ "subject": {
+  "unit_type": "Flat",
+  "unit_no": "4015",
+  "floor": "40th",
+  "wing": "B1",
+  "building_name": "The Palace - Tower B",
+  "project_name": "The Palace - Tower B (formerly Codename Dream Home - Tower B)",
+  "carpet_area": "38.69 sq. m. (416 sq. ft.)",
+  "survey_no": "125, 126",
+  "hissa_no": "4, 7/2, 1, 2, 3, 4, 5",
+  "land_area": "10,223.13 sq. m.",
+  "village": "Ghodbunder",
+  "taluka": "Thane",
+  "district": "Thane",
+  "full_description": "Flat/Unit No. 4015 admeasuring approx. 38.69 sq. mtrs (416 sq. ft.) RERA carpet area on the 40th floor of Wing B1 of the Real Estate Project The Palace – Tower B. Said Land: Survey No.125 Hissa Nos. 4 (pt) and 7/2 (pt); Survey No.126 Hissa Nos. 1 (pt), 2 (pt), 3 (pt), 4 (pt) and 5 (pt), together approx. 1,868.28 sq. mtrs, Village Ghodbunder, Taluka and District Thane",
+  "search_terms_marathi": [
+   "द पॅलेस",
+   "पॅलेस टॉवर बी",
+   "ड्रीम होम टॉवर बी",
+   "जे पी इन्फ्रा रियल्टी"
+  ],
+  "search_terms_english": [
+   "The Palace Tower B",
+   "Codename Dream Home Tower B",
+   "JP Infra Realty"
+  ]
+ },
+ "documents": [
+  {
+   "ref": "D1",
+   "doc_type": "Agreement for Sale",
+   "category": "title_transfer",
+   "level": "premises",
+   "execution_status": "draft",
+   "parties": [
+    {
+     "name": "JP Infra Realty Private Limited",
+     "role": "Promoter"
+    },
+    {
+     "name": "M/S. Salasar Estate Developers LLP",
+     "role": "Promoter / Owner"
+    },
+    {
+     "name": "Harish B Agrawal (HUF)",
+     "role": "Promoter / Owner"
+    },
+    {
+     "name": "Anand R Agrawal (HUF)",
+     "role": "Promoter / Owner"
+    },
+    {
+     "name": "Varun Gorisaria",
+     "role": "Allottee"
+    },
+    {
+     "name": "Yogesh Pawankumar Gorisaria",
+     "role": "Allottee"
+    }
+   ],
+   "consideration": "7714190",
+   "property_text": "Flat No. 4015 admeasuring 38.69 sq. m. carpet on the 40th floor of Wing B1 of The Palace - Tower B. The schedule defining the unit is not in the pages read.",
+   "furnished": true
+  },
+  {
+   "ref": "D1b",
+   "doc_type": "Agreement for Sale (RERA format)",
+   "category": "title_transfer",
+   "level": "premises",
+   "execution_status": "draft",
+   "parties": [],
+   "property_text": "",
+   "furnished": true
+  },
+  {
+   "ref": "D1c",
+   "doc_type": "Agreement for Sale",
+   "category": "title_transfer",
+   "level": "premises",
+   "execution_status": "draft",
+   "parties": [],
+   "property_text": "",
+   "furnished": true
+  },
+  {
+   "ref": "D2",
+   "doc_type": "Details of Encumbrances (Promoter's Declaration)",
+   "category": "other",
+   "level": "project",
+   "exec_date": "10/02/2022",
+   "parties": [
+    {
+     "name": "JP Infra Realty Private Limited",
+     "role": "Promoter"
+    },
+    {
+     "name": "Jambu Kumar Jain",
+     "role": "Authorised Signatory"
+    }
+   ],
+   "furnished": true
+  },
+  {
+   "ref": "D3",
+   "doc_type": "Details of Encumbrances (Promoter's Declaration)",
+   "category": "other",
+   "level": "project",
+   "exec_date": "19/07/2022",
+   "parties": [
+    {
+     "name": "JP Infra Realty Private Limited",
+     "role": "Promoter"
+    },
+    {
+     "name": "Jambu Kumar Jain",
+     "role": "Authorised Signatory"
+    }
+   ],
+   "furnished": true
+  },
+  {
+   "ref": "M1",
+   "doc_type": "Supplemental Indenture of Mortgage for creation of Additional Security",
+   "category": "encumbrance",
+   "level": "project",
+   "exec_date": "27/11/2017",
+   "doc_no_raw": "TNN10 - 9984 - 2017",
+   "sro": "Joint Sub-Registrar of Assurances, Thane 10",
+   "parties": [
+    {
+     "name": "JM Financial Credit Solutions Limited",
+     "role": "Mortgagee"
+    }
+   ],
+   "furnished": false
+  },
+  {
+   "ref": "M2",
+   "doc_type": "Indenture of Mortgage",
+   "category": "encumbrance",
+   "level": "project",
+   "exec_date": "27/03/2018",
+   "reg_date": "28/03/2018",
+   "doc_no_raw": "BDR18 - 3212 - 2018",
+   "sro": "Joint Sub-Registrar of Assurances, Andheri No. 18",
+   "parties": [
+    {
+     "name": "JM Financial Credit Solutions Limited",
+     "role": "Mortgagee"
+    }
+   ],
+   "furnished": false
+  },
+  {
+   "ref": "M3",
+   "doc_type": "Debenture Trust Cum Mortgage Deed",
+   "category": "encumbrance",
+   "level": "project",
+   "exec_date": "18/06/2018",
+   "reg_date": "21/06/2018",
+   "doc_no_raw": "BDR1 - 7546 - 2018",
+   "sro": "Joint Sub-Registrar of Assurances, Andheri 1",
+   "parties": [
+    {
+     "name": "Catalyst Trusteeship Limited",
+     "role": "Mortgagee"
+    }
+   ],
+   "furnished": false
+  },
+  {
+   "ref": "M4",
+   "doc_type": "Indenture of Mortgage",
+   "category": "encumbrance",
+   "level": "project",
+   "exec_date": "08/08/2018",
+   "doc_no_raw": "BDR4 - 8117 - 2018",
+   "sro": "Joint Sub-Registrar of Assurances, Andheri No. 4",
+   "parties": [
+    {
+     "name": "JM Financial Credit Solutions Limited",
+     "role": "Mortgagee"
+    }
+   ],
+   "furnished": false
+  },
+  {
+   "ref": "M5",
+   "doc_type": "Debenture Trust Cum Mortgage Deed",
+   "category": "encumbrance",
+   "level": "project",
+   "exec_date": "26/10/2018",
+   "doc_no_raw": "TNN7 - 15123 - 2018",
+   "sro": "Joint Sub-Registrar Thane 7",
+   "parties": [
+    {
+     "name": "Catalyst Trusteeship Limited",
+     "role": "Mortgagee"
+    }
+   ],
+   "furnished": false
+  },
+  {
+   "ref": "M6",
+   "doc_type": "Debenture Trust Cum Mortgage Deed",
+   "category": "encumbrance",
+   "level": "project",
+   "exec_date": "28/09/2020",
+   "doc_no_raw": "TNN4 - 5993 - 2020",
+   "sro": "Joint Sub-Registrar Thane 4",
+   "parties": [
+    {
+     "name": "Catalyst Trusteeship Limited",
+     "role": "Mortgagee"
+    }
+   ],
+   "furnished": false
+  },
+  {
+   "ref": "M7",
+   "doc_type": "Indenture of Mortgage",
+   "category": "encumbrance",
+   "level": "premises",
+   "exec_date": "30/06/2022",
+   "doc_no_raw": "TNN7-11162-2022",
+   "sro": "Joint Sub-Registrar of Assurances, Thane 7",
+   "parties": [
+    {
+     "name": "JM Financial Credit Solutions Limited",
+     "role": "Mortgagee"
+    }
+   ],
+   "furnished": false
+  },
+  {
+   "ref": "A1",
+   "doc_type": "IOD / Commencement Certificate (MLCP tower)",
+   "category": "approval",
+   "level": "project",
+   "exec_date": "21/10/2021",
+   "issued_by": "Mira Bhayandar Municipal Corporation",
+   "reference_no": "2986/2021-2022",
+   "furnished": false
+  },
+  {
+   "ref": "A2",
+   "doc_type": "Commencement Certificate",
+   "category": "approval",
+   "level": "project",
+   "exec_date": "11/02/2022",
+   "issued_by": "Mira Bhayandar Municipal Corporation (MBMC)",
+   "furnished": false
+  },
+  {
+   "ref": "A3",
+   "doc_type": "Title Certificate",
+   "category": "title_certificate",
+   "level": "land",
+   "exec_date": "18/02/2022",
+   "furnished": false
+  },
+  {
+   "ref": "A4",
+   "doc_type": "RERA Registration Certificate",
+   "category": "approval",
+   "level": "project",
+   "exec_date": "22/02/2022",
+   "issued_by": "Maharashtra Real Estate Regulatory Authority (MahaRERA)",
+   "reference_no": "P51700033430",
+   "furnished": true
+  },
+  {
+   "ref": "A5",
+   "doc_type": "MahaRERA Project Registration Certificate (Form C)",
+   "category": "approval",
+   "level": "project",
+   "exec_date": "15/01/2025",
+   "issued_by": "Maharashtra Real Estate Regulatory Authority (MahaRERA)",
+   "reference_no": "P51700033430",
+   "furnished": true
+  },
+  {
+   "ref": "A6",
+   "doc_type": "Supplemental Title Certificate",
+   "category": "title_certificate",
+   "level": "land",
+   "exec_date": "02/11/2022",
+   "furnished": false
+  },
+  {
+   "ref": "R1",
+   "doc_type": "Title Certificate",
+   "category": "title_certificate",
+   "level": "land",
+   "furnished": false
+  },
+  {
+   "ref": "R2",
+   "doc_type": "RERA Certificate",
+   "category": "approval",
+   "level": "project",
+   "furnished": false
+  },
+  {
+   "ref": "R3",
+   "doc_type": "Commencement Certificate",
+   "category": "approval",
+   "level": "project",
+   "furnished": false
+  },
+  {
+   "ref": "O1",
+   "doc_type": "Original Land Ownership",
+   "category": "title_transfer",
+   "level": "land",
+   "parties": [
+    {
+     "name": "Unknown",
+     "role": "Vendor"
+    },
+    {
+     "name": "Anant Shinwar Kini",
+     "role": "Owner"
+    }
+   ],
+   "furnished": false
+  }
+ ],
+ "chain_parties": [
+  "JP Infra Realty Private Limited",
+  "M/S. Salasar Estate Developers LLP",
+  "Harish B Agrawal (HUF)",
+  "Anand R Agrawal (HUF)",
+  "Varun Gorisaria",
+  "Yogesh Pawankumar Gorisaria"
+ ],
+ "receipts": [
+  {
+   "file": "eSearch (2).pdf",
+   "grn": "MH012218796202627U",
+   "receipt_no": "1115565574",
+   "date": "17/10/2026",
+   "fee": "625",
+   "period_from": 2002,
+   "period_to": 2026,
+   "survey_searched": "118",
+   "village": "Ghodabandar"
+  }
+ ],
+ "expect": {
+  "must_find": {
+   "1137/2008": "B",
+   "5502/2009": "B",
+   "7477/2016": "B",
+   "8711/2016": "B",
+   "832/2018": "B",
+   "9984/2017": "B",
+   "17383/2023": "B",
+   "15123/2018": "B",
+   "5993/2020": "B",
+   "11162/2022": "B",
+   "2806/2024": "B",
+   "18026/2024": "B",
+   "581/2025": "B",
+   "584/2025": "B",
+   "8088/2024": "B",
+   "20573/2024": "B",
+   "583/2025": "B"
+  },
+  "must_not_find": [
+   "7495/2007",
+   "8257/2008",
+   "864/2012",
+   "866/2012",
+   "7480/2016",
+   "10147/2016",
+   "8563/2017",
+   "17138/2022",
+   "6314/2004",
+   "7622/2019",
+   "9442/2023",
+   "21487/2024"
+  ],
+  "released": {
+   "9984/2017": "17383/2023",
+   "8711/2016": "832/2018",
+   "2806/2024": "581/2025",
+   "18026/2024": "581/2025"
+  },
+  "subsisting": [
+   "15123/2018",
+   "5993/2020",
+   "11162/2022",
+   "8088/2024",
+   "20573/2024",
+   "583/2025",
+   "584/2025"
+  ],
+  "not_in_search": [
+   "3212/2018",
+   "7546/2018",
+   "8117/2018"
+  ],
+  "max_draft_flags": 1,
+  "no_flag_contains": [
+   "Title Certificate referred to",
+   "RERA Certificate referred to",
+   "Commencement Certificate referred to"
+  ],
+  "sro": "Thane No.2 to",
+  "owner_contains": "Gorisaria",
+  "draft": true,
+  "project_mortgage": true,
+  "land_value": "125/4, 125/7/2, 126/1, 126/2, 126/3, 126/4, 126/5",
+  "releasor": {
+   "832/2018": "Sikom",
+   "581/2025": "Birala"
+  },
+  "no_text": [
+   "Unknown",
+   "not in the pages read"
+  ]
+ },
+ "igr_dir": "521"
+}

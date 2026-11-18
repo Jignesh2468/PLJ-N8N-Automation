@@ -1,0 +1,1223 @@
+{
+ "lead": 549,
+ "subject": {
+  "unit_type": "Flat",
+  "unit_no": "1903",
+  "floor": "19th",
+  "building_name": "Mohak Garden City (Elysian) Block E",
+  "project_name": "Mohak Garden City (Elysian)",
+  "carpet_area": "29.42 sq. mtrs. (RERA carpet area)",
+  "survey_no": "338/B/2/3",
+  "land_area": "23480 sq. mtrs",
+  "village": "Virar",
+  "taluka": "Vasai",
+  "district": "Palghar",
+  "full_description": "Flat No.1903, admeasuring 29.42 sq. mtrs. RERA carpet area on 19th floor in the Block E of the Building known as 'MOHAK GARDEN CITY (Elysian)' to be constructed on the land bearing Survey No.338/B/2/3 situated at Village Virar, Taluka Vasai, District Palghar, within the Registration Sub District of Vasai and Registration District of Palghar",
+  "search_terms_marathi": [
+   "Mohak Garden City",
+   "Mohak Garden City Elysian",
+   "V M S Enterprises",
+   "Sandeep Kanu Nachare",
+   "Surekha Sandeep Nachare",
+   "Sudam Bistir Patil",
+   "Elysian",
+   "V.M.S. Enterprises",
+   "Ashutosh Madhukar Joshi",
+   "Sudam Bistir Patil",
+   "Yashoda Sudam Patil"
+  ],
+  "search_terms_english": [
+   "Mohak Garden City",
+   "Mohak Garden City Elysian",
+   "Block E",
+   "VMS Enterprises",
+   "Sandeep Kanu Nachare",
+   "Surekha Sandeep Nachare",
+   "Sudam Bistir Patil",
+   "Elysian",
+   "Ashutosh Madhukar Joshi",
+   "Yashoda Sudam Patil"
+  ],
+  "wing": "E"
+ },
+ "documents": [
+  {
+   "ref": "SandeepNacha001c-9",
+   "doc_type": "Development Agreement",
+   "category": "development",
+   "level": "land",
+   "furnished": false,
+   "execution_status": "registered",
+   "exec_date": "11/02/2003",
+   "reg_date": "11/02/2003",
+   "doc_number": "760",
+   "doc_year": "2003",
+   "doc_no_raw": "VSI-2-760-2003",
+   "sro": "Sub Registrar of Assurance, Vasai-2",
+   "parties": [
+    {
+     "name": "Shri Sudam Bistir Patil & Ors.",
+     "role": "Owner"
+    },
+    {
+     "name": "M/s.VMS Enterprises",
+     "role": "Developer"
+    },
+    {
+     "name": "Mr.Ashutosh Madhukar Joshi",
+     "role": "Representative of M/s.VMS Enterprises"
+    }
+   ],
+   "property_text": "Freehold land adm. 17.23 Acres or thereabouts forming part of Survey No.338/A/2 adm.87,870 sq. mtrs., Village Virar, Taluka Vasai, District Palghar",
+   "short_description": "Development Agreement dated 11/02/2003 registered at Sr.No.VSI-2-760-2003 between Shri Sudam Bistir Patil & Ors. (Owners) and M/s.VMS Enterprises (Developer)",
+   "key_terms": [
+    "Development rights granted to M/s.VMS Enterprises over 17.23 Acres",
+    "Sudam Bistir Patil acted for himself and as constituted attorney of Yashoda, Mahesh, Chetan, Vinod, Sima as per Index-II",
+    "Index-II document type: Agreement; search report calls it Development Agreement"
+   ],
+   "reference_no": "",
+   "consideration": "4200000",
+   "market_value": "4225000",
+   "stamp_duty": "42250",
+   "registration_fee": "20000",
+   "file": "Sandeep_Nachare.pdf",
+   "pages": "6",
+   "draft": false,
+   "recited_only": false
+  },
+  {
+   "ref": "SandeepNacha001c-18",
+   "doc_type": "Index-II",
+   "category": "registration_record",
+   "level": "land",
+   "furnished": true,
+   "execution_status": "registered",
+   "exec_date": "11/02/2003",
+   "reg_date": "11/02/2003",
+   "doc_number": "760",
+   "doc_year": "2003",
+   "doc_no_raw": "760/2003",
+   "sro": "Sub-Registrar Vasai-2",
+   "parties": [
+    {
+     "name": "Shri Sudam Bistir Patil",
+     "role": "Owner"
+    },
+    {
+     "name": "Shri Dinkar Dharma Patil",
+     "role": "Owner"
+    },
+    {
+     "name": "Shri Dattatray Dharma Patil",
+     "role": "Owner"
+    },
+    {
+     "name": "M/s. VMS Enterprises",
+     "role": "Developer"
+    },
+    {
+     "name": "Mr. Ashutosh Madhukar Joshi",
+     "role": "Representative of M/s. VMS Enterprises"
+    }
+   ],
+   "property_text": "Village Virar (Nagarpalika limits), agricultural land for developing property; area 8-78-7 H.R. of which 1-40-0 H.R",
+   "short_description": "Index-II of Document No.760/2003 dated 11/02/2003, Sub-Registrar Vasai-2, village Virar",
+   "key_terms": [
+    "Document type: Agreement for Sale; consideration Rs.4200000; market value Rs.4225000",
+    "Execution and registration date 11/02/2003"
+   ],
+   "reference_no": "",
+   "consideration": "4200000",
+   "market_value": "4225000",
+   "stamp_duty": "42250",
+   "registration_fee": "20000",
+   "file": "Sandeep_Nachare.pdf",
+   "pages": "17",
+   "draft": false,
+   "recited_only": false
+  },
+  {
+   "ref": "SANDEEPTECHN05cc-2",
+   "doc_type": "Development Agreement",
+   "category": "development",
+   "level": "land",
+   "furnished": false,
+   "execution_status": "",
+   "exec_date": "31/12/2007",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Shri Sudam Bistir Patil and others",
+     "role": "Owner"
+    },
+    {
+     "name": "M/S. VMS ENTERPRISES",
+     "role": "Developer"
+    }
+   ],
+   "property_text": "17.23 Acres of freehold land forming part of Survey No. 338/A/2 (total 87,870 Sq. Mtrs), Village Virar, Taluka Vasai, District Palghar",
+   "short_description": "Development Agreement dated 31/12/2007 between Shri Sudam Bistir Patil and others (Original Owners) and M/s. VMS Enterprises (Developers), recited",
+   "key_terms": [
+    "Owners granted development rights over 17.23 Acres to the Promoter",
+    "Read with Confirmation Deed dated 19/06/2010 and Power of Attorney dated 19/06/2010",
+    "Recited in Confirmation Deed 9462/2010 as the original development agreement dated 31/12/07; stamp duty adjudicated under EVN 740/10 dated 18/6/10"
+   ],
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "file": "SANDEEP_TECHNICAL_VALUATION.pdf",
+   "pages": "",
+   "draft": false,
+   "recited_only": false
+  },
+  {
+   "ref": "SANDEEPTECHN05cc-3",
+   "doc_type": "Confirmation Deed",
+   "category": "development",
+   "level": "land",
+   "furnished": false,
+   "execution_status": "registered",
+   "exec_date": "19/06/2010",
+   "reg_date": "19/06/2010",
+   "doc_number": "9462",
+   "doc_year": "2010",
+   "doc_no_raw": "Vasai2-09462-2010",
+   "sro": "Sub-Registrar of Assurances, Vasai-2",
+   "parties": [
+    {
+     "name": "Shri Sudam Bistir Patil and others",
+     "role": "Owner"
+    },
+    {
+     "name": "M/S. VMS ENTERPRISES",
+     "role": "Developer"
+    }
+   ],
+   "property_text": "17.23 Acres of land forming part of Survey No. 338/A/2, Village Virar, Taluka Vasai, District Palghar",
+   "short_description": "Confirmation Deed dated 19/06/2010 registered at Vasai-2 under No. Vasai2-09462-2010, read with Development Agreement dated 31/12/2007, recited",
+   "key_terms": [
+    "Confirms the Development Agreement dated 31/12/2007",
+    "Confirms development rights granted under Development Agreement dated 11/02/2003",
+    "Confirms original Development Agreement dated 31/12/2007",
+    "Stamp duty on original agreement paid on adjudication: Thane Rural EVN 740/10 dated 18/6/10, duty Rs.780120 and penalty Rs.468080",
+    "Search report describes Sudam Bistir Patil as deceased, acting through legal heirs",
+    "Alka Nandkumar Patil shown as acting through constituted attorneys Dattatray Dharma Patil / Dinkar Dharma Patil; Sima Haresh Patil through Sudam Bistir Patil"
+   ],
+   "reference_no": "",
+   "consideration": "0",
+   "market_value": "78012000",
+   "stamp_duty": "100",
+   "registration_fee": "30000",
+   "file": "SANDEEP_TECHNICAL_VALUATION.pdf",
+   "pages": "6",
+   "draft": false,
+   "recited_only": false
+  },
+  {
+   "ref": "SandeepNacha001c-20",
+   "doc_type": "Index-II",
+   "category": "registration_record",
+   "level": "land",
+   "furnished": true,
+   "execution_status": "registered",
+   "exec_date": "19/06/2010",
+   "reg_date": "19/06/2010",
+   "doc_number": "9462",
+   "doc_year": "2010",
+   "doc_no_raw": "9462/2010",
+   "sro": "Sub-Registrar Vasai-2",
+   "parties": [
+    {
+     "name": "Sudam Bistir Patil",
+     "role": "Owner"
+    },
+    {
+     "name": "Yashoda Sudam Patil",
+     "role": "Owner"
+    },
+    {
+     "name": "Dinkar Dharma Patil",
+     "role": "Owner"
+    },
+    {
+     "name": "Dattatray Dharma Patil",
+     "role": "Owner"
+    },
+    {
+     "name": "M/s. VMS Enterprises",
+     "role": "Developer"
+    },
+    {
+     "name": "Ashutosh Madhukar Joshi",
+     "role": "Representative of M/s. VMS Enterprises"
+    }
+   ],
+   "property_text": "Mauje Virar, S.No. 338/A/2, area H.R. 8-78-70, assessment 5.44 paise, of which 17.23 acres",
+   "short_description": "Index-II of Document No.9462/2010 dated 19/06/2010, Sub-Registrar Vasai-2, Confirmation Deed, village Virar",
+   "key_terms": [
+    "Document type: Sanction Letter; consideration Rs.0; market value Rs.78012000",
+    "Refers to original development agreement dated 31/12/07; EVN No.740/10 dated 18/6/10"
+   ],
+   "reference_no": "",
+   "consideration": "0",
+   "market_value": "78012000",
+   "stamp_duty": "100",
+   "registration_fee": "30000",
+   "file": "Sandeep_Nachare.pdf",
+   "pages": "18-19",
+   "draft": false,
+   "recited_only": false
+  },
+  {
+   "ref": "SANDEEPTECHN05cc-4",
+   "doc_type": "Power of Attorney",
+   "category": "development",
+   "level": "land",
+   "furnished": false,
+   "execution_status": "registered",
+   "exec_date": "19/06/2010",
+   "reg_date": "",
+   "doc_number": "9463",
+   "doc_year": "2010",
+   "doc_no_raw": "Vasai2-09463-2010",
+   "sro": "Sub-Registrar of Assurances, Vasai-2",
+   "parties": [
+    {
+     "name": "Shri Sudam Bistir Patil and others",
+     "role": "Owner"
+    },
+    {
+     "name": "M/S. VMS ENTERPRISES",
+     "role": "Developer"
+    }
+   ],
+   "property_text": "Land forming part of Survey No. 338/A/2, Village Virar, Taluka Vasai, District Palghar",
+   "short_description": "Power of Attorney dated 19/06/2010 registered at Vasai-2 under No. Vasai2-09463-2010 in favour of M/s. VMS Enterprises, recited",
+   "key_terms": [
+    "Promoter claims sole and exclusive right to sell apartments and receive consideration by virtue of Development Agreement and Power of Attorney",
+    "Several powers granted for development of the property to M/s.VMS Enterprises"
+   ],
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "file": "SANDEEP_TECHNICAL_VALUATION.pdf",
+   "pages": "6",
+   "draft": false,
+   "recited_only": false
+  },
+  {
+   "ref": "SANDEEPTECHN05cc-5",
+   "doc_type": "Commencement Certificate",
+   "category": "approval",
+   "level": "project",
+   "furnished": false,
+   "execution_status": "",
+   "exec_date": "18/02/2026",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Vasai Virar City Municipal Corporation",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "M/S. VMS ENTERPRISES",
+     "role": "Addressee"
+    }
+   ],
+   "property_text": "Block E (Mixed), Survey No. 338/B/2/3, Village Virar; sanctioned Built-up P-Line Area 13,457.197 Sq. Mtrs",
+   "short_description": "Commencement Certificate Permit No. VVCMC/B/2026/APL/01437 dated 18/02/2026 issued by Vasai Virar City Municipal Corporation for Block E (Mixed), recited",
+   "key_terms": [
+    "Floors: Stilt/Ground, typical 1st to 6th, 8th to 13th, 15th to 20th and 22nd, refuge 7th, 14th and 21st, terrace",
+    "Block E (Mixed), stilt/ground + 22 upper floors"
+   ],
+   "reference_no": "VVCMC/B/2026/APL/01437",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "file": "SANDEEP_TECHNICAL_VALUATION.pdf",
+   "pages": "",
+   "draft": false,
+   "recited_only": false
+  },
+  {
+   "ref": "SandeepNacha001c-5",
+   "doc_type": "Legal Title Report",
+   "category": "title_certificate",
+   "level": "project",
+   "furnished": false,
+   "execution_status": "",
+   "exec_date": "03/06/2026",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Tushar R. Patil, Advocate",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "M/s.VMS Enterprises",
+     "role": "Addressee"
+    }
+   ],
+   "property_text": "Land bearing Survey No.338/B/2/3, Village Virar, Taluka Vasai, District Palghar",
+   "short_description": "Legal Title Report dated 03/06/2026 issued by Tushar R. Patil, Advocate, for the Builders (copy from RERA)",
+   "key_terms": [
+    "Certifies title clear, marketable and free from encumbrances"
+   ],
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "file": "Sandeep_Nachare.pdf",
+   "pages": "",
+   "draft": false,
+   "recited_only": false
+  },
+  {
+   "ref": "SandeepNacha001c-8",
+   "doc_type": "Search Report",
+   "category": "encumbrance",
+   "level": "premises",
+   "furnished": false,
+   "execution_status": "",
+   "exec_date": "23/06/2026",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [],
+   "property_text": "Search for 30 years, 1996 to 2026, Sub-Registrar office Vasai and other concerned offices",
+   "short_description": "Search Report dated 23/06/2026 with NIL encumbrances for 30 years (1996 to 2026)",
+   "key_terms": [
+    "NIL encumbrances for the period 1996 to 2026"
+   ],
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "file": "Sandeep_Nachare.pdf",
+   "pages": "",
+   "draft": false,
+   "recited_only": false
+  },
+  {
+   "ref": "SandeepNacha001c-7",
+   "doc_type": "MahaRERA Project Registration Certificate",
+   "category": "approval",
+   "level": "project",
+   "furnished": false,
+   "execution_status": "",
+   "exec_date": "29/06/2026",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Maharashtra Real Estate Regulatory Authority",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "M/s.VMS Enterprises",
+     "role": "Holder"
+    }
+   ],
+   "property_text": "Project 'Mohak Garden City (Elysian)', Survey No.338/B/2/3, Village Virar, Taluka Vasai",
+   "short_description": "MahaRERA Registration Certificate No.PR1180002600145 for 'Mohak Garden City (Elysian)' valid 29/06/2026 to 15/05/2031",
+   "key_terms": [
+    "Registration valid from 29/06/2026 to 15/05/2031"
+   ],
+   "reference_no": "PR1180002600145",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "file": "Sandeep_Nachare.pdf",
+   "pages": "",
+   "draft": false,
+   "recited_only": false
+  },
+  {
+   "ref": "SANDEEPTECHN05cc-8",
+   "doc_type": "MahaRERA Order",
+   "category": "approval",
+   "level": "project",
+   "furnished": false,
+   "execution_status": "",
+   "exec_date": "07/08/2026",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "MahaRERA",
+     "role": "Issuing Authority"
+    }
+   ],
+   "property_text": "",
+   "short_description": "MAHA RERA Order dated 07/08/2026 bearing No. 66/2026, recited as extending the possession date by four months",
+   "key_terms": [
+    "Recited in clause 5 of the Agreement as extending the possession date by four months"
+   ],
+   "reference_no": "66/2026",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "file": "SANDEEP_TECHNICAL_VALUATION.pdf",
+   "pages": "",
+   "draft": false,
+   "recited_only": false
+  },
+  {
+   "ref": "SandeepNacha001c-1",
+   "doc_type": "Professional Bill",
+   "category": "other",
+   "level": "premises",
+   "furnished": true,
+   "execution_status": "",
+   "exec_date": "27/10/2026",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Proficient Law Junction LLP",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Chief Manager, Bank of Baroda",
+     "role": "Addressee"
+    },
+    {
+     "name": "Mr.Sandeep Kanu Nachare",
+     "role": "Proposed purchaser (Account holder)"
+    },
+    {
+     "name": "Mrs.Surekha Sandeep Nachare",
+     "role": "Proposed purchaser (Account holder)"
+    }
+   ],
+   "property_text": "Flat No.1903, 29.42 sq. mtrs. RERA carpet area, 19th floor, Block E, 'MOHAK GARDEN CITY (Elysian)', Survey No.338/B/2/3, Village Virar, Taluka Vasai, District Palghar",
+   "short_description": "Professional Bill dated 27/10/2026 for Rs.4,100/- issued by Proficient Law Junction LLP to Bank of Baroda",
+   "key_terms": [
+    "Professional fee Rs.4,100/- for Legal Scrutiny Report and reimbursement of search charges for 30 years (1996 to 2026)"
+   ],
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "file": "Sandeep_Nachare.pdf",
+   "pages": "1",
+   "draft": false,
+   "recited_only": false
+  },
+  {
+   "ref": "SandeepNacha001c-2",
+   "doc_type": "Title Certificate Report",
+   "category": "title_certificate",
+   "level": "premises",
+   "furnished": true,
+   "execution_status": "",
+   "exec_date": "27/10/2026",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Proficient Law Junction LLP",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Chief Manager, Bank of Baroda",
+     "role": "Addressee"
+    },
+    {
+     "name": "Mr.Sandeep Kanu Nachare",
+     "role": "Proposed purchaser (Mortgagor)"
+    },
+    {
+     "name": "Mrs.Surekha Sandeep Nachare",
+     "role": "Proposed purchaser (Mortgagor)"
+    }
+   ],
+   "property_text": "Flat No.1903, 29.42 sq. mtrs. RERA carpet area, 19th floor, Block E, 'MOHAK GARDEN CITY (Elysian)', to be constructed on Survey No.338/B/2/3, Village Virar, Taluka Vasai, District Palghar",
+   "short_description": "Title Certificate Report Ref. No.12/BOB/10/2026 dated 27/10/2026 issued by Proficient Law Junction LLP to Bank of Baroda for Flat No.1903, Block E, Mohak Garden City (Elysian)",
+   "key_terms": [
+    "Title clear and marketable upon execution of Agreement, free from encumbrances; search 1996 to 2026",
+    "Mortgagors become joint owners only upon execution and registration of Agreement; names not yet in SRO record",
+    "Possession only after full payment to Promoter",
+    "Permission to Mortgage (NOC) to be obtained from M/s.VMS Enterprises",
+    "Occupation Certificate and original Share Certificate to be deposited when issued",
+    "Bank's charge to be noted in records of M/s.VMS Enterprises and society when formed",
+    "Notice of intimation of mortgage under Section 89B within 30 days",
+    "Search Index-II pages for some years torn / loose / not prepared; stated not to affect the property",
+    "Q.20: property covered under SARFAESI Act, 2002 - equitable mortgage to be created by mortgagors in favour of the Bank will be valid and enforceable",
+    "Precaution: Bank should physically visit the said property before disbursement",
+    "Enclosures: Search Report for 30 years 1996 to 2026; Govt. fees paid receipt; Index-II of all entries found at SRO Vasai"
+   ],
+   "reference_no": "12/BOB/10/2026",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "file": "Sandeep_Nachare.pdf",
+   "pages": "2-10",
+   "draft": false,
+   "recited_only": false
+  },
+  {
+   "ref": "SandeepNacha001c-14",
+   "doc_type": "Challan (MTR Form-6) - Search Fee",
+   "category": "receipt",
+   "level": "premises",
+   "furnished": true,
+   "execution_status": "",
+   "exec_date": "27/10/2026",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Inspector General of Registration",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Jignesh Arvind Sanglani",
+     "role": "Payer"
+    }
+   ],
+   "property_text": "",
+   "short_description": "Challan MTR Form-6 GRN MH012767485202627U dated 27/10/2026 for Search Fee Rs.750/- paid by Jignesh Arvind Sanglani (defaced for Rs.625/-)",
+   "key_terms": [
+    "Search fee Rs.750 paid via State Bank of India, Bank CIN 00040572026102721393",
+    "Second copy (page 14) shows challan defaced for Rs.625.00 (Defacement No. 0007227334202627 dated 27/10/2026)"
+   ],
+   "reference_no": "GRN MH012767485202627U",
+   "consideration": "750",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "file": "Sandeep_Nachare.pdf",
+   "pages": "12, 14",
+   "draft": false,
+   "recited_only": false
+  },
+  {
+   "ref": "SandeepNacha001c-15",
+   "doc_type": "eSearch Receipt (Search Fee)",
+   "category": "receipt",
+   "level": "land",
+   "furnished": true,
+   "execution_status": "",
+   "exec_date": "27/10/2026",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Department of Registration and Stamps, Government of Maharashtra",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Sujal Ganesh Pendhari",
+     "role": "Applicant"
+    }
+   ],
+   "property_text": "Dist: Thane, Village: Janaval, S.No/CTS No/G.No.: 27; period of search 2016 to 2026",
+   "short_description": "eSearch Receipt No.1115597517 dated 27/10/2026 for search fee Rs.300/- (GRN MH012087633202627P) issued by Department of Registration and Stamps",
+   "key_terms": [
+    "Search fee Rs.300 credited to Government vide GRN MH012087633202627P",
+    "Period of search 2016 to 2026"
+   ],
+   "reference_no": "Receipt no. 1115597517; GRN MH012087633202627P",
+   "consideration": "300",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "file": "Sandeep_Nachare.pdf",
+   "pages": "13",
+   "draft": false,
+   "recited_only": false
+  },
+  {
+   "ref": "SandeepNacha001c-16",
+   "doc_type": "Search Report",
+   "category": "title_certificate",
+   "level": "premises",
+   "furnished": true,
+   "execution_status": "",
+   "exec_date": "27/10/2026",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Proficient Law Junction LLP",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Chief Manager, Bank of Baroda, Borivali (West) Branch, Mumbai",
+     "role": "Addressee"
+    },
+    {
+     "name": "Mr. Sandeep Kanu Nachare",
+     "role": "Proposed Purchaser"
+    },
+    {
+     "name": "Mrs. Surekha Sandeep Nachare",
+     "role": "Proposed Purchaser"
+    }
+   ],
+   "property_text": "Flat No.1903, 29.42 sq. mtrs. RERA carpet area, 19th floor, Block E, 'MOHAK GARDEN CITY (Elysian)', Survey No.338/B/2/3, Village Virar, Taluka Vasai, District Palghar",
+   "short_description": "Search Report dated 27/10/2026 by Proficient Law Junction LLP to Bank of Baroda for period 1996-2026 showing Development Agreement 2003 and Confirmation Deed 2010",
+   "key_terms": [
+    "Online search 1996 to 2026 at SRO Vasai: NIL except 2003 and 2010 entries",
+    "2003: Development Agreement dated 11/02/2003, VSI-2-760-2003",
+    "2010: Confirmation Deed dated 19/06/2010, VSI-2-9462-2010",
+    "Govt. fees paid vide GRN MH012087633202627P & Receipt No.1115597517 dated 27/10/2026"
+   ],
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "file": "Sandeep_Nachare.pdf",
+   "pages": "15-16",
+   "draft": false,
+   "recited_only": false
+  },
+  {
+   "ref": "SANDEEPTECHN05cc-1",
+   "doc_type": "Agreement for Sale",
+   "category": "title_transfer",
+   "level": "premises",
+   "furnished": true,
+   "execution_status": "draft",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "Sub-Registrar of Vasai",
+   "parties": [
+    {
+     "name": "M/S. VMS ENTERPRISES",
+     "role": "Promoter"
+    },
+    {
+     "name": "Mr. Ashutosh Madhukar Joshi",
+     "role": "Representative of M/S. VMS ENTERPRISES"
+    },
+    {
+     "name": "Mr. Sandeep Kanu Nachare",
+     "role": "Allottee (Purchaser)"
+    },
+    {
+     "name": "Mrs. Surekha Sandeep Nachare",
+     "role": "Allottee (Purchaser)"
+    }
+   ],
+   "property_text": "Residential Flat No. 1903, Nineteenth Floor, Block E, MOHAK GARDEN CITY (Elysian), 29.42 Sq. Mtrs RERA Carpet, on plinth land 683.17 Sq. Mtrs, New Survey No. 338/B/2/3 (Old 338/A/2), Village Virar, Taluka Vasai, District Palghar",
+   "short_description": "Draft Agreement for Sale (October 2026, date blank) between M/s. VMS Enterprises (Promoter) and Mr. Sandeep Kanu Nachare & Mrs. Surekha Sandeep Nachare (Allottees) for Flat No. 1903, 19th Floor, Block E, Mohak Garden City (Elysian), Virar, for Rs.33,05,416/-",
+   "key_terms": [
+    "Date left blank: 'this ____ day of October, 2026' at Vasai",
+    "Total consideration Rs.33,05,416/-",
+    "Advance paid Rs.3,30,541/-; balance Rs.29,74,875/- to be deposited in RERA collection account No. 99929730012519, HDFC Bank, Vasai West",
+    "Payment plan: 10% at execution, 35% at plinth, 4% each on slabs/plumbing/tiling, 3% at possession",
+    "Covered parking: Nil",
+    "Promoter's right to sell derives from Development Agreement and Power of Attorney",
+    "Allottees residing at A/107, Heramba Apartment, Manvelpada Road, Virar East",
+    "Sanctioned Built-up P-Line Area of the Said Project: 13,457.197 sq. m",
+    "Possession on or before 15/05/2031, or the date extended by four months per MahaRERA Order dated 07/08/2026 No. 66/2026",
+    "Carpet area variation cap 3%; price recalculated at the clause 1(a) rate, refund within 45 days with interest on reduction",
+    "Rebate for early payment of installments at 12% p.a. (at the Promoter's discretion)",
+    "TDS at 1% to be deducted by the Allottee if the sale consideration is above 50 Lakhs",
+    "Promoter may terminate after three payment defaults, on 15 days' written notice",
+    "Possession to be taken within 15 days of the Promoter's written notice after the Occupancy Certificate; defect liability 5 years",
+    "Conveyance of the building structure to the society within three months of the Occupancy Certificate; use for residential purposes only",
+    "Cl.9: before possession Allottee deposits Rs.600 share money, Rs.5000 taxes/levies share, Rs.70000 application money/entrance fee/development/utility charges, Rs.40000 for 24 months adhoc maintenance (non-refundable)",
+    "Cl.10: Rs.10000 payable for legal costs and registration formalities; Allottee bears share of stamp duty/registration on society and apex body conveyance",
+    "Cl.11: Promoter warrants clear and marketable title as per annexed title report, no encumbrances or litigation except those disclosed in the title report",
+    "Cl.11(vii): Promoter has not entered into any other agreement affecting the project land or the Apartment",
+    "Cl.12(ix): Allottee not to let, sub-let, transfer or assign until all dues to Promoter are paid",
+    "Cl.14: open spaces, parking, lobbies, staircases and terraces remain Promoter's property until conveyance to Society/Apex Body",
+    "Cl.15: Promoter shall not mortgage or create a charge on the Apartment after executing this Agreement",
+    "Cl.16: Allottee to sign and deliver within 30 days of receipt, and appear for registration when intimated; 15 days' notice to rectify default",
+    "Cl.27: stamp duty and registration charges to be borne by Promoter",
+    "Cl.23: agreement to be registered at Sub-Registrar, Vasai",
+    "Cl.28: disputes referred to MahaRERA",
+    "Cl.30: layout 23480 sq.m. less DP road 7374 and CFC 823.21 = Net Plot Area 15282 sq.m. for 7 towers",
+    "Block E plinth area 683.17 sq.m.; project name on MahaRERA 'Mohak Garden City - Elysian'",
+    "Details subject to revised VVCMC development permission / amended plans",
+    "Promoter may use internal roads as thoroughfare until entire layout is complete",
+    "Net Plot Area to be conveyed to federation of Building Societies"
+   ],
+   "reference_no": "",
+   "consideration": "3305416",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "file": "SANDEEP_TECHNICAL_VALUATION.pdf",
+   "pages": "1-10",
+   "draft": true,
+   "recited_only": false
+  },
+  {
+   "ref": "SANDEEPTECHN05cc-10",
+   "doc_type": "Title Report",
+   "category": "title_certificate",
+   "level": "land",
+   "furnished": false,
+   "execution_status": "",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [],
+   "property_text": "Project land",
+   "short_description": "Title report on the project land recited as annexed to the Agreement for Sale",
+   "key_terms": [
+    "Recited in Cl.11 as annexed to the Agreement; encumbrances, litigation and notices are stated to be those disclosed in it"
+   ],
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "file": "SANDEEP_TECHNICAL_VALUATION.pdf",
+   "pages": "",
+   "draft": false,
+   "recited_only": true
+  },
+  {
+   "ref": "SandeepNacha001c-3",
+   "doc_type": "Agreement for Sale",
+   "category": "title_transfer",
+   "level": "premises",
+   "furnished": false,
+   "execution_status": "draft",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "M/s.VMS Enterprises",
+     "role": "Promoter"
+    },
+    {
+     "name": "Mr.Ashutosh Madhukar Joshi",
+     "role": "Representative of M/s.VMS Enterprises"
+    },
+    {
+     "name": "Mr.Sandeep Kanu Nachare",
+     "role": "Allottee"
+    },
+    {
+     "name": "Mrs.Surekha Sandeep Nachare",
+     "role": "Allottee"
+    }
+   ],
+   "property_text": "Flat No.1903, 29.42 sq. mtrs. RERA carpet area, 19th floor, Block E, 'MOHAK GARDEN CITY (Elysian)', Survey No.338/B/2/3, Village Virar, Taluka Vasai, District Palghar",
+   "short_description": "Draft Agreement for Sale between M/s.VMS Enterprises (Promoter) and Mr.Sandeep Kanu Nachare & Mrs.Surekha Sandeep Nachare (Allottees) for Flat No.1903 for Rs.33,05,416/-",
+   "key_terms": [
+    "Consideration Rs.33,05,416/-",
+    "Full ownership acquired only on execution and registration with payment of stamp duty and registration fees",
+    "Vacant and peaceful possession after full consideration paid"
+   ],
+   "reference_no": "",
+   "consideration": "3305416",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "file": "Sandeep_Nachare.pdf",
+   "pages": "",
+   "draft": false,
+   "recited_only": true
+  },
+  {
+   "ref": "SANDEEPTECHN05cc-14",
+   "doc_type": "Bank Passbook (Account Details Page)",
+   "category": "other",
+   "level": "premises",
+   "furnished": true,
+   "execution_status": "",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Indian Bank, Virar Branch",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Sandeep Kanu Nachare",
+     "role": "Holder"
+    }
+   ],
+   "property_text": "",
+   "short_description": "Indian Bank, Virar branch passbook details page of Sandeep Kanu Nachare, A/c No. 856817983, verified with original by Bank of Baroda",
+   "key_terms": [
+    "Account No. 856817983; CIF 00375834972; mode of operation Self",
+    "Account opened 07/10/2009",
+    "Address: A/107, 1st Floor, Heramba Apartment, Manvelpada Road, Virar East, near Royal Public School",
+    "Stamped 'Verified with Original for Bank of Baroda', Virar (East) branch"
+   ],
+   "reference_no": "856817983",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "file": "SANDEEP_TECHNICAL_VALUATION.pdf",
+   "pages": "37",
+   "draft": false,
+   "recited_only": false
+  },
+  {
+   "ref": "SANDEEPTECHN05cc-15",
+   "doc_type": "Bank Account Statement",
+   "category": "other",
+   "level": "premises",
+   "furnished": true,
+   "execution_status": "",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Indian Bank, Virar Branch",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Sandeep Kanu Nachare",
+     "role": "Holder"
+    }
+   ],
+   "property_text": "",
+   "short_description": "Indian Bank, Virar savings account statement (passbook entries) 20/08/26 to 27/09/26, closing balance Rs.244.20 Cr",
+   "key_terms": [
+    "Entries from 20/08/26 to 27/09/26",
+    "Brought forward balance 1253.70 Cr",
+    "NEFT credit 51857.00 on 02/09/26 and NEFT credit 2850.00 on 10/09/26",
+    "Closing balance 244.20 Cr on 27/09/26"
+   ],
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "file": "SANDEEP_TECHNICAL_VALUATION.pdf",
+   "pages": "38-40",
+   "draft": false,
+   "recited_only": false
+  },
+  {
+   "ref": "SANDEEPTECHN05cc-6",
+   "doc_type": "MahaRERA Registration Certificate",
+   "category": "approval",
+   "level": "project",
+   "furnished": false,
+   "execution_status": "",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Maharashtra Real Estate Regulatory Authority",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "M/S. VMS ENTERPRISES",
+     "role": "Holder"
+    }
+   ],
+   "property_text": "Block E, Mohak Garden City (Elysian), on plinth land 683.17 Sq. Mtrs, Survey No. 338/B/2/3, Village Virar",
+   "short_description": "MahaRERA Registration No. PR1240002600967 for the project Block E, Mohak Garden City (Elysian), recited",
+   "key_terms": [
+    "Block E registered as a separate Real Estate Project"
+   ],
+   "reference_no": "PR1240002600967",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "file": "SANDEEP_TECHNICAL_VALUATION.pdf",
+   "pages": "",
+   "draft": false,
+   "recited_only": false
+  },
+  {
+   "ref": "SANDEEPTECHN05cc-12",
+   "doc_type": "RERA Registration Certificate",
+   "category": "approval",
+   "level": "project",
+   "furnished": false,
+   "execution_status": "",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "MahaRERA",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "M/s. VMS Enterprises",
+     "role": "Holder"
+    }
+   ],
+   "property_text": "Building identified as Block E, 'Mohak Garden City - Elysian'",
+   "short_description": "MahaRERA Registration No. PR1240002600967 for Block E, Mohak Garden City - Elysian (recited only)",
+   "key_terms": [
+    "Recited in Cl.30(I)(ii): RERA Registration No. PR1240002600967 for Block E"
+   ],
+   "reference_no": "PR1240002600967",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "file": "SANDEEP_TECHNICAL_VALUATION.pdf",
+   "pages": "",
+   "draft": false,
+   "recited_only": false
+  },
+  {
+   "ref": "SANDEEPTECHN05cc-13",
+   "doc_type": "Approved Layout Plan (Proforma 1)",
+   "category": "plan",
+   "level": "project",
+   "furnished": false,
+   "execution_status": "",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Vasai Virar City Municipal Corporation",
+     "role": "Issuing Authority"
+    }
+   ],
+   "property_text": "Net Plot Area 15282 Sq. Mtrs. with floating FSI calculation for the entire layout",
+   "short_description": "Approved plan (proforma 1) of the Mohak Garden City layout recited in the Agreement for Sale; not furnished",
+   "key_terms": [
+    "Recited in Cl.30(I)(iii): approved plan at proforma 1 shows Net Plot Area and floating FSI calculation"
+   ],
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "file": "SANDEEP_TECHNICAL_VALUATION.pdf",
+   "pages": "",
+   "draft": false,
+   "recited_only": true
+  },
+  {
+   "ref": "SandeepNacha001c-4",
+   "doc_type": "7/12 Extract",
+   "category": "revenue_record",
+   "level": "land",
+   "furnished": false,
+   "execution_status": "",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Talathi Saja Virar",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Shri Mahesh Sudam Patil",
+     "role": "Holder"
+    },
+    {
+     "name": "Yashoda Sudam Patil",
+     "role": "Holder"
+    },
+    {
+     "name": "Vinod Sudam Patil",
+     "role": "Holder"
+    },
+    {
+     "name": "Sima Haresh Patil",
+     "role": "Holder"
+    }
+   ],
+   "property_text": "Survey No.338/B/2/3 adm.23480 sq. mtrs., Village Virar, Taluka Vasai",
+   "short_description": "7/12 Extract issued by Talathi Saja Virar, Tal. Vasai (copy from RERA) for Survey No.338/B/2/3",
+   "key_terms": [
+    "Names of Mahesh, Yashoda, Vinod Sudam Patil and Sima Haresh Patil mutated as owners (per report)"
+   ],
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "file": "Sandeep_Nachare.pdf",
+   "pages": "",
+   "draft": false,
+   "recited_only": true
+  },
+  {
+   "ref": "SandeepNacha001c-12",
+   "doc_type": "Payment Receipt (Government search fees)",
+   "category": "receipt",
+   "level": "premises",
+   "furnished": false,
+   "execution_status": "",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "doc_no_raw": "",
+   "sro": "",
+   "parties": [],
+   "property_text": "",
+   "short_description": "Govt. fees paid receipt of Rs.750/- for search of 30 years (1996 to 2026)",
+   "key_terms": [
+    "Govt. fees Rs.750/- for 30-year search 1996 to 2026"
+   ],
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "750",
+   "file": "Sandeep_Nachare.pdf",
+   "pages": "",
+   "draft": false,
+   "recited_only": true
+  }
+ ],
+ "chain_parties": [
+  "Shri Sudam Bistir Patil & Ors.",
+  "M/s.VMS Enterprises",
+  "Mr.Ashutosh Madhukar Joshi",
+  "Shri Sudam Bistir Patil",
+  "Shri Dinkar Dharma Patil",
+  "Shri Dattatray Dharma Patil",
+  "M/s. VMS Enterprises",
+  "Mr. Ashutosh Madhukar Joshi",
+  "Shri Sudam Bistir Patil and others",
+  "M/S. VMS ENTERPRISES",
+  "Sudam Bistir Patil",
+  "Yashoda Sudam Patil",
+  "Dinkar Dharma Patil",
+  "Dattatray Dharma Patil",
+  "Ashutosh Madhukar Joshi",
+  "Vasai Virar City Municipal Corporation",
+  "Tushar R. Patil, Advocate",
+  "Maharashtra Real Estate Regulatory Authority",
+  "MahaRERA",
+  "Proficient Law Junction LLP",
+  "Chief Manager, Bank of Baroda",
+  "Mr.Sandeep Kanu Nachare",
+  "Mrs.Surekha Sandeep Nachare",
+  "Inspector General of Registration",
+  "Jignesh Arvind Sanglani",
+  "Department of Registration and Stamps, Government of Maharashtra",
+  "Sujal Ganesh Pendhari",
+  "Chief Manager, Bank of Baroda, Borivali (West) Branch, Mumbai",
+  "Mr. Sandeep Kanu Nachare",
+  "Mrs. Surekha Sandeep Nachare",
+  "Indian Bank, Virar Branch",
+  "Sandeep Kanu Nachare",
+  "Talathi Saja Virar",
+  "Shri Mahesh Sudam Patil",
+  "Vinod Sudam Patil",
+  "Sima Haresh Patil"
+ ],
+ "receipts": [
+  {
+   "file": "eChallanMH012767485202627U.pdf",
+   "grn": "MH012767485202627U",
+   "date": "27/10/2026"
+  },
+  {
+   "file": "eSearch.pdf",
+   "receipt_no": "1115597517",
+   "grn": "MH012087633202627P",
+   "period_from": 2016,
+   "period_to": 2026,
+   "fee": "300",
+   "date": "27/10/2026",
+   "survey_searched": "27",
+   "village": "Janaval"
+  }
+ ],
+ "expect": {
+  "must_find": {
+   "9462/2010": "B",
+   "760/2003": "B"
+  },
+  "must_not_find": [
+   "12242/2023",
+   "17998/2024",
+   "18330/2024"
+  ],
+  "sro": "Vasai",
+  "owner_contains": "Sandeep Kanu Nachare",
+  "deal": "new_sale",
+  "draft": true,
+  "not_in_chain": [
+   "12/BOB/10/2026",
+   "Proficient Law Junction"
+  ]
+ }
+}

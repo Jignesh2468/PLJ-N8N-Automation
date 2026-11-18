@@ -1,0 +1,170 @@
+{
+ "lead": "515",
+ "subject": {
+  "unit_type": "Industrial Unit",
+  "unit_no": "202",
+  "floor": "Second",
+  "building_name": "Aaren Plaza",
+  "survey_no": "16",
+  "hissa_no": "4",
+  "village": "Sativali",
+  "taluka": "Vasai",
+  "district": "Thane",
+  "full_description": "ALL THAT piece and parcel of a Premises/Unit No: 202, on the second floor of the 'AAREN PLAZA' admeasuring 768 sq.ft (built up), along with right to use, occupy or lease an adjoining terrace, situated at S.No: 16, Hissa No:4, National Highway No:8, Near G.R.Hotel, Tungareshwar Fata, Village – Sativali, Taluka - Vasai, Dist - Thane",
+  "search_terms_marathi": [
+   "आरेन प्लाझा"
+  ],
+  "search_terms_english": [
+   "Aaren Plaza"
+  ]
+ },
+ "documents": [
+  {
+   "ref": "D1",
+   "doc_type": "Deed of Conveyance",
+   "category": "title_transfer",
+   "level": "land",
+   "exec_date": "15/02/2007",
+   "doc_no_raw": "01597/2007",
+   "doc_number": "1597",
+   "doc_year": "2007",
+   "sro": "Sub-Registrar Vasai",
+   "parties": [
+    {
+     "name": "Mr. Abdulla Bhikulla Khan and others",
+     "role": "Vendor"
+    },
+    {
+     "name": "M/s. Roopnaval Developers",
+     "role": "Purchaser"
+    }
+   ],
+   "furnished": false
+  },
+  {
+   "ref": "D2",
+   "doc_type": "Title Certificate",
+   "category": "title_certificate",
+   "level": "land",
+   "exec_date": "07/04/2007",
+   "reference_no": "RUPNAVAL/SATIVALI/04/2007",
+   "issued_by": "William J. Pen, Advocate",
+   "parties": [
+    {
+     "name": "M/s. Roopnaval Developers",
+     "role": "Addressee"
+    }
+   ],
+   "furnished": true
+  },
+  {
+   "ref": "D3",
+   "doc_type": "Commencement Certificate",
+   "category": "approval",
+   "level": "project",
+   "exec_date": "25/03/2008",
+   "reference_no": "CIDCO/VVSR/CC/BP-4296/E/1061",
+   "issued_by": "CIDCO",
+   "parties": [
+    {
+     "name": "M/s. Roop Naval Developers",
+     "role": "Addressee"
+    }
+   ],
+   "furnished": true
+  },
+  {
+   "ref": "D4",
+   "doc_type": "Agreement for Sale",
+   "category": "title_transfer",
+   "level": "premises",
+   "exec_date": "31/12/2010",
+   "reg_date": "21/01/2011",
+   "doc_no_raw": "वसइ3-01017-2011",
+   "doc_number": "1017",
+   "doc_year": "2011",
+   "sro": "Sub-Registrar Vasai-3",
+   "consideration": "1803500",
+   "market_value": "1178000",
+   "stamp_duty": "90180",
+   "registration_fee": "18040",
+   "parties": [
+    {
+     "name": "M/s. Roopnaval Developers",
+     "role": "Builder"
+    },
+    {
+     "name": "Mr. Rameshkumar Pukhrajji Bhati",
+     "role": "Purchaser"
+    },
+    {
+     "name": "Mrs. Ganga Rameshkumar Bhati",
+     "role": "Purchaser"
+    }
+   ],
+   "furnished": true
+  },
+  {
+   "ref": "D5",
+   "doc_type": "Agreement for Sale",
+   "category": "title_transfer",
+   "level": "premises",
+   "exec_date": "24/12/2012",
+   "reg_date": "24/12/2012",
+   "doc_no_raw": "वसइ3-15913-2012",
+   "doc_number": "15913",
+   "doc_year": "2012",
+   "sro": "Joint Sub-Registrar Vasai-3",
+   "consideration": "2060000",
+   "market_value": "2056000",
+   "stamp_duty": "123600",
+   "registration_fee": "20600",
+   "parties": [
+    {
+     "name": "Mr. Rameshkumar Pukhrajji Bhati",
+     "role": "Vendor"
+    },
+    {
+     "name": "Mrs. Ganga Rameshkumar Bhati",
+     "role": "Vendor"
+    },
+    {
+     "name": "M/s JAS Financial Services Pvt. Ltd.",
+     "role": "Purchaser"
+    },
+    {
+     "name": "M/s Roopnaval Developers",
+     "role": "Confirming Party"
+    }
+   ],
+   "furnished": true
+  }
+ ],
+ "chain_parties": [
+  "Roopnaval Developers",
+  "Rameshkumar Bhati",
+  "JAS Financial Services"
+ ],
+ "receipts": [
+  {
+   "file": "JIGNESH RECEIPT.pdf",
+   "receipt_no": "1115088112",
+   "grn": "MH002926204202627E",
+   "fee": "325",
+   "date": "20/05/2026"
+  }
+ ],
+ "expect": {
+  "must_find": {
+   "1597/2007": "AB",
+   "1017/2011": "A",
+   "15913/2012": "A",
+   "3664/2025": "A"
+  },
+  "no_other_AB": true,
+  "sro": "Vasai No.1 to 6",
+  "owner_contains": "JAS",
+  "draft": false,
+  "project_mortgage": false
+ }
+}

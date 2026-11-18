@@ -1,0 +1,140 @@
+{
+ "lead": "nambiar",
+ "note": "Registered Agreement for Sale 3206/2025 (Thane 7) from JP Infra; share certificate No. 639 of Alexa CHS dated 21/03/2023 (before the agreement); IGR shows her deposit of title deeds with Tata Capital 416/2025. The search folder also holds Tata Capital's list of documents.",
+ "subject": {
+  "unit_type": "Flat",
+  "unit_no": "3109",
+  "floor": "31st",
+  "wing": "1B",
+  "building_name": "JP North Alexa",
+  "project_name": "JP North Alexa",
+  "society_name": "Alexa Co-operative Housing Society Limited",
+  "carpet_area": "31.76 sq. mtrs.",
+  "survey_no": "26, 25",
+  "hissa_no": "5 (part), 1",
+  "village": "Ghodbunder",
+  "taluka": "Thane",
+  "district": "Thane",
+  "pin": "401107",
+  "road_locality": "Vinay Nagar, Mira Road East",
+  "full_description": "Flat No. 3109 admeasuring 31.76 sq. mtrs. RERA carpet area on the 31st floor of Wing 1B of the real estate project JP North Alexa, on land bearing Survey No. 26 Hissa No. 5 (part) and Survey No. 25 Hissa No. 1 of Village Ghodbunder, Taluka and District Thane, Mira Road East",
+  "search_terms_marathi": [
+   "अलेक्सा",
+   "जे पी नॉर्थ"
+  ],
+  "search_terms_english": [
+   "JP North Alexa",
+   "Alexa",
+   "JP Infra"
+  ]
+ },
+ "documents": [
+  {
+   "ref": "D1",
+   "doc_type": "Agreement for Sale",
+   "category": "title_transfer",
+   "level": "premises",
+   "reg_date": "18/02/2025",
+   "doc_no_raw": "TNN7-3206-2025",
+   "doc_number": "3206",
+   "doc_year": "2025",
+   "sro": "Joint Sub-Registrar Thane-7",
+   "parties": [
+    {
+     "name": "JP Infra Realty Private Limited (formerly Skylark Realtors Private Limited)",
+     "role": "Promoter"
+    },
+    {
+     "name": "J.P. Infra (Mumbai) Private Limited",
+     "role": "Promoter"
+    },
+    {
+     "name": "Vishakha Anand Nambiar",
+     "role": "Allottee"
+    }
+   ],
+   "consideration": "6487008",
+   "market_value": "4681635",
+   "stamp_duty": "389300",
+   "registration_fee": "30000",
+   "property_text": "Flat No. 3109, 31st floor, Wing 1B, JP North Alexa",
+   "furnished": true,
+   "execution_status": "registered"
+  },
+  {
+   "ref": "D2",
+   "doc_type": "Share Certificate",
+   "category": "society",
+   "level": "premises",
+   "exec_date": "21/03/2023",
+   "reference_no": "639",
+   "issued_by": "Alexa Co-operative Housing Society Limited",
+   "parties": [
+    {
+     "name": "Alexa Co-operative Housing Society Limited",
+     "role": "Society"
+    },
+    {
+     "name": "Vishakha Anand Nambiar",
+     "role": "Member"
+    }
+   ],
+   "property_text": "Flat No. 1B-3109, shares 6381 to 6390",
+   "furnished": true
+  },
+  {
+   "ref": "D3",
+   "doc_type": "Society Registration Certificate",
+   "category": "society",
+   "level": "project",
+   "exec_date": "21/03/2023",
+   "reference_no": "TNA/(TNA)/HSG/(TC)/35688/2022-2023",
+   "parties": [
+    {
+     "name": "Alexa Co-operative Housing Society Limited",
+     "role": "Society"
+    }
+   ],
+   "furnished": false
+  },
+  {
+   "ref": "D4",
+   "doc_type": "Power of Attorney",
+   "category": "other",
+   "level": "project",
+   "exec_date": "14/06/2023",
+   "parties": [
+    {
+     "name": "Mr. Chhaganlal Vasudeo Khetan",
+     "role": "Principal"
+    },
+    {
+     "name": "Mr. Laxminarayan Sharma",
+     "role": "Attorney"
+    }
+   ],
+   "furnished": true
+  }
+ ],
+ "receipts": [
+  {
+   "file": "eSearch.pdf",
+   "receipt_no": "1115546671",
+   "grn": "MH011863898202627U",
+   "date": "13/10/2026",
+   "fee": "625",
+   "period_from": 2002,
+   "period_to": 2026,
+   "survey_searched": "26",
+   "village": "Ghodabandar"
+  }
+ ],
+ "expect": {
+  "must_find": {
+   "416/2025": "A"
+  },
+  "sro": "",
+  "owner_contains": "Nambiar",
+  "draft": false
+ }
+}

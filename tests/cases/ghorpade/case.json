@@ -1,0 +1,189 @@
+{
+ "lead": "ghorpade",
+ "note": "Registered Agreement for Sale MBI28-21857-2026 of Flat 805 from M/s D D Group (redevelopment of Building No. 409); same land as case 536 (Flat 2806).",
+ "subject": {
+  "unit_type": "Flat",
+  "unit_no": "805",
+  "floor": "8th",
+  "building_name": "Om Shantivan Skies",
+  "project_name": "Om Shantivan Skies",
+  "society_name": "Tagore Nagar Shantivan Co-operative Housing Society Ltd.",
+  "carpet_area": "451 sq. ft.",
+  "survey_no": "113 (pt.)",
+  "cts_no": "338 (pt.)",
+  "land_area": "910.59 sq. meter",
+  "village": "Hariyali",
+  "taluka": "Kurla",
+  "district": "Mumbai Suburban",
+  "pin": "400083",
+  "road_locality": "Tagore Nagar, Vikhroli East",
+  "full_description": "Residential Flat No. 805 admeasuring 451 sq. ft. RERA carpet area on the 8th Floor of the new building known as Om Shantivan Skies (Building No. 409), Tagore Nagar Shantivan CHS Ltd., Tagore Nagar, Vikhroli East, Mumbai - 400083, on land bearing Survey No. 113 (pt.) and CTS No. 338 (pt.) of Village Hariyali",
+  "search_terms_marathi": [
+   "ओम शांतीवन स्काईज",
+   "टागोर नगर शांतीवन",
+   "डी डी ग्रुप"
+  ],
+  "search_terms_english": [
+   "Om Shantivan Skies",
+   "Tagore Nagar Shantivan",
+   "D. D. Group"
+  ]
+ },
+ "documents": [
+  {
+   "ref": "D1",
+   "doc_type": "Agreement for Sale",
+   "category": "title_transfer",
+   "level": "premises",
+   "exec_date": "17/09/2026",
+   "reg_date": "22/09/2026",
+   "doc_no_raw": "MBI28-21857-2026",
+   "doc_number": "21857",
+   "doc_year": "2026",
+   "sro": "Joint Sub-Registrar Mumbai 28",
+   "parties": [
+    {
+     "name": "M/s. D. D. Group",
+     "role": "Promoter"
+    },
+    {
+     "name": "Yogita Mahesh Ghorpade",
+     "role": "Allottee"
+    },
+    {
+     "name": "Mahesh Tanaji Ghorpade",
+     "role": "Allottee"
+    }
+   ],
+   "consideration": "8177081",
+   "market_value": "7239451",
+   "stamp_duty": "490625",
+   "registration_fee": "30000",
+   "property_text": "Flat No. 805, 8th Floor, Om Shantivan Skies, Building No. 409, Tagore Nagar Shantivan CHS",
+   "furnished": true,
+   "execution_status": "registered"
+  },
+  {
+   "ref": "D2",
+   "doc_type": "Development Agreement",
+   "category": "development",
+   "level": "land",
+   "exec_date": "04/09/2025",
+   "doc_no_raw": "16341/2025",
+   "doc_number": "16341",
+   "doc_year": "2025",
+   "sro": "Joint Sub-Registrar Mumbai 29",
+   "parties": [
+    {
+     "name": "Tagore Nagar Shantivan Co-operative Housing Society Ltd.",
+     "role": "Owner"
+    },
+    {
+     "name": "M/s. D. D. Group",
+     "role": "Developer"
+    }
+   ],
+   "furnished": false
+  },
+  {
+   "ref": "D3",
+   "doc_type": "Power of Attorney",
+   "category": "development",
+   "level": "land",
+   "exec_date": "04/09/2025",
+   "doc_no_raw": "16359/2025",
+   "doc_number": "16359",
+   "doc_year": "2025",
+   "sro": "Joint Sub-Registrar Mumbai 29",
+   "parties": [
+    {
+     "name": "Tagore Nagar Shantivan Co-operative Housing Society Ltd.",
+     "role": "Principal"
+    },
+    {
+     "name": "M/s. D. D. Group",
+     "role": "Attorney"
+    }
+   ],
+   "furnished": false
+  },
+  {
+   "ref": "D4",
+   "doc_type": "Indenture of Lease",
+   "category": "title_transfer",
+   "level": "land",
+   "exec_date": "13/11/2000",
+   "parties": [
+    {
+     "name": "Maharashtra Housing and Area Development Authority",
+     "role": "Lessor"
+    },
+    {
+     "name": "Tagore Nagar Shantivan Co-operative Housing Society Ltd.",
+     "role": "Lessee"
+    }
+   ],
+   "furnished": false
+  },
+  {
+   "ref": "D5",
+   "doc_type": "Deed of Sale",
+   "category": "title_transfer",
+   "level": "land",
+   "exec_date": "13/11/2000",
+   "parties": [
+    {
+     "name": "Maharashtra Housing and Area Development Authority",
+     "role": "Vendor"
+    },
+    {
+     "name": "Tagore Nagar Shantivan Co-operative Housing Society Ltd.",
+     "role": "Purchaser"
+    }
+   ],
+   "furnished": false
+  },
+  {
+   "ref": "D6",
+   "doc_type": "Intimation of Approval",
+   "category": "approval",
+   "level": "project",
+   "exec_date": "05/12/2025",
+   "issued_by": "MHADA",
+   "reference_no": "MH/EE/(BP)/GM/MHADA-8/2350/2025/IOA/1/New",
+   "parties": [
+    {
+     "name": "Tagore Nagar Shantivan Co-operative Housing Society Ltd.",
+     "role": "Addressee"
+    }
+   ],
+   "furnished": false
+  },
+  {
+   "ref": "D7",
+   "doc_type": "MahaRERA Registration Certificate",
+   "category": "approval",
+   "level": "project",
+   "issued_by": "Maharashtra Real Estate Regulatory Authority",
+   "reference_no": "PR1180002502829",
+   "parties": [
+    {
+     "name": "M/s. D. D. Group",
+     "role": "Addressee"
+    }
+   ],
+   "furnished": true
+  }
+ ],
+ "receipts": [],
+ "expect": {
+  "must_find": {
+   "21857/2026": "A",
+   "16341/2025": "B"
+  },
+  "sro": "",
+  "owner_contains": "Ghorpade",
+  "draft": false,
+  "project_mortgage": true
+ }
+}

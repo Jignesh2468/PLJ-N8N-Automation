@@ -1,0 +1,297 @@
+{
+ "lead": "mayekar",
+ "note": "Resale (2018) of a Lodha flat bought in 2013/14. The bundle also holds Sale_Agreement_10001.pdf, an agreement of Flat 1202, Aaradhya One, Chembur between other people; it must be set aside, never put in the chain. IGR 9432/2024 is Flat C/2304 of the same complex (another wing).",
+ "borrower": "Sheetal Mayekar",
+ "extractions": [
+  {
+   "subject_property": {
+    "building_name": "Vivant B, C & D",
+    "village": "Bhayanderpada",
+    "taluka": "Thane",
+    "district": "Thane"
+   },
+   "documents": [
+    {
+     "ref": "OC1",
+     "doc_type": "Occupancy Certificate",
+     "category": "approval",
+     "level": "project",
+     "exec_date": "27/03/2018",
+     "issued_by": "Thane Municipal Corporation",
+     "reference_no": "TMC/TDD/OCC/0476/18",
+     "file": "Lodha_OC.pdf",
+     "parties": [
+      {
+       "name": "Thane Municipal Corporation",
+       "role": "Issuing Authority"
+      },
+      {
+       "name": "Lodha Developers Pvt. Ltd.",
+       "role": "Addressee"
+      }
+     ],
+     "furnished": true
+    }
+   ]
+  },
+  {
+   "subject_property": {
+    "unit_type": "Flat",
+    "unit_no": "1202",
+    "floor": "12th",
+    "wing": "B",
+    "building_name": "Aaradhya One",
+    "village": "Chembur",
+    "full_description": "Flat No. 1202, 12th floor, B wing, Aaradhya One, Plot No. 86 & 87, Pestom Sagar Road No. 1, Amar Mahal Junction, Chembur, Mumbai"
+   },
+   "documents": [
+    {
+     "ref": "SA1",
+     "doc_type": "Agreement for Sale",
+     "category": "title_transfer",
+     "level": "premises",
+     "exec_date": "11/01/2019",
+     "reg_date": "11/01/2019",
+     "sro": "Joint Sub-Registrar Kurla-1",
+     "file": "Sale_Agreement_10001.pdf",
+     "parties": [
+      {
+       "name": "Mrs. Monica Alpesh Soni",
+       "role": "Vendor"
+      },
+      {
+       "name": "Mr. Champaklal Vallabhji Chheda",
+       "role": "Purchaser"
+      },
+      {
+       "name": "Mr. Bhavin Champaklal Chheda",
+       "role": "Purchaser"
+      }
+     ],
+     "consideration": "15000000",
+     "property_text": "Flat No. 1202, 12th floor, B wing, Aaradhya One, Chembur",
+     "furnished": true,
+     "execution_status": "registered"
+    },
+    {
+     "ref": "SA2",
+     "doc_type": "Agreement for Sale",
+     "category": "title_transfer",
+     "level": "premises",
+     "exec_date": "16/08/2018",
+     "doc_no_raw": "KRL5/11280/2018",
+     "doc_number": "11280",
+     "doc_year": "2018",
+     "file": "Sale_Agreement_10001.pdf",
+     "parties": [
+      {
+       "name": "M/s. A. M. Developers",
+       "role": "Promoter"
+      },
+      {
+       "name": "Mrs. Monica Alpesh Soni",
+       "role": "Purchaser"
+      }
+     ],
+     "property_text": "Flat No. 1202, Aaradhya One, Chembur",
+     "furnished": false
+    }
+   ]
+  },
+  {
+   "subject_property": {
+    "unit_type": "Flat",
+    "unit_no": "2304",
+    "floor": "23rd",
+    "wing": "D",
+    "building_name": "Vivant D",
+    "project_name": "Lodha Splendora",
+    "carpet_area": "750 sq. ft.",
+    "survey_no": "109/14",
+    "village": "Bhayanderpada",
+    "taluka": "Thane",
+    "district": "Thane",
+    "pin": "400607",
+    "road_locality": "Ghodbunder Road, Thane (West)",
+    "full_description": "Residential Flat No. 2304 admeasuring 750 sq. ft. carpet area on the 23rd Floor of D Wing of the building known as Vivant-D, Lodha Splendora, Bhayanderpada, Ghodbunder Road, Thane (West) - 400607, Old Survey No. 208/pt, New Survey No. 109/14 of Village Bhayanderpada",
+    "search_terms_marathi": [
+     "विवांत",
+     "लोढा स्प्लेंडोरा"
+    ],
+    "search_terms_english": [
+     "Vivant D",
+     "Lodha Splendora",
+     "Lodha Developers"
+    ]
+   },
+   "documents": [
+    {
+     "ref": "LO1",
+     "doc_type": "Agreement for Sale",
+     "category": "title_transfer",
+     "level": "premises",
+     "exec_date": "19/12/2013",
+     "reg_date": "18/03/2014",
+     "doc_no_raw": "TNN2-2326-2014",
+     "doc_number": "2326",
+     "doc_year": "2014",
+     "sro": "Joint Sub-Registrar Thane-2",
+     "file": "lodha_original_agreement.pdf",
+     "parties": [
+      {
+       "name": "Lodha Developers Pvt. Ltd.",
+       "role": "Promoter"
+      },
+      {
+       "name": "Manavjeet Singh",
+       "role": "Purchaser"
+      },
+      {
+       "name": "Smita Singh",
+       "role": "Purchaser"
+      }
+     ],
+     "consideration": "9021375",
+     "market_value": "4632000",
+     "stamp_duty": "541510",
+     "registration_fee": "30000",
+     "property_text": "Flat No. 2304, 23rd floor, D wing, Vivant D, Lodha Splendora, Bhayanderpada",
+     "furnished": true,
+     "execution_status": "registered"
+    }
+   ]
+  },
+  {
+   "subject_property": {
+    "unit_type": "Flat",
+    "unit_no": "2304",
+    "floor": "23rd",
+    "wing": "D",
+    "building_name": "Vivant D",
+    "project_name": "Lodha Splendora",
+    "carpet_area": "750 sq. ft.",
+    "survey_no": "109/14",
+    "village": "Bhayanderpada",
+    "taluka": "Thane",
+    "district": "Thane",
+    "pin": "400607",
+    "road_locality": "Ghodbunder Road, Thane (West)",
+    "full_description": "Residential Flat No. 2304 admeasuring 750 sq. ft. carpet area on the 23rd Floor of D Wing of the building known as Vivant-D, Lodha Splendora, Bhayanderpada, Ghodbunder Road, Thane (West) - 400607, Old Survey No. 208/pt, New Survey No. 109/14 of Village Bhayanderpada",
+    "search_terms_marathi": [
+     "विवांत",
+     "लोढा स्प्लेंडोरा"
+    ],
+    "search_terms_english": [
+     "Vivant D",
+     "Lodha Splendora",
+     "Lodha Developers"
+    ]
+   },
+   "documents": [
+    {
+     "ref": "LR1",
+     "doc_type": "Agreement for Sale",
+     "category": "title_transfer",
+     "level": "premises",
+     "exec_date": "30/08/2018",
+     "reg_date": "30/08/2018",
+     "doc_no_raw": "TNN2-11813-2018",
+     "doc_number": "11813",
+     "doc_year": "2018",
+     "sro": "Joint Sub-Registrar Thane-2",
+     "file": "lodha_resale.pdf",
+     "parties": [
+      {
+       "name": "Mr. Manavjeet Singh",
+       "role": "Vendor"
+      },
+      {
+       "name": "Mrs. Smitha Singh",
+       "role": "Vendor"
+      },
+      {
+       "name": "Sheetal Arvind Mayekar",
+       "role": "Purchaser"
+      }
+     ],
+     "consideration": "9100000",
+     "market_value": "7043620",
+     "stamp_duty": "546000",
+     "registration_fee": "30000",
+     "property_text": "Flat No. 2304, 23rd Floor, D Wing, Vivant-D, Lodha Splendora, Bhayanderpada, Thane (West)",
+     "furnished": true,
+     "execution_status": "registered"
+    },
+    {
+     "ref": "LR2",
+     "doc_type": "Agreement for Sale",
+     "category": "title_transfer",
+     "level": "premises",
+     "exec_date": "19/12/2013",
+     "reg_date": "18/03/2014",
+     "doc_no_raw": "TNN-2/2326/2014",
+     "doc_number": "2326",
+     "doc_year": "2014",
+     "sro": "Joint Sub-Registrar Thane-2",
+     "file": "lodha_resale.pdf",
+     "parties": [
+      {
+       "name": "M/s. Lodha Developers Private Limited",
+       "role": "Promoter"
+      },
+      {
+       "name": "Mr. Manavjeet Singh",
+       "role": "Purchaser"
+      },
+      {
+       "name": "Mrs. Smitha Singh",
+       "role": "Purchaser"
+      }
+     ],
+     "property_text": "Flat No. 2304, 23rd Floor, D Wing, Vivant-D, Lodha Splendora",
+     "furnished": false
+    }
+   ]
+  }
+ ],
+ "receipts": [
+  {
+   "file": "eSearch.pdf",
+   "receipt_no": "1115587322",
+   "grn": "MH012618763202627U",
+   "date": "24/10/2026",
+   "fee": "625",
+   "period_from": 2002,
+   "period_to": 2026,
+   "survey_searched": "109",
+   "village": "Bhaindarpada"
+  }
+ ],
+ "expect": {
+  "foreign_files": [
+   "Sale_Agreement_10001.pdf"
+  ],
+  "must_not_find": [
+   "9432/2024",
+   "1939/2021",
+   "4796/2021"
+  ],
+  "sro": "",
+  "owner_contains": "Mayekar",
+  "owner_excludes": "Chheda",
+  "draft": false,
+  "not_in_chain": [
+   "Chheda",
+   "Aaradhya",
+   "Monica"
+  ],
+  "flag_contains": [
+   "relate to another property"
+  ],
+  "must_find": {
+   "1943/2021": "A",
+   "3064/2010": "B",
+   "10210/2011": "B"
+  }
+ }
+}

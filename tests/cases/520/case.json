@@ -1,0 +1,189 @@
+{
+ "lead": "520",
+ "subject": {
+  "unit_type": "Flat",
+  "unit_no": "1801B",
+  "wing": "B",
+  "floor": "18th",
+  "building_name": "North Imperial Greens Tower 1",
+  "project_name": "North Imperial Greens – Tower 1 (formerly Codename Lottery – Tower 1)",
+  "cts_no": "450 Pt., 449 Pt., 451, 455/A Pt., 460 Pt., 461 Pt., 464/1 Pt., 465/1 Pt., 538/1, 463, 462, 459 & 467/A",
+  "village": "Owale",
+  "taluka": "Thane",
+  "district": "Thane",
+  "full_description": "Flat No. 1801B, B Wing, 18th Floor, Tower 1, North Imperial Greens (formerly Codename Lottery - Tower 1), carpet area 29.86 sq.m. (321 sq.ft.) as per RERA, situated at CTS Nos. 450 Pt., 449 Pt., 451, 455/A Pt., 460 Pt., 461 Pt., 464/1 Pt., 465/1 Pt., 538/1, 463, 462, 459 & 467/A of Village Owale, Ghodbunder Road, Taluka & District Thane, MahaRERA No. P51700077764",
+  "search_terms_marathi": [
+   "नॉर्थ इम्पेरियल ग्रीन्स",
+   "कोडनेम लॉटरी",
+   "स्कायलार्क बिल्डस्पेस"
+  ],
+  "search_terms_english": [
+   "North Imperial Greens",
+   "Codename Lottery",
+   "Skylark Buildspace"
+  ]
+ },
+ "documents": [
+  {
+   "ref": "D1",
+   "doc_type": "Agreement for Sale",
+   "category": "title_transfer",
+   "level": "premises",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_number": "",
+   "doc_year": "",
+   "parties": [
+    {
+     "name": "SKYLARK BUILDSPACE PRIVATE LIMITED",
+     "role": "Promoter"
+    },
+    {
+     "name": "VISHAL EKNATH MANDREKAR",
+     "role": "Allottee"
+    },
+    {
+     "name": "SHWETA VISHAL MANDREKAR",
+     "role": "Allottee"
+    }
+   ],
+   "consideration": "4205100",
+   "property_text": "Flat No. 1801B, 18th floor, North Imperial Greens - Tower 1",
+   "furnished": true,
+   "execution_status": "draft",
+   "file": "agreement.pdf"
+  },
+  {
+   "ref": "D2",
+   "doc_type": "Application Form",
+   "category": "other",
+   "level": "premises",
+   "exec_date": "19/07/2026",
+   "parties": [
+    {
+     "name": "VISHAL EKNATH MANDREKAR",
+     "role": "Allottee"
+    },
+    {
+     "name": "SHWETA VISHAL MANDREKAR",
+     "role": "Allottee"
+    },
+    {
+     "name": "SKYLARK BUILDSPACE PRIVATE LIMITED",
+     "role": "Addressee"
+    }
+   ],
+   "furnished": true,
+   "file": "cost_sheet.pdf"
+  },
+  {
+   "ref": "D3",
+   "doc_type": "Title Certificate",
+   "category": "title_certificate",
+   "level": "land",
+   "exec_date": "27/09/2024",
+   "parties": [
+    {
+     "name": "SKYLARK BUILDSPACE PRIVATE LIMITED",
+     "role": "Holder"
+    }
+   ],
+   "furnished": false
+  },
+  {
+   "ref": "D4",
+   "doc_type": "Commencement Certificate",
+   "category": "approval",
+   "level": "project",
+   "exec_date": "13/09/2024",
+   "issued_by": "Thane Municipal Corporation",
+   "reference_no": "TMCB/7003/2023/0090",
+   "parties": [
+    {
+     "name": "SKYLARK BUILDSPACE PRIVATE LIMITED",
+     "role": "Addressee"
+    }
+   ],
+   "furnished": false
+  },
+  {
+   "ref": "D5",
+   "doc_type": "Commencement Certificate (further)",
+   "category": "approval",
+   "level": "project",
+   "exec_date": "06/12/2024",
+   "issued_by": "Thane Municipal Corporation",
+   "reference_no": "Certificate No. 5629",
+   "parties": [
+    {
+     "name": "SKYLARK BUILDSPACE PRIVATE LIMITED",
+     "role": "Addressee"
+    }
+   ],
+   "furnished": false
+  },
+  {
+   "ref": "D6",
+   "doc_type": "MahaRERA Registration Certificate",
+   "category": "approval",
+   "level": "project",
+   "exec_date": "29/10/2024",
+   "issued_by": "Maharashtra Real Estate Regulatory Authority",
+   "reference_no": "P51700077764",
+   "parties": [
+    {
+     "name": "SKYLARK BUILDSPACE PRIVATE LIMITED",
+     "role": "Addressee"
+    }
+   ],
+   "furnished": false
+  },
+  {
+   "ref": "D7",
+   "doc_type": "Deed of Conveyance (title deeds of the Promoter)",
+   "category": "title_transfer",
+   "level": "land",
+   "parties": [],
+   "furnished": false
+  },
+  {
+   "ref": "D8",
+   "doc_type": "7/12 Extract / Property Register Card",
+   "category": "revenue_record",
+   "level": "land",
+   "parties": [],
+   "furnished": false
+  }
+ ],
+ "chain_parties": [
+  "SKYLARK BUILDSPACE PRIVATE LIMITED",
+  "VISHAL EKNATH MANDREKAR",
+  "SHWETA VISHAL MANDREKAR"
+ ],
+ "receipts": [
+  {
+   "file": "r.pdf",
+   "receipt_no": "1115556931",
+   "grn": "MH012044910202627U",
+   "fee": "625",
+   "date": "15/10/2026"
+  }
+ ],
+ "expect": {
+  "must_find": {
+   "6955/2023": "B",
+   "21921/2023": "B",
+   "4896/2024": "B",
+   "6550/2024": "B",
+   "22463/2024": "B",
+   "8370/2026": "B",
+   "8378/2026": "B",
+   "13089/2026": "B"
+  },
+  "no_other_AB": true,
+  "sro": "Thane No.1 to 12",
+  "owner_contains": "MANDREKAR",
+  "draft": true,
+  "project_mortgage": true
+ }
+}

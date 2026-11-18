@@ -1,0 +1,1579 @@
+{
+ "lead": "530",
+ "subject": {
+  "unit_type": "Flat",
+  "unit_no": "04",
+  "floor": "First",
+  "building_name": "CINI HOMES",
+  "project_name": "CINI HOMES",
+  "builtup_area": "387 Sq. Ft.",
+  "carpet_area": "357 sq.ft.",
+  "plot_no": "262",
+  "land_area": "353.467 sq.mtrs.",
+  "village": "Nerul",
+  "taluka": "Thane",
+  "district": "Thane",
+  "pin": "400706",
+  "road_locality": "Sector No.21, Nerul, Navi Mumbai",
+  "full_description": "Flat No. 04, 1st Floor, Cini Homes Co-Op Housing Society, Plot No. 262, Sector 21, Nerul East, Navi Mumbai – 400706; Carpet Area 357 sq ft; local authority Navi Mumbai Muncipal Corporation",
+  "search_terms_marathi": [
+   "Sini Homes",
+   "Olive Builders and Developers",
+   "Pravinkumar B. Jain",
+   "Pravin Kumar Bhirmal Jain",
+   "Olive Builders and Developers Pvt. Ltd."
+  ],
+  "search_terms_english": [
+   "Cini Homes",
+   "Olive Builders & Developers Pvt Ltd",
+   "Pravinkumar B. Jain",
+   "CINI HOMES CHS",
+   "Olive Builders & Developers",
+   "Olive Builders & Developers Pvt. Ltd.",
+   "Pravin Kumar Bhirmal Jain",
+   "CINI HOMES",
+   "Plot No.262 Sector 21 Nerul"
+  ]
+ },
+ "documents": [
+  {
+   "ref": "aswiniagrrem5833-2",
+   "doc_type": "Agreement to Lease (CIDCO) — execution pages",
+   "category": "title_transfer",
+   "level": "land",
+   "reg_date": "26/10/1992",
+   "doc_no_raw": "90e23",
+   "doc_number": "90023",
+   "doc_year": "1992",
+   "sro": "Sub-Registrar Thane-3",
+   "parties": [
+    {
+     "name": "City and Industrial Development Corporation of Maharashtra Ltd.",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Shri Pravin Kumar Bhimu",
+     "role": "Addressee"
+    },
+    {
+     "name": "M. G. Jadhar",
+     "role": "Representative of City and Industrial Development Corporation of Maharashtra Ltd."
+    }
+   ],
+   "issued_by": "City and Industrial Development Corporation of Maharashtra Ltd.",
+   "stamp_duty": "3740",
+   "registration_fee": "35201",
+   "property_text": "Plot No.262, Road No. —, Sector No.21, of MCRUL, containing by admeasurement 353.467 Sq. Mtrs.",
+   "furnished": true,
+   "execution_status": "registered"
+  },
+  {
+   "ref": "aswiniagrrem5833-3",
+   "doc_type": "Plot Boundary Map (CIDCO Survey)",
+   "category": "plan",
+   "level": "land",
+   "exec_date": "26/12/1991",
+   "doc_year": "1991",
+   "parties": [
+    {
+     "name": "City and Industrial Development Corporation (Maharashtra) Limited, Survey Department, CBD.",
+     "role": "Issuing Authority"
+    }
+   ],
+   "issued_by": "City and Industrial Development Corporation (Maharashtra) Limited",
+   "reference_no": "Directive-(21)/828",
+   "property_text": "Nagari Area Block 21, Plot No. 262, Area 353.467 sq.m.",
+   "furnished": true,
+   "execution_status": "executed_not_registered",
+   "parent_ref": "aswiniagrrem5833-2"
+  },
+  {
+   "ref": "aswiniagrreme0be-17",
+   "doc_type": "Agreement to Lease",
+   "category": "title_transfer",
+   "level": "land",
+   "exec_date": "08/06/1999",
+   "doc_no_raw": "TNN3-10923-1999",
+   "doc_number": "10923",
+   "doc_year": "1999",
+   "sro": "Sub-Registrar of Assurance",
+   "parties": [
+    {
+     "name": "City & Industrial Development Corporation of Maharashtra Limited",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Shri Pravinkumar Bhumal Jain",
+     "role": "Licensee"
+    }
+   ],
+   "issued_by": "City and Industrial Development Corporation of Maharashtra Ltd.",
+   "consideration": "338243",
+   "stamp_duty": "50",
+   "property_text": "Plot No. 262, Sector No. 21, Revenue Village Nirut, Taluka Thane, District Thane, admeasuring 353.467 Sq. Mtrs., earmarked for Residential Bungalow, as delineated on plan annexed hereto shown by red colour boundary line",
+   "furnished": true,
+   "execution_status": "executed_not_registered"
+  },
+  {
+   "ref": "aswiniagrreme0be-18",
+   "doc_type": "Permission/License to Enter Upon the Land",
+   "category": "other",
+   "level": "land",
+   "exec_date": "16/06/1999",
+   "parties": [
+    {
+     "name": "Pravin Kumar Bhormat Jain",
+     "role": "Licensee"
+    },
+    {
+     "name": "City and Industrial Development Corporation of Maharashtra Limited",
+     "role": "Issuing Authority"
+    }
+   ],
+   "issued_by": "City and Industrial Development Corporation of Maharashtra Limited",
+   "property_text": "Plot No. 262, Road No. —, admeasuring 353.46 Sq. Metres, Sector No. 21, Revenue Village Nirut, Taluka Thane, District Thane, earmarked for Residential Bungalow",
+   "furnished": true,
+   "execution_status": "executed_not_registered"
+  },
+  {
+   "ref": "aswiniagrreme0be-7",
+   "doc_type": "Commencement Certificate",
+   "category": "approval",
+   "level": "project",
+   "exec_date": "08/12/1999",
+   "doc_year": "1999",
+   "parties": [
+    {
+     "name": "City and Industrial Development Corporation of Maharashtra Ltd.",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "M/s. Olive Builders & Developers Pvt. Ltd.",
+     "role": "Addressee"
+    }
+   ],
+   "issued_by": "City and Industrial Development Corporation of Maharashtra Ltd.",
+   "reference_no": "NMMC/TPO/BP/ 4164",
+   "property_text": "Plot No.262, Sector 21, Nerul, Navi Mumbai",
+   "furnished": false,
+   "execution_status": "executed_not_registered"
+  },
+  {
+   "ref": "aswiniagrrem5833-6",
+   "doc_type": "Building Permission / Commencement Letter (NMMC)",
+   "category": "approval",
+   "level": "project",
+   "exec_date": "07/02/2000",
+   "doc_year": "2000",
+   "parties": [
+    {
+     "name": "Navi Mumbai Municipal Corporation",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Shri Prayin Kumar Dhi. Jain",
+     "role": "Addressee"
+    }
+   ],
+   "issued_by": "Navi Mumbai Municipal Corporation",
+   "reference_no": "Ref. No./NMMC/Nerul/Building Permission/7834",
+   "property_text": "Plot No.-262, Sector-21, Nerul, Navi Mumbai",
+   "furnished": true,
+   "execution_status": "executed_not_registered"
+  },
+  {
+   "ref": "aswiniagrreme0be-8",
+   "doc_type": "Payment Receipt",
+   "category": "other",
+   "level": "premises",
+   "exec_date": "12/04/2000",
+   "doc_no_raw": "237",
+   "doc_number": "237",
+   "doc_year": "2000",
+   "parties": [
+    {
+     "name": "Olive Builders & Developers Pvt. Ltd.",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Ashwini Kumar Sinha",
+     "role": "Addressee"
+    }
+   ],
+   "issued_by": "Olive Builders & Developers Pvt. Ltd.",
+   "reference_no": "237",
+   "consideration": "450",
+   "property_text": "Flat/Shop/Office No. C3 in Cini Homes, Plot No. 868, Sector-51, Nerul, Navi Mumbai",
+   "furnished": true
+  },
+  {
+   "ref": "aswiniagrreme0be-9",
+   "doc_type": "Payment Receipt",
+   "category": "other",
+   "level": "premises",
+   "exec_date": "12/04/2000",
+   "doc_no_raw": "236",
+   "doc_number": "236",
+   "doc_year": "2000",
+   "parties": [
+    {
+     "name": "Olive Builders & Developers Pvt. Ltd.",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Ashwini Kumar Sinha",
+     "role": "Addressee"
+    }
+   ],
+   "issued_by": "Olive Builders & Developers Pvt. Ltd.",
+   "reference_no": "236",
+   "consideration": "149850",
+   "property_text": "Flat/Shop/Office No. C3 in Cini Homes, Plot No. 868, Sector-51, Nerul, Navi Mumbai",
+   "furnished": true
+  },
+  {
+   "ref": "aswiniagrreme0be-10",
+   "doc_type": "Payment Receipt",
+   "category": "other",
+   "level": "premises",
+   "exec_date": "12/04/2000",
+   "doc_no_raw": "234",
+   "doc_number": "234",
+   "doc_year": "2000",
+   "parties": [
+    {
+     "name": "Olive Builders & Developers Pvt. Ltd.",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Ashwini Kumar Sinha",
+     "role": "Addressee"
+    }
+   ],
+   "issued_by": "Olive Builders & Developers Pvt. Ltd.",
+   "reference_no": "234",
+   "consideration": "49850",
+   "property_text": "Flat/Shop/Office No. C3 in Cini Homes, Plot No. 868, Sector-51, Nerul, Navi Mumbai",
+   "furnished": true
+  },
+  {
+   "ref": "aswiniagrreme0be-11",
+   "doc_type": "Payment Receipt",
+   "category": "other",
+   "level": "premises",
+   "exec_date": "12/04/2000",
+   "doc_no_raw": "235",
+   "doc_number": "235",
+   "doc_year": "2000",
+   "parties": [
+    {
+     "name": "Olive Builders & Developers Pvt. Ltd.",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Ashwini Kumar Sinha",
+     "role": "Addressee"
+    }
+   ],
+   "issued_by": "Olive Builders & Developers Pvt. Ltd.",
+   "reference_no": "235",
+   "consideration": "49850",
+   "property_text": "Flat/Shop/Office No. C3 in Cini Homes, Plot No. 868, Sector-51, Nerul, Navi Mumbai",
+   "furnished": true
+  },
+  {
+   "ref": "aswiniagrreme0be-12",
+   "doc_type": "Payment Receipt",
+   "category": "other",
+   "level": "premises",
+   "exec_date": "12/04/2000",
+   "doc_no_raw": "231",
+   "doc_number": "231",
+   "doc_year": "2000",
+   "parties": [
+    {
+     "name": "Olive Builders & Developers Pvt. Ltd.",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Ashwini Kumar Sinha",
+     "role": "Addressee"
+    }
+   ],
+   "issued_by": "Olive Builders & Developers Pvt. Ltd.",
+   "reference_no": "231",
+   "consideration": "25000",
+   "property_text": "Flat/Shop/Office No. C3 in Cini Homes, Plot No. 868, Sector-81, Nerul, Navi Mumbai",
+   "furnished": true
+  },
+  {
+   "ref": "aswiniagrrem5833-4",
+   "doc_type": "Development Agreement",
+   "category": "development",
+   "level": "land",
+   "exec_date": "22/05/2000",
+   "doc_no_raw": "1931",
+   "doc_number": "1931",
+   "doc_year": "2000",
+   "parties": [
+    {
+     "name": "Shri PRAVINKUMAR B. JAIN",
+     "role": "Owner"
+    },
+    {
+     "name": "M/s. OLIVE BUILDERS & DEVELOPERS PVT. LTD.",
+     "role": "Developer"
+    },
+    {
+     "name": "Shri P.V. MATHAI",
+     "role": "Representative of M/s. OLIVE BUILDERS & DEVELOPERS PVT. LTD."
+    }
+   ],
+   "consideration": "850000",
+   "stamp_duty": "50",
+   "property_text": "Plot No.262, Sector No.21, at Nerul admeasuring 353.467 sq.mtrs., Taluka and District Thane, Navi Mumbai",
+   "furnished": true,
+   "execution_status": "executed_not_registered"
+  },
+  {
+   "ref": "RAHULPATHAKr6855-2",
+   "doc_type": "Building Permission Letter",
+   "category": "approval",
+   "level": "project",
+   "exec_date": "05/06/2000",
+   "doc_no_raw": "जा.क्र./नमुंमपा/नरवि/बा.प./7634",
+   "doc_year": "2000",
+   "parties": [
+    {
+     "name": "Navi Mumbai Municipal Corporation",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Shri. Pravinkumar B. Jain",
+     "role": "Addressee"
+    }
+   ],
+   "issued_by": "Navi Mumbai Municipal Corporation",
+   "reference_no": "Ref. No./NMMC/Nerul/Building Permission/7634",
+   "property_text": "Mukhand No.-262, Sector-21, Nerul, Navi Mumbai (Plot No. 262, Sector-21, Nerul, Navi Mumbai)",
+   "furnished": true,
+   "execution_status": "executed_not_registered"
+  },
+  {
+   "ref": "RAHULPATHAKr6855-3",
+   "doc_type": "Commencement Certificate",
+   "category": "approval",
+   "level": "project",
+   "exec_date": "05/06/2000",
+   "doc_no_raw": "NO:NMMC/TPO/BP/1935",
+   "doc_year": "2000",
+   "parties": [
+    {
+     "name": "Navi Mumbai Municipal Corporation",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Shri. Pravinkumar B. Jain",
+     "role": "Addressee"
+    }
+   ],
+   "issued_by": "Kishore M. Agrharker, Town Planning Officer, Navi Mumbai Municipal Corporation",
+   "reference_no": "NMMC/TPO/BP/1935",
+   "property_text": "Plot No.-262, Sector-21, Nerul, Navi Mumbai; Total Built-Up Area=353.2219 Sq. M.; F.S.I.=1.00",
+   "furnished": true,
+   "execution_status": "executed_not_registered"
+  },
+  {
+   "ref": "aswiniagrrem5833-5",
+   "doc_type": "Commencement Certificate",
+   "category": "approval",
+   "level": "project",
+   "exec_date": "08/06/2000",
+   "doc_year": "2000",
+   "parties": [
+    {
+     "name": "Navi Mumbai Municipal Corporation",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Shri Pravinkumar B. Jain",
+     "role": "Addressee"
+    }
+   ],
+   "issued_by": "Navi Mumbai Municipal Corporation",
+   "reference_no": "NMMC/TPO/BP/1935",
+   "property_text": "Plot No.262, Sector-21, Nerul, Navi Mumbai; Total Built-Up Area=353.2219 Sq.M.; F.S.I.=1.00",
+   "furnished": true,
+   "execution_status": "executed_not_registered"
+  },
+  {
+   "ref": "RAHULPATHAKr6855-6",
+   "doc_type": "Title Clearance Certificate",
+   "category": "title_certificate",
+   "level": "project",
+   "exec_date": "30/06/2000",
+   "doc_year": "2000",
+   "parties": [
+    {
+     "name": "C. Fernandes",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "M/s. Olive Builders & Developers Pvt. Ltd.",
+     "role": "Addressee"
+    }
+   ],
+   "issued_by": "C. Fernandes, Advocate High Court",
+   "property_text": "Plot No. 262 admeasuring 353.467 sq.mtrs. situated in Sector No. 21, Nerul, Navi Mumbai, Taluka and District Thane, Township of Navi Mumbai.",
+   "furnished": true,
+   "execution_status": "executed_not_registered"
+  },
+  {
+   "ref": "RAHULPATHAKrbef7-12",
+   "doc_type": "Title Clearance Report",
+   "category": "title_certificate",
+   "level": "land",
+   "exec_date": "30/06/2000",
+   "doc_year": "2000",
+   "parties": [
+    {
+     "name": "Advocate C. Fernandes",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "High Court",
+     "role": "Issuing Authority"
+    }
+   ],
+   "issued_by": "Advocate C. Fernandes, High Court",
+   "property_text": "Plot No. 262, Sector 21, Nerul, Navi Mumbai",
+   "furnished": false
+  },
+  {
+   "ref": "RAHULPATHAKr6855-7",
+   "doc_type": "Allotment Letter",
+   "category": "other",
+   "level": "premises",
+   "exec_date": "03/08/2000",
+   "doc_year": "2000",
+   "parties": [
+    {
+     "name": "Olive Builders & Developers Pvt. Ltd.",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Mr. ASHWINI KUMAR SINHA",
+     "role": "Addressee"
+    }
+   ],
+   "issued_by": "Olive Builders & Developers Pvt. Ltd.",
+   "consideration": "633800",
+   "property_text": "Flat no. 04 on First Floor in CINI HOMES in the proposed project on plot no. 262 in sector 21 NERUL NEW-MUMBAI; super covered area approximately 580 Sq. Ft.",
+   "furnished": true,
+   "execution_status": "executed_not_registered"
+  },
+  {
+   "ref": "aswiniagrrem5833-8",
+   "doc_type": "Possession Letter",
+   "category": "other",
+   "level": "premises",
+   "exec_date": "15/08/2000",
+   "doc_year": "2000",
+   "parties": [
+    {
+     "name": "OLIVE BUILDERS & DEVELOPERS PVT. LTD.",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Mr. ASHWINI KUMAR SINHA",
+     "role": "Addressee"
+    }
+   ],
+   "issued_by": "OLIVE BUILDERS & DEVELOPERS PVT. LTD.",
+   "property_text": "Flat No.01, admeasuring 387 Sq. Ft. built-up area, in the building called 'CINI HOMES', on Plot No.262, Sector-21, Nerul, Navi Mumbai",
+   "furnished": true,
+   "execution_status": "executed_not_registered"
+  },
+  {
+   "ref": "aswiniagrreme0be-13",
+   "doc_type": "Payment Receipt",
+   "category": "other",
+   "level": "premises",
+   "exec_date": "11/09/2000",
+   "doc_no_raw": "304",
+   "doc_number": "304",
+   "doc_year": "2000",
+   "parties": [
+    {
+     "name": "Olive Builders & Developers Pvt. Ltd.",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Mr. Ashwini Kumar Sinha",
+     "role": "Addressee"
+    }
+   ],
+   "issued_by": "Olive Builders & Developers Pvt. Ltd.",
+   "reference_no": "304",
+   "consideration": "25000",
+   "property_text": "C4 Cini Homes, Plot No. 262, Sector-21, Nerul, Navi Mumbai",
+   "furnished": true
+  },
+  {
+   "ref": "aswiniagrreme0be-1",
+   "doc_type": "Agreement for Sale",
+   "category": "title_transfer",
+   "level": "premises",
+   "exec_date": "30/09/2000",
+   "reg_date": "30/09/2000",
+   "doc_no_raw": "99595",
+   "doc_number": "99595",
+   "doc_year": "2000",
+   "sro": "Sub-Registrar Thane-3",
+   "parties": [
+    {
+     "name": "M/s. OLIVE BUILDERS & DEVELOPERS PVT. LTD.",
+     "role": "Developer"
+    },
+    {
+     "name": "Shri. P. V. MATHAI",
+     "role": "Representative of M/s. OLIVE BUILDERS & DEVELOPERS PVT. LTD."
+    },
+    {
+     "name": "SHRI. ASHWINI KUMAR SINHA",
+     "role": "Purchaser"
+    }
+   ],
+   "consideration": "633800",
+   "stamp_duty": "16850",
+   "registration_fee": "6020",
+   "property_text": "Flat No. 04 on First floor admeasuring 387 sq.ft. built up area (357 sq.ft. carpet area) in building known as CINI HOMES on Plot No.262 admeasuring 353.467 Sq. Mtrs., Sector No.21, Nerul, Navi Mumbai, Taluka Thane, District Thane",
+   "furnished": true,
+   "execution_status": "registered"
+  },
+  {
+   "ref": "RAHULPATHAKr6855-8",
+   "doc_type": "Index-II",
+   "category": "registration_record",
+   "level": "premises",
+   "exec_date": "30/09/2000",
+   "reg_date": "30/09/2000",
+   "doc_no_raw": "9956",
+   "doc_number": "9956",
+   "doc_year": "2000",
+   "parties": [
+    {
+     "name": "Olive Builders & Developers Pvt. Ltd.",
+     "role": "Vendor"
+    },
+    {
+     "name": "Ashwinikumar Sinha",
+     "role": "Purchaser"
+    }
+   ],
+   "consideration": "2000",
+   "market_value": "2400",
+   "stamp_duty": "97596",
+   "property_text": "Sale of flat, Plot No. 262, Sector-21, Nerul, Navi Mumbai",
+   "furnished": true,
+   "execution_status": "registered",
+   "parent_ref": "aswiniagrreme0be-1"
+  },
+  {
+   "ref": "aswiniagrreme0be-2",
+   "doc_type": "Registration Receipt",
+   "category": "receipt",
+   "level": "premises",
+   "reg_date": "30/09/2000",
+   "doc_no_raw": "99595",
+   "doc_number": "99595",
+   "doc_year": "2000",
+   "sro": "Sub-Registrar Thane-3",
+   "parties": [
+    {
+     "name": "M/s. OLIVE BUILDERS & DEVELOPERS PVT. LTD.",
+     "role": "Developer"
+    },
+    {
+     "name": "SHRI. ASHWINI KUMAR SINHA",
+     "role": "Purchaser"
+    }
+   ],
+   "issued_by": "Sub-Registrar Thane-3",
+   "registration_fee": "6020",
+   "property_text": "Agreement for Sale, Flat No.04, First Floor, CINI HOMES, Plot No.262, Sector 21, Nerul, Navi Mumbai",
+   "furnished": true,
+   "execution_status": "registered",
+   "parent_ref": "aswiniagrreme0be-1"
+  },
+  {
+   "ref": "aswiniagrreme0be-3",
+   "doc_type": "Non-Judicial Stamp Papers",
+   "category": "receipt",
+   "level": "premises",
+   "exec_date": "30/09/2000",
+   "doc_no_raw": "2116, 2117, 2118, 2119",
+   "doc_year": "2000",
+   "parties": [
+    {
+     "name": "M/s. OLIVE BUILDERS & DEVELOPERS PVT. LTD.",
+     "role": "Developer"
+    },
+    {
+     "name": "ASHWINI KUMAR SINHA",
+     "role": "Purchaser"
+    }
+   ],
+   "issued_by": "Praviv Hearings Pvt. Ltd. Typing Center",
+   "reference_no": "2116, 2117, 2118, 2119",
+   "stamp_duty": "16850",
+   "property_text": "Agreement for Sale between M/s. Olive Builders & Developers Pvt. Ltd. and Mr. Ashwini Kumar Sinha",
+   "furnished": true,
+   "execution_status": "registered",
+   "parent_ref": "aswiniagrreme0be-1"
+  },
+  {
+   "ref": "aswiniagrreme0be-4",
+   "doc_type": "Payment Receipt",
+   "category": "other",
+   "level": "premises",
+   "exec_date": "30/09/2000",
+   "doc_year": "2000",
+   "parties": [
+    {
+     "name": "M/s. OLIVE BUILDERS & DEVELOPERS PVT. LTD.",
+     "role": "Developer"
+    },
+    {
+     "name": "SHRI. ASHWINI KUMAR SINHA",
+     "role": "Purchaser"
+    }
+   ],
+   "issued_by": "M/s. OLIVE BUILDERS & DEVELOPERS PVT. LTD.",
+   "reference_no": "Cheque No.945028",
+   "consideration": "10000",
+   "property_text": "Flat No. 04, CINI HOMES",
+   "furnished": true,
+   "execution_status": "executed_not_registered",
+   "parent_ref": "aswiniagrreme0be-1"
+  },
+  {
+   "ref": "aswiniagrrem5833-14",
+   "doc_type": "NOC Letter",
+   "category": "approval",
+   "level": "project",
+   "exec_date": "15/02/2001",
+   "doc_year": "2001",
+   "parties": [
+    {
+     "name": "CITY AND INDUSTRIAL DEVELOPMENT CORPORATION OF MAHARASHTRA LTD.",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "P.V. Johny",
+     "role": "Addressee"
+    },
+    {
+     "name": "K.C. Mathew",
+     "role": "Addressee"
+    },
+    {
+     "name": "Rakesh Kumar",
+     "role": "Addressee"
+    },
+    {
+     "name": "K. Avinash Chandra",
+     "role": "Addressee"
+    },
+    {
+     "name": "Ashwini Kumar Sinha",
+     "role": "Addressee"
+    },
+    {
+     "name": "Amitabh R. Singh",
+     "role": "Addressee"
+    },
+    {
+     "name": "R.S. Raghavan",
+     "role": "Addressee"
+    },
+    {
+     "name": "Prabhakar G. Jadhav",
+     "role": "Addressee"
+    },
+    {
+     "name": "H. Seshadrinath",
+     "role": "Addressee"
+    },
+    {
+     "name": "Amalan John",
+     "role": "Addressee"
+    }
+   ],
+   "issued_by": "CITY AND INDUSTRIAL DEVELOPMENT CORPORATION OF MAHARASHTRA LTD.",
+   "reference_no": "No.CIDCO/EMS/AEO/(HQ)/2001/5995",
+   "property_text": "Plot No.262 Sector No.21, Nerul Navi Mumbai",
+   "furnished": true,
+   "execution_status": "executed_not_registered"
+  },
+  {
+   "ref": "aswiniagrrem5833-17",
+   "doc_type": "Society Registration Certificate",
+   "category": "society",
+   "level": "project",
+   "exec_date": "02/03/2001",
+   "reg_date": "02/03/2001",
+   "doc_year": "2001",
+   "parties": [
+    {
+     "name": "Sub-Registrar Co-operative Institution (CIDCO), Navi Mumbai",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Sini Homes Co-operative Housing Society Limited",
+     "role": "Addressee"
+    }
+   ],
+   "issued_by": "Sub-Registrar Co-operative Institution (CIDCO), Navi Mumbai",
+   "reference_no": "NBO/M/CIDCO/HSG(OH)/1047/JTR/Year 2000-2001",
+   "property_text": "Plot No. 262, Sector - 21, Nerul, Navi Mumbai, Tal. Dist. Thane",
+   "furnished": true,
+   "execution_status": "executed_not_registered"
+  },
+  {
+   "ref": "aswiniagrrem5833-18",
+   "doc_type": "Official Letter",
+   "category": "society",
+   "level": "project",
+   "exec_date": "02/03/2001",
+   "doc_year": "2001",
+   "parties": [
+    {
+     "name": "Co-operative Registrar (CIDCO)",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Sini Homes Co-operative Housing Society Limited",
+     "role": "Addressee"
+    }
+   ],
+   "issued_by": "Co-operative Registrar (CIDCO)",
+   "reference_no": "Ref. No. SRO/CIDCO/1047/Year-2000-2001",
+   "property_text": "Plot/Condo No. 262, Sector 21, Nerul, Navi Mumbai",
+   "furnished": true,
+   "execution_status": "executed_not_registered"
+  },
+  {
+   "ref": "RAHULPATHAKrbef7-15",
+   "doc_type": "Society Registration Certificate",
+   "category": "society",
+   "level": "project",
+   "exec_date": "02/03/2001",
+   "doc_year": "2001",
+   "parties": [
+    {
+     "name": "Cini Homes Co-Operative Housing Society Ltd.",
+     "role": "Holder"
+    }
+   ],
+   "reference_no": "NBOM/CIDCO/HSG(OH)/1047/JTR of 2000-01",
+   "property_text": "Cini Homes Co-Operative Housing Society Ltd., Plot No. 262, Sector 21, Nerul, Navi Mumbai",
+   "furnished": false
+  },
+  {
+   "ref": "aswiniagrrem5833-20",
+   "doc_type": "Tripartite Agreement",
+   "category": "title_transfer",
+   "level": "project",
+   "exec_date": "05/03/2001",
+   "doc_year": "2001",
+   "parties": [
+    {
+     "name": "Shri Pravinkumar B. Jain",
+     "role": "Transferor"
+    },
+    {
+     "name": "M/s. Cini Homes Co-op Housing Society Ltd.",
+     "role": "Transferee"
+    }
+   ],
+   "property_text": "Plot No.262, Sector No.21, Nerul, Navi Mumbai",
+   "furnished": false,
+   "execution_status": "executed_not_registered"
+  },
+  {
+   "ref": "RAHULPATHAKr6855-17",
+   "doc_type": "Completion Certificate",
+   "category": "approval",
+   "level": "project",
+   "exec_date": "08/03/2001",
+   "doc_year": "2001",
+   "parties": [
+    {
+     "name": "Navi Mumbai Municipal Corporation",
+     "role": "Issuing Authority"
+    }
+   ],
+   "issued_by": "Navi Mumbai Municipal Corporation",
+   "property_text": "Plot No. 262, Sector-21, Nerul, Navi Mumbai",
+   "furnished": false,
+   "execution_status": "executed_not_registered"
+  },
+  {
+   "ref": "RAHULPATHAKr6855-16",
+   "doc_type": "Letter",
+   "category": "other",
+   "level": "premises",
+   "exec_date": "12/03/2001",
+   "doc_year": "2001",
+   "parties": [
+    {
+     "name": "M/s. Olive Builders & Developers Pvt Ltd",
+     "role": "Issuing Authority"
+    }
+   ],
+   "issued_by": "M/s. Olive Builders & Developers Pvt Ltd",
+   "property_text": "Flat No. 4, Cini Homes, Plot No. 262, Sector-21, Nerul, Navi Mumbai",
+   "furnished": false,
+   "execution_status": "executed_not_registered"
+  },
+  {
+   "ref": "aswiniagrrem5833-19",
+   "doc_type": "Plot Transfer Order Letter",
+   "category": "title_transfer",
+   "level": "project",
+   "exec_date": "13/03/2001",
+   "doc_year": "2001",
+   "parties": [
+    {
+     "name": "CITY AND INDUSTRIAL DEVELOPMENT CORPORATION OF MAHARASHTRA LTD.",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Shri Pravinkumar B. Jain",
+     "role": "Addressee"
+    },
+    {
+     "name": "M/s. Cini Homes Co-op Housing Society Ltd.",
+     "role": "Transferee"
+    }
+   ],
+   "issued_by": "CITY AND INDUSTRIAL DEVELOPMENT CORPORATION OF MAHARASHTRA LTD.",
+   "reference_no": "No.CIDCO/EMS/AEO/(HQ)/2001/6770",
+   "property_text": "Plot No.262, Sector No.21, Nerul, Navi Mumbai",
+   "furnished": true,
+   "execution_status": "executed_not_registered"
+  },
+  {
+   "ref": "RAHULPATHAKr6855-4",
+   "doc_type": "Occupancy Certificate Forwarding Letter",
+   "category": "approval",
+   "level": "project",
+   "exec_date": "26/07/2001",
+   "doc_no_raw": "जा.क्र./नमुंमपा/नरवि/मो.प्र./9423",
+   "doc_year": "2001",
+   "parties": [
+    {
+     "name": "Navi Mumbai Municipal Corporation",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Messrs Sini Homes Co-operative Housing Society Limited",
+     "role": "Addressee"
+    }
+   ],
+   "issued_by": "Navi Mumbai Municipal Corporation",
+   "reference_no": "Ref. No./NMMC/Nerul/Building Permission/9423",
+   "property_text": "Mukhand No.-262, Sector-21, Nerul, Navi Mumbai (Plot No. 262, Sector-21, Nerul, Navi Mumbai)",
+   "furnished": true,
+   "execution_status": "executed_not_registered"
+  },
+  {
+   "ref": "aswiniagrreme0be-16",
+   "doc_type": "Registration Receipt",
+   "category": "registration_record",
+   "level": "premises",
+   "reg_date": "09/09/2002",
+   "doc_no_raw": "9023",
+   "doc_number": "9023",
+   "doc_year": "2002",
+   "parties": [
+    {
+     "name": "Subhitakumar Jain",
+     "role": ""
+    }
+   ],
+   "reference_no": "9023",
+   "stamp_duty": "84500",
+   "furnished": true
+  },
+  {
+   "ref": "RAHULPATHAKr6855-15",
+   "doc_type": "NOC Letter",
+   "category": "other",
+   "level": "premises",
+   "exec_date": "23/12/2010",
+   "doc_year": "2010",
+   "parties": [
+    {
+     "name": "M/s Cini Homes Co-Op Hsg. Society Ltd.",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Mr. Ashwinikumar Sinha",
+     "role": "Addressee"
+    }
+   ],
+   "issued_by": "M/s Cini Homes Co-Op Hsg. Society Ltd.",
+   "property_text": "Flat No. 4, Cini Homes, Plot No. 262, Sector-21, Nerul, Navi Mumbai",
+   "furnished": false,
+   "execution_status": "executed_not_registered"
+  },
+  {
+   "ref": "RAHULPATHAKr6855-18",
+   "doc_type": "Permission to Mortgage Letter",
+   "category": "other",
+   "level": "premises",
+   "exec_date": "06/01/2011",
+   "doc_year": "2011",
+   "parties": [
+    {
+     "name": "CIDCO",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Mr. Ashwinikumar Sinha",
+     "role": "Addressee"
+    }
+   ],
+   "issued_by": "CIDCO",
+   "reference_no": "CIDCO/EMS/AEO(HQ)/2011/1093",
+   "property_text": "Flat No. 4, Cini Homes, Plot No. 262, Sector-21, Nerul, Navi Mumbai",
+   "furnished": false,
+   "execution_status": "executed_not_registered"
+  },
+  {
+   "ref": "RAHULPATHAKr6855-11",
+   "doc_type": "Letter of Release of Equitable Mortgage",
+   "category": "encumbrance",
+   "level": "premises",
+   "exec_date": "25/06/2018",
+   "doc_year": "2018",
+   "parties": [
+    {
+     "name": "AXIS Bank Ltd.",
+     "role": "Mortgagee"
+    },
+    {
+     "name": "Mr. Ashwinikumar Hariprasad Sinha",
+     "role": "Mortgagor"
+    }
+   ],
+   "issued_by": "AXIS Bank Ltd.",
+   "reference_no": "LPR000400285802",
+   "property_text": "Flat No. 4, 1 St Flr, Cini Homes, Plot No. 262, Sector-21, Nerul, Navi Mumbai - 400706.",
+   "furnished": true,
+   "execution_status": "executed_not_registered"
+  },
+  {
+   "ref": "RAHULPATHAKrbef7-19",
+   "doc_type": "No Objection Certificate cum No Dues Certificate",
+   "category": "society",
+   "level": "premises",
+   "exec_date": "09/09/2026",
+   "doc_year": "2026",
+   "parties": [
+    {
+     "name": "Cini Homes Co-Op Housing Soc Ltd. (Reg. No. NBOM/CIDCO/HSG(OH)/1047/JTR of 2000-01)",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Mr. Ashwini Kumar Sinha",
+     "role": "Addressee"
+    }
+   ],
+   "issued_by": "Cini Homes Co-Op Housing Soc Ltd.",
+   "property_text": "Flat No. 04, Cini Homes, Plot No. 262, Sector 21, Nerul, Navi Mumbai",
+   "furnished": false
+  },
+  {
+   "ref": "RAHULPATHAKr6855-1",
+   "doc_type": "Society No-Dues cum NOC Letter",
+   "category": "society",
+   "level": "premises",
+   "exec_date": "16/09/2026",
+   "parties": [
+    {
+     "name": "Cini Homes Co-Op Hsg. Society Ltd.",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "MR. ASHWINI KUMAR SINHA",
+     "role": "Member / Seller"
+    },
+    {
+     "name": "MR. RAHUL SANTOSH PHATAK",
+     "role": "Proposed Purchaser"
+    },
+    {
+     "name": "MRS. RESHMITA RAJARAM NAIK",
+     "role": "Proposed Purchaser"
+    }
+   ],
+   "issued_by": "Cini Homes Co-Op Hsg. Society Ltd.",
+   "property_text": "Flat No. 04 of Cini Homes CHS LTD, Plot No. 262, Sector-21, Nerul, Navi Mumbai-400706; carpet area 357 sq.ft.",
+   "furnished": true,
+   "execution_status": "executed_not_registered"
+  },
+  {
+   "ref": "RAHULPATHAKrbef7-1",
+   "doc_type": "Agreement for Sale",
+   "category": "title_transfer",
+   "level": "premises",
+   "exec_date": "24/09/2026",
+   "reg_date": "24/09/2026",
+   "doc_no_raw": "THN11-18302-2026",
+   "doc_number": "18302",
+   "doc_year": "2026",
+   "sro": "Sah Du.Ni. Thane 11 (Joint Sub Registrar, Thane No. 11)",
+   "parties": [
+    {
+     "name": "MR. ASHWINI KUMAR SINHA",
+     "role": "Seller"
+    },
+    {
+     "name": "MR. RAHUL SANTOSH PHATAK",
+     "role": "Purchaser"
+    },
+    {
+     "name": "MRS. RESHMITA RAJARAM NAIK",
+     "role": "Purchaser"
+    }
+   ],
+   "consideration": "9400000",
+   "market_value": "5804298",
+   "stamp_duty": "564000",
+   "registration_fee": "30000",
+   "property_text": "Flat No. 04, 1st Floor, Cini Homes Co-Op Housing Society, Plot No. 262, Sector 21, Nerul East, Navi Mumbai – 400706; Carpet Area 357 sq ft; local authority Navi Mumbai Muncipal Corporation",
+   "furnished": true,
+   "execution_status": "registered"
+  },
+  {
+   "ref": "RAHULPATHAKrbef7-7",
+   "doc_type": "Valuation Certificate",
+   "category": "other",
+   "level": "premises",
+   "exec_date": "15/09/2026",
+   "doc_year": "2026",
+   "parties": [
+    {
+     "name": "Navi Mumbai Muncipal Corporation",
+     "role": "Issuing Authority"
+    }
+   ],
+   "issued_by": "Department of Registration and Stamps, Maharashtra (Online Valuation System)",
+   "reference_no": "2026091504396",
+   "market_value": "5804298",
+   "property_text": "Sector 26/273 – Nerul Node Sector No. 21, Navi Mumbai Muncipal Corporation; Built-up area 39.81 sq. mt., RCC construction, 1st to 4th floor; Rate Rs.145800/- per sq. mt.",
+   "furnished": true,
+   "parent_ref": "RAHULPATHAKrbef7-1"
+  },
+  {
+   "ref": "RAHULPATHAKrbef7-4",
+   "doc_type": "Document Handling Charges Receipt",
+   "category": "receipt",
+   "level": "premises",
+   "exec_date": "23/09/2026",
+   "sro": "Joint District Registrar, Thane",
+   "parties": [],
+   "issued_by": "Department of Registration and Stamps, Maharashtra",
+   "reference_no": "0926234319580",
+   "registration_fee": "80",
+   "property_text": "Document No. THN11-18302-2026 dated 24/09/2026",
+   "furnished": true,
+   "parent_ref": "RAHULPATHAKrbef7-1"
+  },
+  {
+   "ref": "RAHULPATHAKrbef7-5",
+   "doc_type": "Document Handling Charges Receipt",
+   "category": "receipt",
+   "level": "premises",
+   "exec_date": "23/09/2026",
+   "sro": "Joint District Registrar, Thane",
+   "parties": [],
+   "issued_by": "Department of Registration and Stamps, Maharashtra",
+   "reference_no": "0926238117731",
+   "registration_fee": "1640",
+   "property_text": "iSARITA 1.9, Joint District Registrar office, District Thane",
+   "furnished": true,
+   "parent_ref": "RAHULPATHAKrbef7-1"
+  },
+  {
+   "ref": "RAHULPATHAKrbef7-6",
+   "doc_type": "Stamp Duty Challan",
+   "category": "receipt",
+   "level": "premises",
+   "exec_date": "23/09/2026",
+   "doc_no_raw": "MH010721436202627R",
+   "doc_year": "2026",
+   "sro": "THN1 THANE NO 11 JOINT SUB REGISTR",
+   "parties": [
+    {
+     "name": "Rahul S Phatak and Reshmita R Naik",
+     "role": "Duty Payer"
+    },
+    {
+     "name": "Ashwini Kumar Sinha",
+     "role": "Other Party"
+    }
+   ],
+   "issued_by": "Inspector General of Registration / IDBI Bank",
+   "reference_no": "MH010721436202627R",
+   "consideration": "9400000",
+   "stamp_duty": "564000",
+   "registration_fee": "30000",
+   "property_text": "Flat No. 04 1st Floor Cini Homes Cooperative Hsg, No 262 Sector 21, Nerul Navimumbai, Thane, Society Ltd Plot, PIN 400706",
+   "furnished": true,
+   "parent_ref": "RAHULPATHAKrbef7-1"
+  },
+  {
+   "ref": "RAHULPATHAKrbef7-2",
+   "doc_type": "Registration Receipt",
+   "category": "receipt",
+   "level": "premises",
+   "exec_date": "24/09/2026",
+   "reg_date": "24/09/2026",
+   "doc_no_raw": "TNn11-18302-2026",
+   "doc_number": "18302",
+   "doc_year": "2026",
+   "sro": "Sah Du.Ni. Thane 11",
+   "parties": [
+    {
+     "name": "Rahul Santosh Phatak",
+     "role": "Addressee"
+    }
+   ],
+   "issued_by": "Sub Registrar, Thane 11",
+   "reference_no": "19294",
+   "consideration": "9400000",
+   "market_value": "5804298",
+   "stamp_duty": "564000",
+   "registration_fee": "30000",
+   "property_text": "Flat No. 04, Floor 1, Cini Homes Sahakari Gruhanirman Sanstha, Block No. Plot Kr. 262, Sector 21, Nerul Purv, Road No. Navi Mumbai – 400706; local authority Navi Mumbai Muncipal Corporation",
+   "furnished": true,
+   "execution_status": "registered",
+   "parent_ref": "RAHULPATHAKrbef7-1"
+  },
+  {
+   "ref": "RAHULPATHAKrbef7-3",
+   "doc_type": "Index-II",
+   "category": "registration_record",
+   "level": "premises",
+   "exec_date": "24/09/2026",
+   "reg_date": "24/09/2026",
+   "doc_no_raw": "THN11-18302-2026",
+   "doc_number": "18302",
+   "doc_year": "2026",
+   "sro": "Sah Du.Ni. Thane 11 (Nondani Karyalay - Sah Du.Ni. Thane 11)",
+   "parties": [
+    {
+     "name": "Ashwini Kumar Sinha",
+     "role": "Transferor"
+    },
+    {
+     "name": "Rahul Santosh Phatak",
+     "role": "Transferee"
+    },
+    {
+     "name": "Reshmita Rajaram Naik",
+     "role": "Transferee"
+    }
+   ],
+   "issued_by": "Sub Registrar, Thane 11",
+   "consideration": "9400000",
+   "market_value": "5804298",
+   "stamp_duty": "564000",
+   "registration_fee": "30000",
+   "property_text": "Flat No. 04, Floor 1, Cini Homes Sahakari Gruhanirman Sanstha, Block No. Plot Kr. 262, Sector 21, Nerul Purv, Road No. Navi Mumbai – 400706; Area 357 sq ft; local authority Navi Mumbai Muncipal Corporation (Mahanagarpalika)",
+   "furnished": true,
+   "execution_status": "registered",
+   "parent_ref": "RAHULPATHAKrbef7-1"
+  },
+  {
+   "ref": "RAHULPATHAKrbef7-21",
+   "doc_type": "Receipt",
+   "category": "receipt",
+   "level": "premises",
+   "parties": [
+    {
+     "name": "Mr. Ashwini Kumar Sinha",
+     "role": "Seller"
+    },
+    {
+     "name": "Mr. Rahul Santosh Phatak",
+     "role": "Purchaser"
+    },
+    {
+     "name": "Mrs. Reshmita Rajaram Naik",
+     "role": "Purchaser"
+    }
+   ],
+   "issued_by": "Mr. Ashwini Kumar Sinha",
+   "consideration": "846000",
+   "property_text": "Flat No. 04, approximately 357 Sq. Ft. Carpet Area, 1st Floor, Cini Homes Co-Operative Housing Society Ltd, Plot No. 262, Sector 21, Nerul (East), Navi Mumbai – 400706",
+   "furnished": true,
+   "execution_status": "executed_not_registered",
+   "parent_ref": "RAHULPATHAKrbef7-1"
+  },
+  {
+   "ref": "RAHULPATHAKr6855-20",
+   "doc_type": "Index-II (Dast Goshwara)",
+   "category": "registration_record",
+   "level": "premises",
+   "exec_date": "24/09/2026",
+   "reg_date": "24/09/2026",
+   "doc_no_raw": "टनन11 18302/2026",
+   "doc_number": "18302",
+   "doc_year": "2026",
+   "sro": "Sub-Registrar Thane-11 / Thane-99",
+   "parties": [
+    {
+     "name": "Rahul Santosh Phatak",
+     "role": "Vendor"
+    },
+    {
+     "name": "Reshmita Rajaram Naik",
+     "role": "Vendor"
+    },
+    {
+     "name": "Abhinee Kumar Minha",
+     "role": "Vendor"
+    },
+    {
+     "name": "Rahul S Phatak",
+     "role": "Purchaser"
+    },
+    {
+     "name": "Reshmita R Naik",
+     "role": "Purchaser"
+    },
+    {
+     "name": "Jitendra Vadhavani",
+     "role": "Witness"
+    },
+    {
+     "name": "Smita Santosh Phatak",
+     "role": "Witness"
+    }
+   ],
+   "issued_by": "Sub-Registrar Thane-99",
+   "consideration": "9400000",
+   "market_value": "5804298",
+   "stamp_duty": "564000",
+   "registration_fee": "30000",
+   "property_text": "Flat No. 302, Floor 3, Building Shiv Parvati MCHS Ltd., B-3, Sector 21, Nerul East, Navi Mumbai, Thane",
+   "furnished": true,
+   "execution_status": "registered"
+  },
+  {
+   "ref": "RAHULPATHAKr6855-19",
+   "doc_type": "Document Handling Charges Receipt",
+   "category": "receipt",
+   "level": "premises",
+   "sro": "Joint District Registrar, District Thane",
+   "parties": [],
+   "issued_by": "Department of Registration and Stamps, Maharashtra",
+   "reference_no": "PRN 0926238117731",
+   "furnished": true,
+   "parent_ref": "RAHULPATHAKr6855-20"
+  },
+  {
+   "ref": "RAHULPATHAKr6855-10",
+   "doc_type": "Share Certificate",
+   "category": "society",
+   "level": "premises",
+   "parties": [
+    {
+     "name": "Cini Homes Co-Op Housing Soc Ltd",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Mr. Ashwini Kumar Sinha",
+     "role": "Holder"
+    }
+   ],
+   "issued_by": "Cini Homes Co-Op Housing Soc Ltd",
+   "reference_no": "Certificate No. 04",
+   "property_text": "Flat No. 04, Cini Homes Co-Op Housing Soc Ltd, Plot No. 252 (as printed), Sector-21, Nerul, Navi Mumbai",
+   "furnished": true,
+   "execution_status": "executed_not_registered"
+  },
+  {
+   "ref": "RAHULPATHAKr6855-12",
+   "doc_type": "Identity Documents (PAN & Aadhaar)",
+   "category": "identity",
+   "level": "premises",
+   "parties": [
+    {
+     "name": "Rahul Sardosh Phatak",
+     "role": "Holder"
+    },
+    {
+     "name": "RAHUL SANTOSH PHATAK",
+     "role": "Holder"
+    },
+    {
+     "name": "RESHMITA RAJARAM NAIK",
+     "role": "Holder"
+    },
+    {
+     "name": "Reshmita Rajaram Naik",
+     "role": "Holder"
+    },
+    {
+     "name": "ASHWINI KUMAR SINHA",
+     "role": "Holder"
+    },
+    {
+     "name": "Ashwini Kumar Sinha",
+     "role": "Holder"
+    },
+    {
+     "name": "JEETENDRA S WADHWANI",
+     "role": "Holder"
+    },
+    {
+     "name": "PHATAK SANTOSH SMITA",
+     "role": "Holder"
+    }
+   ],
+   "issued_by": "Government of India / Income Tax Department",
+   "reference_no": "PAN: CHRPP0024K (Rahul Santosh Phatak); Aadhaar: 3822 3455 1495 (Rahul Sardosh Phatak); PAN: BDRPN1642L (Reshmita Rajaram Naik); Aadhaar: 4217 6048 1313 (Reshmita Rajaram Naik); Aadhaar: 6013 1316 4448 (Ashwini Kumar Sinha); PAN: AAAPW8219M (Jeetendra S Wadhwani); PAN: BIXPP5923P (Phatak Santosh Smita)",
+   "furnished": true,
+   "execution_status": "executed_not_registered"
+  },
+  {
+   "ref": "aswiniagrrem5833-11",
+   "doc_type": "Index-II",
+   "category": "registration_record",
+   "level": "premises",
+   "doc_no_raw": "फो.11818/2000",
+   "doc_number": "11818",
+   "doc_year": "2000",
+   "sro": "Sub Registrar Thane 3",
+   "parties": [],
+   "issued_by": "Sub Registrar Thane 3",
+   "consideration": "30000",
+   "market_value": "30000",
+   "stamp_duty": "2000",
+   "registration_fee": "1000",
+   "property_text": "Plot No. 262, Sector 21, Nerul, Navi Mumbai",
+   "furnished": true,
+   "execution_status": "registered"
+  },
+  {
+   "ref": "aswiniagrrem5833-10",
+   "doc_type": "Registration Receipt",
+   "category": "receipt",
+   "level": "premises",
+   "reg_date": "10/10/2023",
+   "doc_no_raw": "टनन3-0-2023",
+   "doc_number": "0",
+   "doc_year": "2023",
+   "sro": "Joint Sub Registrar Thane 3",
+   "parties": [
+    {
+     "name": "Pravin Patil",
+     "role": "Presenter"
+    }
+   ],
+   "issued_by": "Joint Sub Registrar Thane 3",
+   "reference_no": "Receipt No. 21599",
+   "registration_fee": "5",
+   "property_text": "Document No. 11818/2000, Index No. 2 copy, Description Application No. 1372/2023",
+   "furnished": true,
+   "execution_status": "registered",
+   "parent_ref": "aswiniagrrem5833-11"
+  },
+  {
+   "ref": "aswiniagrrem5833-13",
+   "doc_type": "Building Plan (Approved)",
+   "category": "approval",
+   "level": "project",
+   "parties": [
+    {
+     "name": "CIDCO LTD",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "P.S. GOVINDARAJAN",
+     "role": "Addressee"
+    }
+   ],
+   "issued_by": "CIDCO LTD",
+   "reference_no": "HSDIC/1",
+   "property_text": "Proposed Residential Building on Plot No. 262, Sec. 21, Nerul, Navi Mumbai. Plot area 353.467 Sq.M, Total proposed BUA 353.2219 Sq.M (Ground + First + Second + Third floors).",
+   "furnished": true,
+   "execution_status": "executed_not_registered"
+  },
+  {
+   "ref": "aswiniagrrem5833-15",
+   "doc_type": "Consent Letter",
+   "category": "other",
+   "level": "premises",
+   "parties": [
+    {
+     "name": "Ashwini Kumar Sinha",
+     "role": "Applicant"
+    },
+    {
+     "name": "CITY AND INDUSTRIAL DEVELOPMENT CORPORATION OF MAHARASHTRA LTD.",
+     "role": "Addressee"
+    }
+   ],
+   "property_text": "Apartment No. 262, Sector No. 21 at Nerul/Vashi (as printed)",
+   "furnished": true,
+   "execution_status": "executed_not_registered"
+  },
+  {
+   "ref": "aswiniagrrem5833-16",
+   "doc_type": "Application Form",
+   "category": "other",
+   "level": "premises",
+   "parties": [
+    {
+     "name": "Smt. Ashwini Kumar Sinha",
+     "role": "Applicant"
+    },
+    {
+     "name": "Cini Homes Co-op HGG Society Ltd.",
+     "role": "Addressee"
+    }
+   ],
+   "reference_no": "Form - 2",
+   "property_text": "Plot No. 262, Sector 21, Nerul, Navi Mumbai",
+   "furnished": true,
+   "execution_status": "draft"
+  },
+  {
+   "ref": "RAHULPATHAKrbef7-10",
+   "doc_type": "Occupancy Certificate",
+   "category": "approval",
+   "level": "project",
+   "parties": [
+    {
+     "name": "Navi Mumbai Municipal Corporation (NMMC)",
+     "role": "Issuing Authority"
+    }
+   ],
+   "issued_by": "Navi Mumbai Municipal Corporation (NMMC)",
+   "property_text": "Plot No. 262, Sector 21, Nerul, Navi Mumbai",
+   "furnished": false
+  }
+ ],
+ "chain_parties": [
+  "ASHWINI KUMAR SINHA",
+  "AXIS Bank Ltd.",
+  "Abhinee Kumar Minha",
+  "Advocate C. Fernandes",
+  "Amalan John",
+  "Amitabh R. Singh",
+  "Ashwini Kumar Sinha",
+  "Ashwinikumar Sinha",
+  "C. Fernandes",
+  "CIDCO",
+  "CIDCO LTD",
+  "CITY AND INDUSTRIAL DEVELOPMENT CORPORATION OF MAHARASHTRA LTD.",
+  "Cini Homes Co-Op Housing Soc Ltd",
+  "Cini Homes Co-Op Housing Soc Ltd. (Reg. No. NBOM/CIDCO/HSG(OH)/1047/JTR of 2000-01)",
+  "Cini Homes Co-Op Hsg. Society Ltd.",
+  "Cini Homes Co-Operative Housing Society Ltd.",
+  "Cini Homes Co-op HGG Society Ltd.",
+  "City & Industrial Development Corporation of Maharashtra Limited",
+  "City and Industrial Development Corporation (Maharashtra) Limited, Survey Department, CBD.",
+  "City and Industrial Development Corporation of Maharashtra Limited",
+  "City and Industrial Development Corporation of Maharashtra Ltd.",
+  "Co-operative Registrar (CIDCO)",
+  "H. Seshadrinath",
+  "High Court",
+  "JEETENDRA S WADHWANI",
+  "Jitendra Vadhavani",
+  "K. Avinash Chandra",
+  "K.C. Mathew",
+  "M. G. Jadhar",
+  "M/s Cini Homes Co-Op Hsg. Society Ltd.",
+  "M/s. Cini Homes Co-op Housing Society Ltd.",
+  "M/s. OLIVE BUILDERS & DEVELOPERS PVT. LTD.",
+  "M/s. Olive Builders & Developers Pvt Ltd",
+  "M/s. Olive Builders & Developers Pvt. Ltd.",
+  "MR. ASHWINI KUMAR SINHA",
+  "MR. RAHUL SANTOSH PHATAK",
+  "MRS. RESHMITA RAJARAM NAIK",
+  "Messrs Sini Homes Co-operative Housing Society Limited",
+  "Mr. ASHWINI KUMAR SINHA",
+  "Mr. Ashwini Kumar Sinha",
+  "Mr. Ashwinikumar Hariprasad Sinha",
+  "Mr. Ashwinikumar Sinha",
+  "Mr. Rahul Santosh Phatak",
+  "Mrs. Reshmita Rajaram Naik",
+  "Navi Mumbai Muncipal Corporation",
+  "Navi Mumbai Municipal Corporation",
+  "Navi Mumbai Municipal Corporation (NMMC)",
+  "OLIVE BUILDERS & DEVELOPERS PVT. LTD.",
+  "Olive Builders & Developers Pvt. Ltd.",
+  "P.S. GOVINDARAJAN",
+  "P.V. Johny",
+  "PHATAK SANTOSH SMITA",
+  "Prabhakar G. Jadhav",
+  "Pravin Kumar Bhormat Jain",
+  "Pravin Patil",
+  "R.S. Raghavan",
+  "RAHUL SANTOSH PHATAK",
+  "RESHMITA RAJARAM NAIK",
+  "Rahul S Phatak",
+  "Rahul S Phatak and Reshmita R Naik",
+  "Rahul Santosh Phatak",
+  "Rahul Sardosh Phatak",
+  "Rakesh Kumar",
+  "Reshmita R Naik",
+  "Reshmita Rajaram Naik",
+  "SHRI. ASHWINI KUMAR SINHA",
+  "Shri P.V. MATHAI",
+  "Shri PRAVINKUMAR B. JAIN",
+  "Shri Pravin Kumar Bhimu",
+  "Shri Pravinkumar B. Jain",
+  "Shri Pravinkumar Bhumal Jain",
+  "Shri Prayin Kumar Dhi. Jain",
+  "Shri. P. V. MATHAI",
+  "Shri. Pravinkumar B. Jain",
+  "Sini Homes Co-operative Housing Society Limited",
+  "Smita Santosh Phatak",
+  "Smt. Ashwini Kumar Sinha",
+  "Sub-Registrar Co-operative Institution (CIDCO), Navi Mumbai",
+  "Subhitakumar Jain"
+ ],
+ "receipts": [
+  {
+   "file": "eSearch (1).pdf",
+   "grn": "MH012351648202627U",
+   "date": "19/10/2026",
+   "receipt_no": "1115570926",
+   "period_from": 2002,
+   "period_to": 2026,
+   "fee": "625",
+   "survey_searched": "262",
+   "village": "Nerul"
+  }
+ ],
+ "expect": {
+  "must_find": {
+   "18302/2026": "A",
+   "14020/2019": "A"
+  },
+  "no_other_AB": true,
+  "sro": "Thane",
+  "owner_contains": "RAHUL SANTOSH PHATAK",
+  "draft": false,
+  "project_mortgage": false
+ }
+}

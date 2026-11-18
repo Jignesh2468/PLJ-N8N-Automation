@@ -1,0 +1,204 @@
+{
+ "lead": "511",
+ "subject": {
+  "unit_type": "Flat",
+  "unit_no": "804",
+  "floor": "8th",
+  "building_name": "Shree Krishna Heights",
+  "society_name": "Pant Nagar Shri Krishnangan Co-operative Housing Society Limited",
+  "cts_no": "5681",
+  "plot_no": "351",
+  "village": "Ghatkopar-Kirol",
+  "taluka": "Kurla",
+  "district": "Mumbai Suburban",
+  "full_description": "Flat No. 804, 8th Floor, Shree Krishna Heights, Building No. 24, leasehold land bearing C.T.S. No. 5681, Final Plot No. 351, TPS III, Village Ghatkopar-Kirol, Pant Nagar, Ghatkopar (East), Mumbai 400075",
+  "search_terms_english": [
+   "Shree Krishna Heights",
+   "Pant Nagar Shri Krishnangan CHS",
+   "Shree Bharani Projects LLP"
+  ],
+  "search_terms_marathi": [
+   "श्री कृष्णा हाईट्स",
+   "पंतनगर श्री कृष्णांगण को-ऑप हौसिंग सोसायटी",
+   "श्री भरणी प्रोजेक्ट्स"
+  ]
+ },
+ "documents": [
+  {
+   "ref": "D1",
+   "doc_type": "Society Registration Certificate",
+   "category": "society",
+   "level": "project",
+   "exec_date": "30/04/1983",
+   "reg_date": "",
+   "parties": [
+    {
+     "name": "Pant Nagar Shri Krishnangan Co-operative Housing Society Limited",
+     "role": "Society"
+    }
+   ],
+   "furnished": false,
+   "reference_no": "BOM/W-HSG-7999"
+  },
+  {
+   "ref": "D2",
+   "doc_type": "Indenture of Lease",
+   "category": "title_transfer",
+   "level": "land",
+   "exec_date": "25/11/1986",
+   "reg_date": "",
+   "parties": [
+    {
+     "name": "Maharashtra Housing and Area Development Authority",
+     "role": "Lessor"
+    },
+    {
+     "name": "Pant Nagar Shri Krishnangan Co-operative Housing Society Limited",
+     "role": "Lessee"
+    }
+   ],
+   "furnished": false,
+   "doc_no_raw": "P/515/1987",
+   "doc_number": "P/515",
+   "doc_year": "1987"
+  },
+  {
+   "ref": "D3",
+   "doc_type": "Deed of Sale",
+   "category": "title_transfer",
+   "level": "land",
+   "exec_date": "25/11/1986",
+   "reg_date": "",
+   "parties": [
+    {
+     "name": "Maharashtra Housing and Area Development Authority",
+     "role": "Vendor"
+    },
+    {
+     "name": "Pant Nagar Shri Krishnangan Co-operative Housing Society Limited",
+     "role": "Purchaser"
+    }
+   ],
+   "furnished": false,
+   "doc_no_raw": "P/513/1987",
+   "doc_number": "P/513",
+   "doc_year": "1987"
+  },
+  {
+   "ref": "D4",
+   "doc_type": "Development Agreement",
+   "category": "development",
+   "level": "land",
+   "exec_date": "06/02/2025",
+   "reg_date": "07/02/2025",
+   "parties": [
+    {
+     "name": "Pant Nagar Shri Krishnangan Co-operative Housing Society Limited",
+     "role": "Owner"
+    },
+    {
+     "name": "Shree Bharani Projects LLP",
+     "role": "Developer"
+    },
+    {
+     "name": "Raja Bhura Bhushan",
+     "role": "Representative of Shree Bharani Projects LLP"
+    }
+   ],
+   "furnished": false,
+   "doc_number": "KRL1-3174-2025"
+  },
+  {
+   "ref": "D5",
+   "doc_type": "Irrevocable Power of Attorney",
+   "category": "development",
+   "level": "land",
+   "exec_date": "06/02/2025",
+   "reg_date": "07/02/2025",
+   "parties": [
+    {
+     "name": "Pant Nagar Shri Krishnangan Co-operative Housing Society Limited",
+     "role": "Owner"
+    },
+    {
+     "name": "Shree Bharani Projects LLP",
+     "role": "Developer"
+    }
+   ],
+   "furnished": false,
+   "doc_number": "KRL1-3175-2025"
+  },
+  {
+   "ref": "D6",
+   "doc_type": "Commencement Certificate",
+   "category": "approval",
+   "level": "project",
+   "exec_date": "01/12/2025",
+   "reg_date": "",
+   "parties": [
+    {
+     "name": "Shree Bharani Projects LLP",
+     "role": "Addressee"
+    }
+   ],
+   "furnished": false,
+   "issued_by": "Executive Engineer, MHADA",
+   "reference_no": "MH/EE/(BP)/GM/MHADA-1/2131/2025/CC/1/New"
+  },
+  {
+   "ref": "D7",
+   "doc_type": "Agreement for Sale",
+   "category": "title_transfer",
+   "level": "premises",
+   "exec_date": "24/09/2026",
+   "reg_date": "24/09/2026",
+   "parties": [
+    {
+     "name": "Shree Bharani Projects LLP",
+     "role": "Promoter"
+    },
+    {
+     "name": "Raja Bhura Bhushan",
+     "role": "Representative of Shree Bharani Projects LLP"
+    },
+    {
+     "name": "Kishor Shantaram Talekar",
+     "role": "Allottee"
+    },
+    {
+     "name": "Shreya Kishor Talekar",
+     "role": "Allottee"
+    }
+   ],
+   "furnished": true,
+   "doc_number": "21098",
+   "doc_year": "2026",
+   "sro": "Joint Sub-Registrar Mumbai 27",
+   "consideration": "7413851",
+   "execution_status": "registered"
+  }
+ ],
+ "chain_parties": [
+  "Maharashtra Housing and Area Development Authority",
+  "Pant Nagar Shri Krishnangan Co-operative Housing Society Limited",
+  "Shree Bharani Projects LLP",
+  "Raja Bhura Bhushan",
+  "Rajesh Devji Vora",
+  "Kishor Shantaram Talekar",
+  "Shreya Kishor Talekar"
+ ],
+ "receipts": [],
+ "expect": {
+  "must_find": {
+   "21098/2026": "A",
+   "3174/2025": "B"
+  },
+  "no_other_AB": true,
+  "sro": "Kurla No.1 to 5 and Mumbai No.27 to 31",
+  "owner_contains": "Talekar",
+  "draft": false,
+  "project_mortgage": false,
+  "no_share_cert": true,
+  "one_lease": true
+ }
+}
