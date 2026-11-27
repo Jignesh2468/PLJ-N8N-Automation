@@ -431,6 +431,28 @@ def _check_parties(d: dict, row: dict, igr_parties: List[dict], known: Optional[
         + (f" ({', '.join(dropped)} are not parties in IGR — identifiers / witnesses)" if dropped else "") + ".")
 
 
+def _check_mortgage_parties(d: dict, row: dict, igr_parties: List[dict], known: Optional[Dict[str, str]] = None) -> None:
+    """A mortgage of the papers linked to its IGR row: when the mortgagor read from the papers is not a party of the
+    registered row at all (a recital misread as 'CRDL' for 'Shree Swami Samarth Builders & Developers'), the registered
+    mortgagor / mortgagee are used and the difference is reported."""
+    if not is_mortgage_type(d["doc_type"] + " " + (row.get("docname_raw") or "")) or is_charge_release(d["doc_type"]):
+        return
+    sides = skeleton((row.get("seller_raw") or "") + " " + (row.get("purchaser_raw") or ""))
+    borrowers = [p for p in d.get("parties") or [] if re.search(r"mortgagor|borrower", p.get("role") or "", re.I)]
+    reg = [p for p in igr_parties or [] if re.search(r"mortgagor|mortgagee", p.get("role") or "", re.I)]
+    if not sides or not borrowers or not reg or any(_on_side(p["name"], sides) for p in borrowers):
+        return
+    # the lender read from the papers keeps its English spelling; only the side that is not registered is replaced
+    lenders = [p for p in d.get("parties") or [] if re.search(r"mortgagee|lender", p.get("role") or "", re.I)]
+    reg_borr = [p for p in reg if re.search(r"mortgagor", p.get("role") or "", re.I)]
+    reg_lend = [p for p in reg if re.search(r"mortgagee", p.get("role") or "", re.I)]
+    eng = lambda p: {**p, "name": (known or {}).get(_name_key(p.get("name") or "")) or p["name"]}
+    d["parties"] = [eng(p) for p in reg_borr] + (lenders if lenders else [eng(p) for p in reg_lend])
+    d.setdefault("igr_mismatch", []).append(
+        "VERIFY: mortgagor read from the documents (" + ", ".join(p["name"] for p in borrowers) +
+        ") is not a party to the registered mortgage in IGR — parties taken from the IGR record.")
+
+
 _ABBR = ((r"\bco\s*-?\s*op(?:erative)?\b|\bcoop\b", "cooperative"), (r"\bhsg\b|\bhousing\b", "housing"),
          (r"\bsoc(?:iety)?\b|\bsoc\.", "society"), (r"\bltd\b|\blimited\b", "limited"), (r"\bchs\b", "cooperative housing society"),
          (r"\bbldg\b", "building"), (r"\bapts?\b", "apartment"), (r"\brd\b", "road"), (r"\bmg\b|\bmarg\b", "road"),
@@ -497,6 +519,7 @@ def attach_igr(docs: List[dict], igr_rows: List[dict], classes: Dict[str, dict])
             if e.get("discrepancy") and not _trivial_discrepancy(e["discrepancy"]):
                 d.setdefault("igr_mismatch", []).append(e["discrepancy"])
             _check_parties(d, r, e["parties_en"], known)
+            _check_mortgage_parties(d, r, e["parties_en"], known)
         else:
             dt = e["doc_type_en"] or r["docname_raw"]
             if cls == "B" and re.fullmatch(r"\s*(?:agreement for sale|agreement|करारनामा)\s*", dt, re.I):
@@ -944,14 +967,35 @@ _OFFICE_CODES = {"mbi": "mumbai", "bom": "mumbai", "tnn": "thane", "krl": "kurla
 
 
 def _office(text: str):
-    """('mumbai', '28') from 'MBI-28-17601-2025', 'Joint Sub-Registrar Mumbai-28', 'Sub-Registrar Kurla-2', 'TNN7'."""
+    """('mumbai', '28') from 'MBI-28-17601-2025', 'Joint Sub-Registrar Mumbai-28', 'Sub-Registrar Kurla-2', 'TNN7'.
+    The Kurla offices 1-5 were renamed Mumbai 27-31 (a deed cited 'KRL-3/1600/2019' is indexed at Mumbai-29,
+    'KRL-2-24310-2023' at Mumbai-28): both names give the same office."""
     t = (text or "").lower()
     m = re.match(r"^\s*p?([a-z]{3})\s*[-/]?\s*(\d{1,2})\s*[-/]", t)
     if m and m.group(1) in _OFFICE_CODES:
-        return _OFFICE_CODES[m.group(1)], m.group(2)
-    m = re.search(r"(mumbai|thane|kurla|vasai|bandra|andheri|panvel|belapur|kalyan|ulhasnagar|bhiwandi|haveli|borivali|"
-                  r"palghar|virar|mira|bhayander|navi mumbai)\D{0,6}(\d{1,2})?\b", t)
-    return (m.group(1), m.group(2) or "") if m else ("", "")
+        place, num = _OFFICE_CODES[m.group(1)], m.group(2)
+    else:
+        m = re.search(r"(mumbai|thane|kurla|vasai|bandra|andheri|panvel|belapur|kalyan|ulhasnagar|bhiwandi|haveli|borivali|"
+                      r"palghar|virar|mira|bhayander|navi mumbai)\D{0,6}(\d{1,2})?\b", t)
+        place, num = (m.group(1), m.group(2) or "") if m else ("", "")
+    if place == "kurla" and num.isdigit() and 1 <= int(num) <= 5:
+        place, num = "mumbai", str(26 + int(num))
+    return place, num
+
+
+def _days(a: str, b: str):
+    """Days between two dd/mm/yyyy dates (None when either cannot be read)."""
+    from datetime import date
+    out = []
+    for v in (a, b):
+        m = re.match(r"\s*(\d{1,2})[/\-.](\d{1,2})[/\-.](\d{4})", v or "")
+        if not m:
+            return None
+        try:
+            out.append(date(int(m.group(3)), int(m.group(2)), int(m.group(1))))
+        except ValueError:
+            return None
+    return abs((out[0] - out[1]).days)
 
 
 def link_paper_numbers(docs: List[dict], rows: List[dict], classes: Dict[str, dict]) -> Dict[str, dict]:
@@ -972,10 +1016,14 @@ def link_paper_numbers(docs: List[dict], rows: List[dict], classes: Dict[str, di
         dates = {x for x in (d.get("exec_date"), d.get("reg_date")) if x}
         for r in cands:
             rplace, rnum = _office(r.get("sro") or "")
+            # same number + year and a date within a week: the same deed even when the papers name the office
+            # differently ('Sub-Registrar Kurla' in a recital, 'Joint Sub-Registrar Mumbai-28' in the index)
+            near = any(x is not None and x <= 7 for a in dates for b in (r.get("exec_date"), r.get("reg_date"))
+                       for x in [_days(a, b)])
             if place and rplace:
-                if place != rplace or (num and rnum and num != rnum):
+                if (place != rplace or (num and rnum and num != rnum)) and not near:
                     continue
-            elif not (dates & {r.get("exec_date"), r.get("reg_date")}):
+            elif not near:
                 continue
             c = classes.get(r["id"]) or {}
             if c.get("class") in ("A", "B"):

@@ -1,0 +1,2993 @@
+{
+ "lead": "617",
+ "note": "Registered Agreement for Sale 26098/2026 (Mumbai-28) of Flat 1604, Building No. 4, 'Vecepia CHS (Prop.)', an SRA scheme of Shree Swami Samarth Builders & Developers on CTS 22 (part) / 25 (part), Village Kanjur. Missed before: (1) the developer's mortgage to SMFG 24310/2023 that lists Flat 1604 among ~100 unsold units ('वेस्पिया' — the short name Vecepia gave no long skeleton and the old chawl name 'Neelam Sadan' hid it; the papers cite it as KRL-2-24310-2023 while IGR shows Mumbai-28 = renamed Kurla-2); (2) the ICICI Bank land mortgage 12775/2014 on CTS 22 (part) ('सीटीएस क्रमांक . 22' — 'क्र' ate 'क्रमांक'). Not ours: 9664/2010 (CTS 24, only survey 127 in common), 15967/2021 + its release 22854/2025 (Laxmi Narayan SRA, CTS 226, also lists a Flat 1604), 8395/2016 / 122/2020 (Flat 1604 of other buildings).",
+ "subject": {
+  "unit_type": "Flat",
+  "unit_no": "1604",
+  "floor": "16th",
+  "building_name": "Building No.4, Vecepia CHS (Prop.)",
+  "project_name": "Vecepia Co-operative Housing Society",
+  "builtup_area": "37.92 sq. mtrs",
+  "carpet_area": "371 sq. ft",
+  "survey_no": "134/1, 127/1",
+  "hissa_no": "1/1, 1",
+  "cts_no": "22(part), 25(part)",
+  "land_area": "1034.20 sq. mtrs",
+  "village": "Kanjur",
+  "taluka": "Kurla",
+  "district": "Mumbai Suburban",
+  "pin": "400078",
+  "road_locality": "Sai Vihar, Tembi Pada Road, Bhandup (West), Mumbai",
+  "full_description": "The Apartment No. 1604, admeasuring 371 Sq. Ft. carpet area on 16th floor in the Building No. 4 known as \"Vecepia CHS (Prop.)\" to be constructed on part of the said Land, situated at Sai Vihar, Opp. Shramik Society, Tembepada Road, Bhandup-west, Mumbai 400 078. First Property: land with structure about 351 Sq. Mtrs., Old Survey No. 134 Hissa No. 1, New Survey No. 134 Hissa No. 1/1, C.T.S. No. 22 (Part), Village Kanjur, Taluka Kurla, at Neelam Sadan, Sai Hill, Tembipada Road, Bhandup (West), S ward. Second Property: land with structure about 243.20 Sq. Mtrs., Old Survey No. 127 (part), New Survey No. 127/1, C.T.S. No. 25 (Part), Village Kanjur. Third Property: land about 440 Sq. Mtrs., Survey No. 134 Hissa No. 1, C.T.S. No. 22 (Part), Village Kanjur",
+  "search_terms_marathi": [
+   "Vesepia CHS",
+   "Vesepia Co-operative Housing Society",
+   "Shri Swami Samarth Builders and Developers",
+   "Citadel Realty and Developers Limited",
+   "Jitendra Babu Chavan",
+   "Sangeeta Jitendra Chavan",
+   "Neelam Sadan",
+   "Siddhivinayak CHS",
+   "Lakshmi CHS",
+   "Matrix West Management Private Limited"
+  ],
+  "search_terms_english": [
+   "Vecepia CHS",
+   "Vecepia Co-operative Housing Society",
+   "Vecepia",
+   "Shree Swami Samarth Builders & Developers",
+   "Shree Swami Samarth Builders and Developers",
+   "Citadel Realty & Developers Limited",
+   "Jitendra Babu Chavan",
+   "Sangeeta Jitendra Chavan",
+   "Neelam Sadan",
+   "Siddhivinayak CHS",
+   "Laxmi CHS",
+   "Matrix Waste Management Private Limited",
+   "Sai Vihar"
+  ]
+ },
+ "documents": [
+  {
+   "ref": "jitendradoce5d0-18",
+   "doc_type": "Slum Area Declaration Notification",
+   "category": "approval",
+   "level": "land",
+   "exec_date": "16/09/1976",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [],
+   "issued_by": "",
+   "reference_no": "SLM/1076/5280/G (also SLM/IMP/CA/I/KJR)",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "Said Larger Land declared 'Slum Properties' under the Maharashtra Slum Areas (Improvement, Clearance and Redevelopment) Act, 1971",
+   "furnished": false,
+   "execution_status": "",
+   "pages": "11",
+   "parent_ref": "",
+   "key_terms": [],
+   "short_description": "Notification No. SLM/1076/5280/G dated 16/09/1976 declaring the Larger Land a slum area under the Slum Areas Act, 1971, recited",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-78",
+   "doc_type": "Slum Declaration Notification",
+   "category": "approval",
+   "level": "land",
+   "exec_date": "16/09/1976",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Deputy Chief Executive Officer, Maharashtra Slum Improvement Board and Competent Authority",
+     "role": "Issuing Authority"
+    }
+   ],
+   "issued_by": "Deputy Chief Executive Officer, Maharashtra Slum Improvement Board and Competent Authority",
+   "reference_no": "SLM/1076/S280/G",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "Property occupied by chawl known as Neelam Sadan declared slum under Section 4(1) of the Maharashtra Slum Areas (Improvement, Clearance & Redevelopment) Act, 1971",
+   "furnished": false,
+   "execution_status": "",
+   "pages": "",
+   "parent_ref": "",
+   "key_terms": [
+    "Notifications dated 16/09/1976 and 21/10/1976",
+    "Published in Maharashtra Government Gazette on 05/07/1984"
+   ],
+   "short_description": "Slum declaration notification No. SLM/1076/S280/G dated 16/09/1976 and 21/10/1976 - recited, copy not in file",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-7",
+   "doc_type": "Release Deed",
+   "category": "title_transfer",
+   "level": "land",
+   "exec_date": "11/07/2017",
+   "reg_date": "11/07/2017",
+   "doc_no_raw": "KRL-3/5958/2017",
+   "doc_number": "5958",
+   "doc_year": "2017",
+   "sro": "Sub-Registrar of Assurances, Kurla-3",
+   "parties": [
+    {
+     "name": "Mr. Arunkumar Purushottam (Thakkar) alias Kalyanji",
+     "role": "Releasor"
+    },
+    {
+     "name": "Smt. Damayanti Liladhar Kanji (Kotak)",
+     "role": "Releasor"
+    },
+    {
+     "name": "Smt. Saraswati Pralhadrai Kherji alias (Thakkar)",
+     "role": "Releasor"
+    },
+    {
+     "name": "Mr. Vasantkumar Purushottam Thakkar",
+     "role": "Releasee"
+    }
+   ],
+   "issued_by": "",
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "Undivided share in property at Old Survey No. 127, New Survey No. 127/1, CTS No. 25 (Part), Village Kanjur, Taluka Kurla",
+   "furnished": false,
+   "execution_status": "registered",
+   "pages": "",
+   "parent_ref": "",
+   "key_terms": [
+    "Releasors relinquished undivided share, right, title and interest in favour of Vasantkumar Purushottam Thakkar",
+    "Releasors relinquished undivided share in favour of Mr. Vasantkumar Purushottam Thakkar"
+   ],
+   "short_description": "Release Deed dated 11/07/2017 registered at Kurla-3 under Sr. No. KRL-3/5958/2017 in favour of Mr. Vasantkumar Purushottam Thakkar (recited)",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-59",
+   "doc_type": "Sale Deed / Agreement (recited in property card)",
+   "category": "title_transfer",
+   "level": "land",
+   "exec_date": "17/07/2017",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "2017",
+   "sro": "Joint Sub-Registrar, Kurla-3",
+   "parties": [
+    {
+     "name": "Raja Babulal Manjetia",
+     "role": "Transferor"
+    },
+    {
+     "name": "M/s. Nexzone Fiscal Services Pvt. Ltd.",
+     "role": "Transferee"
+    }
+   ],
+   "issued_by": "",
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "Part area of CTS No. 25, Village Kanjur",
+   "furnished": false,
+   "execution_status": "registered",
+   "pages": "",
+   "parent_ref": "",
+   "key_terms": [
+    "Recited in the property card entry dated 16/04/2018 for CTS No. 25"
+   ],
+   "short_description": "Registered deed dated 17/07/2017 (Joint Sub-Registrar Kurla-3) by which M/s. Nexzone Fiscal Services Pvt. Ltd. purchased part area of CTS No. 25 from Raja Babulal Manjetia, as recited in the property card",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-8",
+   "doc_type": "Deed of Conveyance",
+   "category": "title_transfer",
+   "level": "land",
+   "exec_date": "12/10/2018",
+   "reg_date": "12/10/2018",
+   "doc_no_raw": "KRL-4/12655/2018",
+   "doc_number": "12655",
+   "doc_year": "2018",
+   "sro": "Sub-Registrar of Assurances, Kurla-4",
+   "parties": [
+    {
+     "name": "Mr. Pratapsingh Shoorji Vallabhdas (since deceased)",
+     "role": "Vendor"
+    },
+    {
+     "name": "Mr. Aditya Pratapsingh Shoorji",
+     "role": "Vendor (legal heir of Pratapsingh Shoorji Vallabhdas)"
+    },
+    {
+     "name": "Mrs. Medha Hemant Banker",
+     "role": "Vendor (legal heir of Pratapsingh Shoorji Vallabhdas)"
+    },
+    {
+     "name": "Mrs. Purna Jatin Sheth",
+     "role": "Vendor (legal heir of Pratapsingh Shoorji Vallabhdas)"
+    },
+    {
+     "name": "Shri Dilipsingh Shoorji Vallabhdas",
+     "role": "Vendor"
+    },
+    {
+     "name": "Smt. Jayalaxmi Gopalji Virji Ganatra",
+     "role": "Vendor"
+    },
+    {
+     "name": "Smt. Damayanti Virji alias Smita Shivaji Thakkar",
+     "role": "Vendor"
+    },
+    {
+     "name": "Shri Vasantkumar Purushottam Thakkar",
+     "role": "Vendor"
+    },
+    {
+     "name": "Mr. Raja Babulal Majethia",
+     "role": "Vendor"
+    },
+    {
+     "name": "Matrix Waste Management Private Limited",
+     "role": "Confirming Party"
+    },
+    {
+     "name": "M/s Shree Swami Samarth Builders and Developers",
+     "role": "Purchaser"
+    },
+    {
+     "name": "Shri Vaibhav Atmaram Kokate",
+     "role": "Representative of M/s Shree Swami Samarth Builders and Developers"
+    }
+   ],
+   "issued_by": "",
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "Part plot about 243.20 sq. mtrs. with structure out of 374.20 sq. mtrs., Old Survey No. 127, New Survey No. 127/1, CTS No. 25 (Part), Village Kanjur, Taluka Kurla",
+   "furnished": false,
+   "execution_status": "registered",
+   "pages": "",
+   "parent_ref": "",
+   "key_terms": [
+    "Recited Second Property of 243.20 sq. mtrs. purchased by the Promoter; Matrix Waste Management Private Limited confirmed",
+    "Recited in Title Certificate (third property flow of title); Matrix Waste Management Pvt. Ltd. confirming party"
+   ],
+   "short_description": "Deed of Conveyance dated 12/10/2018 registered at Kurla-4 under Sr. No. KRL-4/12655/2018 in favour of M/s Shree Swami Samarth Builders and Developers (recited)",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-6",
+   "doc_type": "Deed of Conveyance",
+   "category": "title_transfer",
+   "level": "land",
+   "exec_date": "30/01/2019",
+   "reg_date": "02/02/2019",
+   "doc_no_raw": "KRL-3/1600/2019",
+   "doc_number": "1600",
+   "doc_year": "2019",
+   "sro": "Sub-Registrar of Assurances, Kurla-3",
+   "parties": [
+    {
+     "name": "Mr. Rajiv Banwarilal Gupta",
+     "role": "Vendor"
+    },
+    {
+     "name": "Mr. Krishan Harbanslal Gupta",
+     "role": "Vendor"
+    },
+    {
+     "name": "Mr. Punit Pyarelal Gupta",
+     "role": "Vendor"
+    },
+    {
+     "name": "Mr. Munish Pyarelal Gupta",
+     "role": "Vendor"
+    },
+    {
+     "name": "M/s Shree Swami Samarth Builders and Developers",
+     "role": "Purchaser"
+    },
+    {
+     "name": "Shri Vaibhav Atmaram Kokate",
+     "role": "Representative of M/s Shree Swami Samarth Builders and Developers"
+    }
+   ],
+   "issued_by": "",
+   "reference_no": "",
+   "consideration": "5400000",
+   "market_value": "16795500",
+   "stamp_duty": "839775",
+   "registration_fee": "30000",
+   "property_text": "Part plot about 351 sq. mtrs. with structure (Neelam Sadan) out of 1904 sq. mtrs., Old Survey No. 134 Hissa No. 1, New Survey No. 134 Hissa No. 1/1, CTS No. 22 (Part), Village Kanjur, Taluka Kurla",
+   "furnished": false,
+   "execution_status": "registered",
+   "pages": "",
+   "parent_ref": "",
+   "key_terms": [
+    "Recited First Property of 351 sq. mtrs. purchased by the Promoter",
+    "Recited in Title Certificate (first property flow of title)"
+   ],
+   "short_description": "Deed of Conveyance dated 30/01/2019 registered 02/02/2019 at Kurla-3 under Sr. No. KRL-3/1600/2019 from Gupta family to M/s Shree Swami Samarth Builders and Developers (recited)",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-64",
+   "doc_type": "SRA Payment Receipt (Land Rate Premium)",
+   "category": "receipt",
+   "level": "project",
+   "exec_date": "06/01/2023",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Slum Rehabilitation Authority",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "M/s Shree Swami Samarth Builders & Developers",
+     "role": "Payer"
+    }
+   ],
+   "issued_by": "Slum Rehabilitation Authority, Mumbai",
+   "reference_no": "64943",
+   "consideration": "990495",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "Proposal No. S/PVT/0173/20210707; CTS No. 22(Pt), 25(Pt), Survey No. 134/1 (Pt), 127 (pt), Village Kanjur, Taluka Kurla",
+   "furnished": true,
+   "execution_status": "",
+   "pages": "86",
+   "parent_ref": "",
+   "key_terms": [
+    "Land rate premium, 15% 1st instalment, paid by DD"
+   ],
+   "short_description": "SRA receipt dated 06/01/2023 for Rs.990495/- land rate premium (1st instalment) paid by M/s Shree Swami Samarth Builders & Developers",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-9",
+   "doc_type": "SRA Land Premium Receipt",
+   "category": "receipt",
+   "level": "land",
+   "exec_date": "06/01/2023",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Slum Rehabilitation Authority",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "M/s Shree Swami Samarth Builders and Developers",
+     "role": "Holder"
+    }
+   ],
+   "issued_by": "Slum Rehabilitation Authority",
+   "reference_no": "64843",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "Land premium on portion of Government land admeasuring about 440 sq. mtrs. (Third Property) at Survey No. 134 Hissa No. 1, CTS No. 22 (Part), Village Kanjur, for SRA scheme",
+   "furnished": false,
+   "execution_status": "",
+   "pages": "",
+   "parent_ref": "",
+   "key_terms": [
+    "Land premium paid for implementation of SRA Scheme on Government land"
+   ],
+   "short_description": "SRA Land Premium Receipt No.64843 dated 06/01/2023 paid by M/s Shree Swami Samarth Builders and Developers (recited)",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-10",
+   "doc_type": "SRA Land Premium Receipt",
+   "category": "receipt",
+   "level": "land",
+   "exec_date": "25/05/2023",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Slum Rehabilitation Authority",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "M/s Shree Swami Samarth Builders and Developers",
+     "role": "Holder"
+    }
+   ],
+   "issued_by": "Slum Rehabilitation Authority",
+   "reference_no": "68227",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "Land premium on portion of Government land admeasuring about 440 sq. mtrs. (Third Property), Village Kanjur, for SRA scheme",
+   "furnished": false,
+   "execution_status": "",
+   "pages": "",
+   "parent_ref": "",
+   "key_terms": [
+    "Further land premium paid to SRA for composite building on Government land"
+   ],
+   "short_description": "SRA Land Premium Receipt No.68227 dated 25/05/2023 paid by M/s Shree Swami Samarth Builders and Developers (recited)",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-20",
+   "doc_type": "Deed of Mortgage",
+   "category": "encumbrance",
+   "level": "project",
+   "exec_date": "26/12/2023",
+   "reg_date": "26/12/2023",
+   "doc_no_raw": "KRL-2-24310-2023",
+   "doc_number": "24310",
+   "doc_year": "2023",
+   "sro": "Sub-Registrar Kurla-2",
+   "parties": [
+    {
+     "name": "CRDL",
+     "role": "Mortgagor"
+    },
+    {
+     "name": "SMFG India Home Finance Company Ltd.",
+     "role": "Mortgagee"
+    }
+   ],
+   "issued_by": "",
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "Said Larger Land / Real Estate Project, security for project construction finance",
+   "furnished": false,
+   "execution_status": "registered",
+   "pages": "14",
+   "parent_ref": "",
+   "key_terms": [
+    "Mortgage charge as security for Real Estate Project Loan raised from SMFG India Home Finance Company Ltd"
+   ],
+   "short_description": "Deed of Mortgage dated 26/12/2023, Serial No. KRL-2-24310-2023, in favour of SMFG India Home Finance Company Ltd., recited",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-65",
+   "doc_type": "Special Power of Attorney to Admit Execution",
+   "category": "other",
+   "level": "project",
+   "exec_date": "21/02/2026",
+   "reg_date": "25/02/2026",
+   "doc_no_raw": "मबई29-3738-2026",
+   "doc_number": "3738",
+   "doc_year": "2026",
+   "sro": "Joint Sub-Registrar Mumbai-29",
+   "parties": [
+    {
+     "name": "M/s Shree Swami Samarth Builders & Developers",
+     "role": "Promoter"
+    },
+    {
+     "name": "M/s Citadel Realty & Developers Ltd.",
+     "role": "Promoter"
+    },
+    {
+     "name": "Shri Vaibhav Atmaram Kokate",
+     "role": "Representative of M/s Shree Swami Samarth Builders & Developers"
+    },
+    {
+     "name": "Shri Nilesh Dand",
+     "role": "Representative of M/s Citadel Realty & Developers Ltd."
+    },
+    {
+     "name": "Shri Jeevan Kashiram Kamde",
+     "role": "Attorney"
+    },
+    {
+     "name": "Mr. Dashrath R. Bind",
+     "role": "Attorney"
+    }
+   ],
+   "issued_by": "",
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "500",
+   "registration_fee": "100",
+   "property_text": "Slum land about 1034.20 sq. mtrs. bearing CTS No. 22(Pt.) & 25(Pt.), Village Kanjur, Taluka Kurla, Sai Hill, Tembi Pada Road, Bhandup (West), Mumbai 400078, S Ward; proposed Composite Building No. 4 'Vecepia CHS (Prop.)'",
+   "furnished": true,
+   "execution_status": "registered",
+   "pages": "87-88",
+   "parent_ref": "",
+   "key_terms": [
+    "Attorneys authorised to lodge for registration and admit execution of Agreements for Sale / Sale Deeds / Rectification / Declaration deeds for premises in the building",
+    "Executed by Shree Swami Samarth Builders & Developers (registered firm, Reg. No. MA 29619) and Citadel Realty & Developers Ltd",
+    "Power given for convenience, without consideration",
+    "Document stamped with 30 page-count stamps (receipt records 25 pages)",
+    "Karaarnama presented for registration at Joint Sub-Registrar Mumbai-28 (declaration of POA holder)",
+    "Executed by Jeevan Kashiram Kanade as POA holder of the firm and its partners under Power of Attorney dated 25/02/2026",
+    "Hamipatra: no vahantal (car parking) is transferred with the property in this deed",
+    "Stamp duty Rs.500 and registration fee Rs.100 paid by e-challan (total Rs.600)",
+    "Document Handling Charges paid: Rs.1000 and Rs.200"
+   ],
+   "short_description": "Special Power of Attorney to admit execution executed 21/02/2026 by the Promoters in favour of Shri Jeevan Kashiram Kamde and Mr. Dashrath R. Bind, registered at Joint Sub-Registrar Mumbai-29 under No. 3738/2026",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-66",
+   "doc_type": "Registration Receipt",
+   "category": "receipt",
+   "level": "project",
+   "exec_date": "",
+   "reg_date": "25/02/2026",
+   "doc_no_raw": "मबई29-3738-2026",
+   "doc_number": "3738",
+   "doc_year": "2026",
+   "sro": "Joint Sub-Registrar Mumbai-29",
+   "parties": [],
+   "issued_by": "Joint Sub-Registrar Mumbai-29",
+   "reference_no": "2106",
+   "consideration": "",
+   "market_value": "0",
+   "stamp_duty": "500",
+   "registration_fee": "100",
+   "property_text": "",
+   "furnished": true,
+   "execution_status": "",
+   "pages": "87",
+   "parent_ref": "jitendradoce5d0-65",
+   "key_terms": [
+    "Document handling charges Rs.1000; total Rs.1100; 25 pages"
+   ],
+   "short_description": "Registration Receipt (Pavati) No.2106 dated 25/02/2026 for Power of Attorney No. 3738/2026, Joint Sub-Registrar Mumbai-29",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-83",
+   "doc_type": "Power of Attorney",
+   "category": "other",
+   "level": "premises",
+   "exec_date": "25/02/2026",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "M/s Shree Swami Samarth Builders and Developers through partner Vaibhav Atmaram Kokate and others",
+     "role": "Principal"
+    },
+    {
+     "name": "Jeevan Kashiram Kanade",
+     "role": "Power of Attorney Holder"
+    }
+   ],
+   "issued_by": "",
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "",
+   "furnished": false,
+   "execution_status": "",
+   "pages": "",
+   "parent_ref": "jitendradoce5d0-65",
+   "key_terms": [
+    "Recited in the POA holder's declaration: Kulmukhtyarpatra dated 25/02/2026 given to Jeevan Kashiram Kanade",
+    "Declared not revoked and still valid"
+   ],
+   "short_description": "Power of Attorney (Kulmukhtyarpatra) dated 25/02/2026 given by M/s Shree Swami Samarth Builders and Developers through partner Vaibhav Atmaram Kokate and others to Jeevan Kashiram Kanade (recited)",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-67",
+   "doc_type": "Challan (Stamp Duty and Registration Fee)",
+   "category": "receipt",
+   "level": "project",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [],
+   "issued_by": "Inspector General of Registration",
+   "reference_no": "MH017879294202526E",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "500",
+   "registration_fee": "100",
+   "property_text": "",
+   "furnished": true,
+   "execution_status": "",
+   "pages": "87",
+   "parent_ref": "jitendradoce5d0-65",
+   "key_terms": [
+    "eChallan dated 25/02/2026; paid by Shree Swami Samarth Builders & Developers"
+   ],
+   "short_description": "eChallan GRN MH017879294202526E dated 25/02/2026 for stamp duty Rs.500/- and registration fee Rs.100/- on the Power of Attorney",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-68",
+   "doc_type": "Electricity Bill",
+   "category": "identity",
+   "level": "premises",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Mahavitaran (MSEDCL)",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Vaibhav A. Kokate",
+     "role": "Holder"
+    }
+   ],
+   "issued_by": "Maharashtra State Electricity Distribution Co. Ltd.",
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "",
+   "furnished": true,
+   "execution_status": "",
+   "pages": "88-89",
+   "parent_ref": "jitendradoce5d0-65",
+   "key_terms": [
+    "Address proof annexed to the Power of Attorney (Bill of Supply, January 2026)"
+   ],
+   "short_description": "Mahavitaran electricity bill in the name of Vaibhav A. Kokate annexed as address proof",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-70",
+   "doc_type": "PAN Card",
+   "category": "identity",
+   "level": "project",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Income Tax Department",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Shree Swami Samarth Builders & Developers",
+     "role": "Holder"
+    }
+   ],
+   "issued_by": "Income Tax Department, Govt. of India",
+   "reference_no": "ABIFS7207E",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "",
+   "furnished": true,
+   "execution_status": "",
+   "pages": "89",
+   "parent_ref": "jitendradoce5d0-65",
+   "key_terms": [
+    "Date shown on card 20/06/2006"
+   ],
+   "short_description": "PAN Card ABIFS7207E of Shree Swami Samarth Builders & Developers",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-71",
+   "doc_type": "PAN Card",
+   "category": "identity",
+   "level": "project",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Income Tax Department",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Citadel Realty and Developers Limited",
+     "role": "Holder"
+    }
+   ],
+   "issued_by": "Income Tax Department, Govt. of India",
+   "reference_no": "AAACR5066J",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "",
+   "furnished": true,
+   "execution_status": "",
+   "pages": "90",
+   "parent_ref": "jitendradoce5d0-65",
+   "key_terms": [
+    "Date shown on card 26/07/1960"
+   ],
+   "short_description": "PAN Card AAACR5066J of Citadel Realty and Developers Limited",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-72",
+   "doc_type": "PAN Card",
+   "category": "identity",
+   "level": "project",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Income Tax Department",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Nilesh Dhankumar Dand",
+     "role": "Holder"
+    }
+   ],
+   "issued_by": "Income Tax Department, Govt. of India",
+   "reference_no": "AADPD8363N",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "",
+   "furnished": true,
+   "execution_status": "",
+   "pages": "90",
+   "parent_ref": "jitendradoce5d0-65",
+   "key_terms": [
+    "Date of birth on card 09/01/1978"
+   ],
+   "short_description": "PAN Card AADPD8363N of Nilesh Dhankumar Dand",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-73",
+   "doc_type": "Aadhaar Card",
+   "category": "identity",
+   "level": "project",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Unique Identification Authority of India",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Vaibhav Atmaram Kokate",
+     "role": "Holder"
+    }
+   ],
+   "issued_by": "Unique Identification Authority of India",
+   "reference_no": "6626 8768 0566",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "",
+   "furnished": true,
+   "execution_status": "",
+   "pages": "90",
+   "parent_ref": "jitendradoce5d0-65",
+   "key_terms": [
+    "DOB 12/12/1969; address Flat No. 101, Shiva Hari Hari Residency, Lake Road, Bhandup West, Mumbai 400078"
+   ],
+   "short_description": "Aadhaar Card No. 6626 8768 0566 of Vaibhav Atmaram Kokate",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-74",
+   "doc_type": "Aadhaar Card",
+   "category": "identity",
+   "level": "project",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Unique Identification Authority of India",
+     "role": "Issuing Authority"
+    }
+   ],
+   "issued_by": "Unique Identification Authority of India",
+   "reference_no": "8980 7767 8495",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "",
+   "furnished": true,
+   "execution_status": "",
+   "pages": "90",
+   "parent_ref": "jitendradoce5d0-65",
+   "key_terms": [
+    "Holder name not legible in scan"
+   ],
+   "short_description": "Aadhaar Card No. 8980 7767 8495 (holder name not legible) annexed to the Power of Attorney",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-84",
+   "doc_type": "Declaration of Power of Attorney Holder (Ghoshanapatra)",
+   "category": "other",
+   "level": "premises",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Jeevan Kashiram Kanade",
+     "role": "Representative of M/s Shree Swami Samarth Builders and Developers"
+    }
+   ],
+   "issued_by": "",
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "",
+   "furnished": true,
+   "execution_status": "",
+   "pages": "95",
+   "parent_ref": "jitendradoce5d0-65",
+   "key_terms": [
+    "POA dated 25/02/2026 not cancelled; none of the executants deceased",
+    "POA holder declares full competence to present the deed for registration",
+    "Aware of liability under Section 82 of the Registration Act 1908"
+   ],
+   "short_description": "Declaration by Jeevan Kashiram Kanade as POA holder that the Power of Attorney dated 25/02/2026 is valid and unrevoked",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-85",
+   "doc_type": "Undertaking (Hamipatra)",
+   "category": "other",
+   "level": "premises",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "M/s Shree Swami Samarth Builders and Developers",
+     "role": "Executant"
+    },
+    {
+     "name": "Vaibhav Atmaram Kokate",
+     "role": "Representative of M/s Shree Swami Samarth Builders and Developers"
+    },
+    {
+     "name": "Jeevan Kashiram Kanade",
+     "role": "Representative of M/s Shree Swami Samarth Builders and Developers"
+    },
+    {
+     "name": "Jitendra Babu Chavan",
+     "role": "Claimant"
+    },
+    {
+     "name": "Sangeeta Jitendra Chavan",
+     "role": "Claimant"
+    }
+   ],
+   "issued_by": "",
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "",
+   "furnished": true,
+   "execution_status": "",
+   "pages": "96",
+   "parent_ref": "jitendradoce5d0-65",
+   "key_terms": [
+    "No vahantal (car parking) is transferred along with the property mentioned in the deed"
+   ],
+   "short_description": "Hamipatra given to the Joint Sub-Registrar, Mumbai-28 that no car parking is transferred with the property in the deed",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-86",
+   "doc_type": "Declaration / Affidavit (One State One Registration)",
+   "category": "other",
+   "level": "premises",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "M/s Shree Swami Samarth Builders and Developers",
+     "role": "Executant"
+    },
+    {
+     "name": "Jitendra Babu Chavan",
+     "role": "Claimant"
+    },
+    {
+     "name": "Sangeeta Jitendra Chavan",
+     "role": "Claimant"
+    }
+   ],
+   "issued_by": "",
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "",
+   "furnished": true,
+   "execution_status": "",
+   "pages": "97",
+   "parent_ref": "jitendradoce5d0-65",
+   "key_terms": [
+    "Standard declaration per IGR Maharashtra circular dated 06/06/2025 on fraudulent registrations",
+    "Property not subject to any court case, injunction or financial institution charge",
+    "Parties aware of 7-year punishment under Section 82 of the Registration Act 1908"
+   ],
+   "short_description": "Ghoshanapatra / Shapathpatra by the executants and claimants as per the One State One Registration circular, annexed to the deed",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-87",
+   "doc_type": "e-Challan (Stamp Duty and Registration Fee)",
+   "category": "receipt",
+   "level": "premises",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [],
+   "issued_by": "Inspector General of Registration, Maharashtra",
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "500",
+   "registration_fee": "100",
+   "property_text": "",
+   "furnished": true,
+   "execution_status": "",
+   "pages": "92",
+   "parent_ref": "jitendradoce5d0-65",
+   "key_terms": [
+    "Total Rs.600 (Stamp Duty Rs.500 and Registration Fee Rs.100); challan defaced"
+   ],
+   "short_description": "MTR Form-6 e-challan for Rs.600 towards stamp duty and registration fee, defaced by the Joint Sub-Registrar",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-88",
+   "doc_type": "Document Handling Charges Receipt",
+   "category": "receipt",
+   "level": "premises",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [],
+   "issued_by": "Inspector General of Registration & Stamps",
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "",
+   "furnished": true,
+   "execution_status": "",
+   "pages": "92",
+   "parent_ref": "jitendradoce5d0-65",
+   "key_terms": [
+    "Rs.1000 paid 25/02/2026 towards document handling charges for Document No. MBI29-3738-2026",
+    "Rs.200 paid 04/03/2026 towards document handling charges for the same document",
+    "Both receipts defaced"
+   ],
+   "short_description": "Receipts of Document Handling Charges of Rs.1000 (25/02/2026) and Rs.200 (04/03/2026) for Document No. MBI29-3738-2026",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-89",
+   "doc_type": "Dast Goshwara (Document Summary)",
+   "category": "registration_record",
+   "level": "premises",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "Joint Sub-Registrar, Mumbai-28",
+   "parties": [],
+   "issued_by": "Joint Sub-Registrar, Mumbai-28",
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "500",
+   "registration_fee": "100",
+   "property_text": "",
+   "furnished": true,
+   "execution_status": "",
+   "pages": "93-94",
+   "parent_ref": "jitendradoce5d0-65",
+   "key_terms": [
+    "Payment details: stamp duty Rs.500 and registration fee Rs.100 by e-challan; document handling charges Rs.1000 and Rs.200"
+   ],
+   "short_description": "Dast Goshwara / document summary pages with photographs and thumb impressions and payment details for the deed",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-90",
+   "doc_type": "Registration Receipt (Pavati)",
+   "category": "receipt",
+   "level": "premises",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "Joint Sub-Registrar, Mumbai-28",
+   "parties": [],
+   "issued_by": "Joint Sub-Registrar, Mumbai-28",
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "100",
+   "property_text": "",
+   "furnished": true,
+   "execution_status": "",
+   "pages": "93-94",
+   "parent_ref": "jitendradoce5d0-65",
+   "key_terms": [],
+   "short_description": "Registration receipt (Pavati) issued by the Joint Sub-Registrar, Mumbai-28 for the deed",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-91",
+   "doc_type": "PAN Card",
+   "category": "identity",
+   "level": "premises",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Vaibhav Atmaram Kokate",
+     "role": "Holder"
+    },
+    {
+     "name": "Income Tax Department, Government of India",
+     "role": "Issuing Authority"
+    }
+   ],
+   "issued_by": "Income Tax Department",
+   "reference_no": "AFDPK2421B",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "",
+   "furnished": true,
+   "execution_status": "",
+   "pages": "91",
+   "parent_ref": "jitendradoce5d0-65",
+   "key_terms": [
+    "Father's name Atmaram Balshet Kokate; DOB 12/12/1969"
+   ],
+   "short_description": "PAN card AFDPK2421B of Vaibhav Atmaram Kokate",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-92",
+   "doc_type": "PAN Card and Aadhaar Card",
+   "category": "identity",
+   "level": "premises",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Jeevan Kashiram Kanade",
+     "role": "Holder"
+    }
+   ],
+   "issued_by": "Income Tax Department / UIDAI",
+   "reference_no": "PAN BCVPK1743N; Aadhaar 8904 3598 1537",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "",
+   "furnished": true,
+   "execution_status": "",
+   "pages": "91, 100",
+   "parent_ref": "jitendradoce5d0-65",
+   "key_terms": [
+    "Father's name Kashiram Tukaram Kanade; year of birth 1988"
+   ],
+   "short_description": "PAN and Aadhaar copies of Jeevan Kashiram Kanade, power of attorney holder",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-93",
+   "doc_type": "Aadhaar Card and PAN Card",
+   "category": "identity",
+   "level": "premises",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Jitendra Babu Chavan",
+     "role": "Holder"
+    }
+   ],
+   "issued_by": "UIDAI / Income Tax Department",
+   "reference_no": "Aadhaar 4348 3660 8386; PAN AHAPC9236B",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "",
+   "furnished": true,
+   "execution_status": "",
+   "pages": "98",
+   "parent_ref": "jitendradoce5d0-65",
+   "key_terms": [
+    "DOB 03/06/1980; father's name Babu Dattaram Chavan"
+   ],
+   "short_description": "Aadhaar and PAN copies of Jitendra Babu Chavan",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-94",
+   "doc_type": "Aadhaar Card and PAN Card",
+   "category": "identity",
+   "level": "premises",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Sangeeta Jitendra Chavan",
+     "role": "Holder"
+    }
+   ],
+   "issued_by": "UIDAI / Income Tax Department",
+   "reference_no": "Aadhaar 4172 2860 8168; PAN AXLPC4250G",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "",
+   "furnished": true,
+   "execution_status": "",
+   "pages": "98",
+   "parent_ref": "jitendradoce5d0-65",
+   "key_terms": [
+    "DOB 29/11/1985 on PAN; PAN father's name Yashwant Narayan Mohite"
+   ],
+   "short_description": "Aadhaar and PAN copies of Sangeeta Jitendra Chavan",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-95",
+   "doc_type": "Aadhaar Card",
+   "category": "identity",
+   "level": "premises",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Vishal Vasant Patne",
+     "role": "Holder"
+    }
+   ],
+   "issued_by": "UIDAI",
+   "reference_no": "Aadhaar 5494 1546 1078",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "",
+   "furnished": true,
+   "execution_status": "",
+   "pages": "100",
+   "parent_ref": "jitendradoce5d0-65",
+   "key_terms": [
+    "DOB 08/07/1996"
+   ],
+   "short_description": "Aadhaar copy of Vishal Vasant Patne",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-96",
+   "doc_type": "PAN Card",
+   "category": "identity",
+   "level": "premises",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Suraj Shankar Kolekar",
+     "role": "Holder"
+    }
+   ],
+   "issued_by": "Income Tax Department",
+   "reference_no": "OBZPK1998D",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "",
+   "furnished": true,
+   "execution_status": "",
+   "pages": "100",
+   "parent_ref": "jitendradoce5d0-65",
+   "key_terms": [
+    "Father's name Shankar Kolekar"
+   ],
+   "short_description": "PAN card OBZPK1998D of Suraj Shankar Kolekar",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-1",
+   "doc_type": "Agreement for Sale",
+   "category": "title_transfer",
+   "level": "premises",
+   "exec_date": "12/11/2026",
+   "reg_date": "12/11/2026",
+   "doc_no_raw": "मबई28-26098-2026",
+   "doc_number": "26098",
+   "doc_year": "2026",
+   "sro": "Joint Sub-Registrar Mumbai-28",
+   "parties": [
+    {
+     "name": "Messrs Shree Swami Samarth Builders and Developers",
+     "role": "Vendor"
+    },
+    {
+     "name": "Vaibhav Atmaram Konate",
+     "role": "Representative of Messrs Shree Swami Samarth Builders and Developers"
+    },
+    {
+     "name": "Jeevan Kashiram Kanade",
+     "role": "Representative of Messrs Shree Swami Samarth Builders and Developers"
+    },
+    {
+     "name": "Messrs Citadel Realty and Developers Limited",
+     "role": "Confirming Party"
+    },
+    {
+     "name": "Nilesh Dand",
+     "role": "Representative of Messrs Citadel Realty and Developers Limited"
+    },
+    {
+     "name": "Jeevan Kashiram Kanade",
+     "role": "Representative of Messrs Citadel Realty and Developers Limited"
+    },
+    {
+     "name": "Jitendra Babu Chavan",
+     "role": "Purchaser"
+    },
+    {
+     "name": "Sangita Jitendra Chavan",
+     "role": "Purchaser"
+    }
+   ],
+   "issued_by": "",
+   "reference_no": "",
+   "consideration": "5800000",
+   "market_value": "5779197.6",
+   "stamp_duty": "348000",
+   "registration_fee": "30000",
+   "property_text": "Flat No. 1604, 16th floor, Building No. 4, Vecepia CHS (Prop.), Sai Vihar, Tembi Pada Road, Bhandup (W), Mumbai 400078; carpet 371 sq. ft. (Index-II area 37.92 sq. mtrs.); Survey No. 134/1 (CTS 22 part) and 127/1 (CTS 25 part), Village Kanjur, Taluka Kurla",
+   "furnished": true,
+   "execution_status": "registered",
+   "pages": "5-10",
+   "parent_ref": "",
+   "key_terms": [
+    "Promoter acquired larger land of 1034.20 sq. mtrs. through conveyances dated 30/01/2019 and 12/10/2018 and SRA land premium on about 440 sq. mtrs",
+    "Larger Land comprises 59 tenants",
+    "Project to be a composite building known as Vecepia Co-operative Housing Society (SRA scheme on Government land)",
+    "Citadel Realty & Developers Limited joins as Confirming Party",
+    "Consideration Rs.58,00,000/-; stamp duty Rs.3,48,000/-; registration fee Rs.30,000/-",
+    "Total 105 pages as per receipt",
+    "Consideration for Apartment Rs.58,00,000/- plus GST Rs.2,90,000/- payable over and above",
+    "Rs.1,00,000/- paid on or before execution as part payment; balance as per payment schedule decided at booking",
+    "Property mortgaged with SMFG India Home Finance Company Limited by deed executed 26.12.2023; lender NOC date left blank",
+    "Allottee's bank loan/mortgage only with Promoter's prior written consent; Promoter's first lien for unpaid dues; bank to pay balance directly to Promoter",
+    "Payments to RERA collection account of Shree Swami Samarth Builders & Developers, Kotak Mahindra Bank, Nariman Point, A/c 7449306823",
+    "Stamp duty Rs.3,48,000/- and registration Rs.30,000/- payable by Allottee; 1% TDS u/s 194-IA if consideration exceeds Rs.50,00,000/-",
+    "Delay interest: SBI highest MCLR + 2%; Promoter may terminate after 15 days' default notice and forfeit 10% of consideration",
+    "Promoter may amalgamate adjacent plots and change layout; proposed plans at Annexure L",
+    "Document type: Agreement, registered at Joint Sub-Registrar Mumbai-28 on 12/11/2026",
+    "Consideration Rs.5800000; market value Rs.5779198",
+    "Stamp duty Rs.348000 (5% Rs.290000 + 1% Metrocess Rs.58000); registration fee Rs.30000; DHC Rs.4200",
+    "Citadel Realty and Developers Limited joins as Confirming Party (Confirming Party)",
+    "Both firms act through power-of-attorney holder Jeevan Kashiram Kanade",
+    "Deed comprises 104 pages (page stamps 100/104 to 104/104)",
+    "Promoter to sell Apartment 1604 (carpet 371 sq. ft., 16th floor) to the Allottee",
+    "Carpet area variation cap 3%; excess refund within 45 days with interest; increase charged at same rate",
+    "Allottee to pay within 30 days of Promoter's written intimation",
+    "Consideration escalation-free save increases in development charges/levies payable to authority",
+    "Promoter may amend sanctioned plans/use additional FSI; area and floor of Apartment not to be reduced without Allottee's consent",
+    "Sanctioned FSI 4188.48 sq.m.; building Ground + 22 floors, phase-wise construction",
+    "Mortgage to SMFG India Home Finance Company Ltd. over the project (Deed dated 26/12/2023)",
+    "MahaRERA registration no. P51800052355",
+    "Cl. 32: after executing this Agreement the Promoter shall not mortgage or create a charge on the Apartment",
+    "Cl. 33: Allottee to sign and deliver within 30 days of receipt with payments per Payment Schedule, then appear for registration",
+    "Cl. 39: common payments in proportion of carpet area of the Apartment to total carpet area of the Project",
+    "Cl. 46 SRA clauses: Purchaser accepts sub-standard room sizes, inadequate car parking manoeuvring space and mechanical parking risk",
+    "Third Schedule: common areas and amenities to be completed six months after receipt of OC of the building",
+    "Promoter PAN ABIFS 7207E; Confirming Party PAN AAACR 5066J",
+    "Notice address of Promoter: 101, 1st floor, S.H.H. Residency, Shiva Indl. Estate, Bhandup (W), Mumbai 400078"
+   ],
+   "short_description": "Agreement for Sale dated 12/11/2026, Doc. No. MBI28-26098-2026, between M/s Shree Swami Samarth Builders & Developers (Promoter), Mr. Jitendra Babu Chavan and Mrs. Sangeeta Jitendra Chavan (Allottees) and M/s Citadel Realty & Developers Limited (Confirming Party) for Flat No. 1604, Vecepia CHS (Prop.), Kanjur, Bhandup (W), for Rs.58,00,000/-",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-17",
+   "doc_type": "Occupation Certificate",
+   "category": "approval",
+   "level": "project",
+   "exec_date": "21/03/2017",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Slum Rehabilitation Authority (SRA)",
+     "role": "Issuing Authority"
+    }
+   ],
+   "issued_by": "Slum Rehabilitation Authority",
+   "reference_no": "SRA / ENG / 2815 / S / PL /AP",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "Rehab Wing of Composite Building No.2",
+   "furnished": false,
+   "execution_status": "",
+   "pages": "12",
+   "parent_ref": "jitendradoce5d0-1",
+   "key_terms": [
+    "Full Occupation Certificate for Rehab Wing only"
+   ],
+   "short_description": "SRA Full Occupation Certificate No. SRA/ENG/2815/S/PL/AP dated 21/03/2017 for Rehab Wing of Composite Building No.2, recited",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-19",
+   "doc_type": "Title Certificate",
+   "category": "title_certificate",
+   "level": "land",
+   "exec_date": "18/01/2023",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "M/s. Sab Law Services",
+     "role": "Issuing Authority"
+    }
+   ],
+   "issued_by": "M/s. Sab Law Services, Advocate",
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "Said Larger Land",
+   "furnished": false,
+   "execution_status": "",
+   "pages": "14",
+   "parent_ref": "jitendradoce5d0-1",
+   "key_terms": [
+    "Annexure F1",
+    "Certifies title of Promoter to the said Larger Land"
+   ],
+   "short_description": "Title Certificate dated 18/01/2023 issued by M/s. Sab Law Services, Advocate (Annexure F1), recited",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-27",
+   "doc_type": "Mortgage Deed",
+   "category": "encumbrance",
+   "level": "project",
+   "exec_date": "26/12/2023",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "M/s Shree Swami Samarth Builders & Developers",
+     "role": "Mortgagor"
+    },
+    {
+     "name": "SMFG India Home Finance Company Limited",
+     "role": "Mortgagee"
+    }
+   ],
+   "issued_by": "",
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "Property under consideration (project/flat and receivables) mortgaged/hypothecated in favour of the lender",
+   "furnished": false,
+   "execution_status": "",
+   "pages": "",
+   "parent_ref": "jitendradoce5d0-1",
+   "key_terms": [
+    "Project financed by SMFG India Home Finance Company Limited",
+    "Mortgage executed on 26.12.2023; flat/receivables charged/hypothecated to lender"
+   ],
+   "short_description": "Mortgage dated 26/12/2023 in favour of SMFG India Home Finance Company Limited over the project property, recited in clause 6 of the Agreement for Sale",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-2",
+   "doc_type": "Index-II",
+   "category": "registration_record",
+   "level": "premises",
+   "exec_date": "12/11/2026",
+   "reg_date": "12/11/2026",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "Joint Sub-Registrar Mumbai-28",
+   "parties": [
+    {
+     "name": "M/s Shree Swami Samarth Builders & Developers",
+     "role": "Promoter (executant)"
+    },
+    {
+     "name": "M/s Citadel Realty & Developers Limited",
+     "role": "Confirming Party (Confirming Party)"
+    },
+    {
+     "name": "Jivan Kashiram Kande",
+     "role": "Representative of M/s Shree Swami Samarth Builders & Developers and M/s Citadel Realty & Developers Limited (power of attorney holder)"
+    },
+    {
+     "name": "Vaibhav Atmaram Kokate",
+     "role": "Representative of M/s Shree Swami Samarth Builders & Developers (Partner)"
+    },
+    {
+     "name": "Jitendra Babu Chavan",
+     "role": "Purchaser (claimant)"
+    },
+    {
+     "name": "Sangeeta Jitendra Chavan",
+     "role": "Purchaser (claimant)"
+    }
+   ],
+   "issued_by": "Joint Sub-Registrar Mumbai-28",
+   "reference_no": "MBI28-26098-2026",
+   "consideration": "5800000",
+   "market_value": "5779197.6",
+   "stamp_duty": "348000",
+   "registration_fee": "30000",
+   "property_text": "Sadanika No. 1604, 16th floor, Building No. 4, Vecepia CHS (Prop.), Sai Vihar, Shramik Sosayati Samor, Tembipada Road, Bhandup West, Mumbai 400078; carpet 371 sq. ft.; CTS 22(part) and 25(part); area 37.92 sq. mtr.; Village Kanjur, Taluka Kurla",
+   "furnished": true,
+   "execution_status": "registered",
+   "pages": "2",
+   "parent_ref": "jitendradoce5d0-1",
+   "key_terms": [
+    "Document type: Karaarnama (Agreement); Article 25(b) immovable property within Municipal Corporation limits",
+    "Executed and registered on 12/11/2026"
+   ],
+   "short_description": "Index-II of Doc. No. MBI28-26098-2026 (Agreement dated 12/11/2026), Village Kanjur, Sub-Registrar Mumbai-28",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-3",
+   "doc_type": "Registration Receipt (Pavti)",
+   "category": "receipt",
+   "level": "premises",
+   "exec_date": "",
+   "reg_date": "12/11/2026",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "Joint Sub-Registrar Mumbai-28",
+   "parties": [
+    {
+     "name": "Joint Sub-Registrar Mumbai-28",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Jitendra Babu Chavan",
+     "role": "Submitter"
+    }
+   ],
+   "issued_by": "Joint Sub-Registrar Mumbai-28",
+   "reference_no": "Pavti No. 16571 / 370/26098",
+   "consideration": "5800000",
+   "market_value": "5779197.6",
+   "stamp_duty": "348000",
+   "registration_fee": "30000",
+   "property_text": "Village Kanjur; document type Karaarnama; 105 pages",
+   "furnished": true,
+   "execution_status": "",
+   "pages": "1",
+   "parent_ref": "jitendradoce5d0-1",
+   "key_terms": [
+    "Registration fee Rs.30,000 + document handling charges Rs.4,200 = Rs.34,200",
+    "Stamp duty paid Rs.3,48,000; number of pages 105",
+    "DHC paid via 1126122305155; fee via eChallan MH013664593202627E dated 12/11/2026",
+    "Original document returned 13/11/2026"
+   ],
+   "short_description": "Registration Receipt (Pavti) No.16571 dated 12/11/2026 for Rs.34,200/- issued by Joint Sub-Registrar Mumbai-28 for Doc. No. MBI28-26098-2026",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-98",
+   "doc_type": "Index-II (Dast Goshwara Part-1 and Part-2)",
+   "category": "registration_record",
+   "level": "premises",
+   "exec_date": "",
+   "reg_date": "12/11/2026",
+   "doc_no_raw": "मबई28/26098/2026",
+   "doc_number": "26098",
+   "doc_year": "2026",
+   "sro": "Joint Sub-Registrar, Mumbai-28",
+   "parties": [
+    {
+     "name": "Messrs Shree Swami Samarth Builders and Developers",
+     "role": "Vendor"
+    },
+    {
+     "name": "Vaibhav Atmaram Konate",
+     "role": "Representative of Messrs Shree Swami Samarth Builders and Developers"
+    },
+    {
+     "name": "Jeevan Kashiram Kanade",
+     "role": "Representative of Messrs Shree Swami Samarth Builders and Developers"
+    },
+    {
+     "name": "Messrs Citadel Realty and Developers Limited",
+     "role": "Confirming Party"
+    },
+    {
+     "name": "Nilesh Dand",
+     "role": "Representative of Messrs Citadel Realty and Developers Limited"
+    },
+    {
+     "name": "Jeevan Kashiram Kanade",
+     "role": "Representative of Messrs Citadel Realty and Developers Limited"
+    },
+    {
+     "name": "Jitendra Babu Chavan",
+     "role": "Purchaser"
+    },
+    {
+     "name": "Sangita Jitendra Chavan",
+     "role": "Purchaser"
+    }
+   ],
+   "issued_by": "Joint Sub-Registrar, Mumbai-28",
+   "reference_no": "Receipt No. 16571 dated 12/11/2026",
+   "consideration": "5800000",
+   "market_value": "5779198",
+   "stamp_duty": "348000",
+   "registration_fee": "30000",
+   "property_text": "",
+   "furnished": true,
+   "execution_status": "registered",
+   "pages": "106, 108-109",
+   "parent_ref": "jitendradoce5d0-1",
+   "key_terms": [
+    "Part-1 summary: Document type Agreement, No. 26098/2026, presented 12/11/2026 12:51",
+    "Document handling fee Rs.4200; total fees Rs.34200; 105 pages count shown against fee",
+    "Part-2 party details with UIDAI-authenticated biometrics/photos of executants and claimants",
+    "Certificate: Book-1 entry Mumbai-28/26098/2026 dated 12/11/2026, total 104 pages",
+    "Purchasers' PAN: AHAPC9236B and AXLPC4250G; Vendor PAN: ABIFS7207E; Confirming Party PAN: AAACR5066J"
+   ],
+   "short_description": "Dast Goshwara (Index-II) Parts 1 and 2 of Agreement No. 26098/2026 dated 12/11/2026, Joint Sub-Registrar Mumbai-28; consideration Rs.58,00,000/-, market value Rs.57,79,198/-",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-4",
+   "doc_type": "Stamp Duty and Registration Fee Challan (MTR Form-6)",
+   "category": "receipt",
+   "level": "premises",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Inspector General of Registration",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Jitendra Babu Chavan",
+     "role": "Payer"
+    }
+   ],
+   "issued_by": "Inspector General of Registration (paid at IDBI Bank)",
+   "reference_no": "GRN MH013664593202627E",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "348000",
+   "registration_fee": "30000",
+   "property_text": "Flat No. 1604 on 16th floor, Vecepia CHS (Prop.) Building No. 4, Sai Vihar, Tembi Pada Road, Bhandup West, Mumbai 400078",
+   "furnished": true,
+   "execution_status": "",
+   "pages": "4",
+   "parent_ref": "jitendradoce5d0-1",
+   "key_terms": [
+    "Total Rs.3,78,000 paid 12/11/2026 (stamp duty 3,48,000 + registration fee 30,000)",
+    "Bank CIN 69103332026111211178; remarks name Shree Swami Samarth Builders and Developers as second party"
+   ],
+   "short_description": "Challan GRN MH013664593202627E dated 12/11/2026 for Rs.3,78,000/- (stamp duty and registration fee) for Agreement for Flat No. 1604, Vecepia CHS (Prop.)",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-5",
+   "doc_type": "Valuation Report",
+   "category": "registration_record",
+   "level": "premises",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Joint Sub-Registrar Mumbai-28",
+     "role": "Issuing Authority"
+    }
+   ],
+   "issued_by": "Joint Sub-Registrar Mumbai-28",
+   "reference_no": "Valuation ID 2026111203294",
+   "consideration": "",
+   "market_value": "5779197.6",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "Village Kanjur-Kurla, CTS No. 22, residential flat, built-up 37.92 sq. mtr., 16th floor (11th to 20th floor slab), First Sale; rate Rs.152405 per sq. mtr",
+   "furnished": true,
+   "execution_status": "",
+   "pages": "3",
+   "parent_ref": "jitendradoce5d0-1",
+   "key_terms": [
+    "Valuation dated 12/11/2026: 152405 x 37.92 = Rs.5779197.6",
+    "Floor factor: 110% applied; first sale of property constructed after circular dated 02/01/2018"
+   ],
+   "short_description": "Valuation Report ID 2026111203294 dated 12/11/2026 showing market value Rs.57,79,197.6/- for Agreement MBI28-26098-2026",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-63",
+   "doc_type": "Layout Plan",
+   "category": "plan",
+   "level": "project",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [],
+   "issued_by": "",
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "Composite Bldg. No. 4, Gr + 1st to 22nd upper floors, Tembhi Pada Road",
+   "furnished": true,
+   "execution_status": "",
+   "pages": "86",
+   "parent_ref": "jitendradoce5d0-1",
+   "key_terms": [
+    "Annexure-K; scale 1:500"
+   ],
+   "short_description": "Annexure-K Layout Plan showing Composite Building No. 4, Gr + 1st to 22nd upper floors",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-99",
+   "doc_type": "Stamp Duty and Registration Fee Challan (MTR Form 6)",
+   "category": "receipt",
+   "level": "premises",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Jitendra Babu Chavan",
+     "role": "Payer"
+    },
+    {
+     "name": "Inspector General of Registration, Maharashtra",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Shree Swami Samarth Builders and Developers",
+     "role": "Second Party"
+    }
+   ],
+   "issued_by": "Inspector General of Registration (Stamp Duty and Registration Fee together), IDBI Bank",
+   "reference_no": "GRN MH013664593202627E; Defacement No. 0007751857202627",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "348000",
+   "registration_fee": "30000",
+   "property_text": "Flat No. 1604 on 16th Floor, Vecepia CHS (Prop.), Building No. 4, Sai Vihar, Tembi Pada Road, Bhandup West, Mumbai - 400078",
+   "furnished": true,
+   "execution_status": "",
+   "pages": "102",
+   "parent_ref": "jitendradoce5d0-1",
+   "key_terms": [
+    "Total paid Rs.378000 (stamp duty Rs.348000 + registration fee Rs.30000) on 12/11/2026",
+    "Defaced on 12/11/2026 12:54:40 (defacement amounts Rs.30000 and Rs.348000)",
+    "Remarks: Second Party Shree Swami Samarth Builders and Developers, PAN ABIFS7207E"
+   ],
+   "short_description": "e-Challan MTR Form-6 GRN MH013664593202627E dated 12/11/2026 for Rs.3,78,000/- (stamp duty Rs.3,48,000/- and registration fee Rs.30,000/-) paid by Jitendra Babu Chavan, defaced",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-100",
+   "doc_type": "Document Handling Charges Receipt",
+   "category": "receipt",
+   "level": "premises",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Department of Registration and Stamps, Maharashtra",
+     "role": "Issuing Authority"
+    }
+   ],
+   "issued_by": "Department of Registration and Stamps, Maharashtra (iSARITA 1.9)",
+   "reference_no": "PRN 1126122305155; Deface No. 1126122305155D",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "",
+   "furnished": true,
+   "execution_status": "",
+   "pages": "104",
+   "parent_ref": "jitendradoce5d0-1",
+   "key_terms": [
+    "Rs.4200 received 12/11/2026 towards Document Handling Charges for Agreement, Document No. MBI28-26098-2026",
+    "Bank IBKL, Bank CIN 10029762026111205000, REF No. 1958277763415; defaced 12/11/2026"
+   ],
+   "short_description": "Receipt of Document Handling Charges PRN 1126122305155 dated 12/11/2026 for Rs.4,200/- for Agreement No. MBI28-26098-2026, Joint District Registrar Mumbai Suburban",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-11",
+   "doc_type": "7/12 Extract and Property Card",
+   "category": "revenue_record",
+   "level": "land",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Talathi office, Mulund / City Survey office, Mulund",
+     "role": "Issuing Authority"
+    }
+   ],
+   "issued_by": "Talathi office, Mulund / City Survey office, Mulund",
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "Old Survey No. 134 Hissa No. 1 / New Survey No. 134 Hissa No. 1/1 (CTS 22 part) and Old Survey No. 127 / New Survey No. 127/1 (CTS 25 part), Village Kanjur, Taluka Kurla; portion of Survey 134 Hissa 1 stands in the name of Government (Mine)",
+   "furnished": false,
+   "execution_status": "",
+   "pages": "14",
+   "parent_ref": "jitendradoce5d0-1",
+   "key_terms": [
+    "Revenue records recited for owners Gupta family (134/1) and Vallabhdas / Thakkar / Ganatra / Majethia (127/1); Government Mine entry on portion",
+    "Annexure G"
+   ],
+   "short_description": "7/12 extracts and Property Card extracts of Talathi / City Survey office, Mulund, recited for Survey Nos. 134/1 and 127/1, Village Kanjur",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-12",
+   "doc_type": "Sanctioned Layout Plan (Annexure L)",
+   "category": "plan",
+   "level": "project",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [],
+   "issued_by": "",
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "Larger land delineated by green colour boundary line",
+   "furnished": false,
+   "execution_status": "",
+   "pages": "",
+   "parent_ref": "jitendradoce5d0-1",
+   "key_terms": [],
+   "short_description": "Sanctioned Layout Plan annexed as Annexure 'L' to the Agreement for Sale (recited)",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-21",
+   "doc_type": "RERA Registration Certificate",
+   "category": "approval",
+   "level": "project",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Real Estate Regulatory Authority (MahaRERA)",
+     "role": "Issuing Authority"
+    }
+   ],
+   "issued_by": "Real Estate Regulatory Authority",
+   "reference_no": "P51800052355",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "Real Estate Project 'Vecepia CHS.'",
+   "furnished": false,
+   "execution_status": "",
+   "pages": "14",
+   "parent_ref": "jitendradoce5d0-1",
+   "key_terms": [
+    "Annexure J"
+   ],
+   "short_description": "MahaRERA Registration Certificate No. P51800052355 for project 'Vecepia CHS.' (Annexure J), recited",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-23",
+   "doc_type": "Floor Plan of Apartment",
+   "category": "plan",
+   "level": "premises",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [],
+   "issued_by": "",
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "Apartment 1604, 16th floor, shown hatched red",
+   "furnished": false,
+   "execution_status": "",
+   "pages": "15",
+   "parent_ref": "jitendradoce5d0-1",
+   "key_terms": [
+    "Annexure D; sanctioned floor plan also cited as Annexure B2"
+   ],
+   "short_description": "Floor plan of Apartment no. 1604 (Annexure D) / sanctioned floor plan (Annexure B2), recited",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-24",
+   "doc_type": "Proposed Layout Plan",
+   "category": "plan",
+   "level": "project",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [],
+   "issued_by": "",
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "Proposed layout of buildings/towers on the Larger Land",
+   "furnished": false,
+   "execution_status": "",
+   "pages": "15",
+   "parent_ref": "jitendradoce5d0-1",
+   "key_terms": [
+    "Annexure L"
+   ],
+   "short_description": "Proposed Layout Plan (Annexure L), recited",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-25",
+   "doc_type": "List of Amenities",
+   "category": "other",
+   "level": "premises",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [],
+   "issued_by": "",
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "",
+   "furnished": false,
+   "execution_status": "",
+   "pages": "15",
+   "parent_ref": "jitendradoce5d0-1",
+   "key_terms": [
+    "Annexure H"
+   ],
+   "short_description": "Internal amenities of the Apartment (Annexure H), recited",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-28",
+   "doc_type": "No Objection Certificate (Lender)",
+   "category": "other",
+   "level": "premises",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "SMFG India Home Finance Company Limited",
+     "role": "Issuing Authority"
+    }
+   ],
+   "issued_by": "SMFG India Home Finance Company Limited",
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "Permission for sale of the Property to the Purchaser/Incoming Member",
+   "furnished": false,
+   "execution_status": "",
+   "pages": "",
+   "parent_ref": "jitendradoce5d0-1",
+   "key_terms": [
+    "NOC date left blank in clause 6.A; stated to be attached as part of the agreement"
+   ],
+   "short_description": "Lender's NOC for sale of the Property, referred to in clause 6.A of the Agreement for Sale (date blank)",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-29",
+   "doc_type": "Proposed Plans (Annexure L)",
+   "category": "plan",
+   "level": "project",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [],
+   "issued_by": "",
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "Proposed plans of amalgamated layout",
+   "furnished": false,
+   "execution_status": "",
+   "pages": "",
+   "parent_ref": "jitendradoce5d0-1",
+   "key_terms": [
+    "Promoter proposes to amalgamate adjacent plots with the larger land and get the amalgamated layout sanctioned"
+   ],
+   "short_description": "Proposed Plans annexed as Annexure 'L' to the Agreement for Sale",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-30",
+   "doc_type": "Internal Amenities (Annexure H)",
+   "category": "other",
+   "level": "premises",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [],
+   "issued_by": "",
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "Internal amenities of the Apartment",
+   "furnished": false,
+   "execution_status": "",
+   "pages": "",
+   "parent_ref": "jitendradoce5d0-1",
+   "key_terms": [],
+   "short_description": "Annexure 'H' listing internal amenities of the Apartment, referred to in clause 5.15 of the Agreement for Sale",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-40",
+   "doc_type": "Letter of Intent (LOI)",
+   "category": "approval",
+   "level": "project",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [],
+   "issued_by": "",
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "",
+   "furnished": false,
+   "execution_status": "",
+   "pages": "",
+   "parent_ref": "jitendradoce5d0-1",
+   "key_terms": [],
+   "short_description": "L.O.I listed as Annexure A to the Agreement for Sale; copy not in file",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-41",
+   "doc_type": "Intimation of Approval (IOA)",
+   "category": "approval",
+   "level": "project",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [],
+   "issued_by": "",
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "",
+   "furnished": false,
+   "execution_status": "",
+   "pages": "",
+   "parent_ref": "jitendradoce5d0-1",
+   "key_terms": [],
+   "short_description": "I.O.A listed as Annexure B to the Agreement for Sale; copy not in file",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-42",
+   "doc_type": "Commencement Certificate",
+   "category": "approval",
+   "level": "project",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [],
+   "issued_by": "",
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "",
+   "furnished": false,
+   "execution_status": "",
+   "pages": "",
+   "parent_ref": "jitendradoce5d0-1",
+   "key_terms": [],
+   "short_description": "Copy of Commencement Certificate listed as Annexure C to the Agreement for Sale; copy not in file",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-43",
+   "doc_type": "Approved Amended Plan",
+   "category": "plan",
+   "level": "project",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [],
+   "issued_by": "",
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "",
+   "furnished": false,
+   "execution_status": "",
+   "pages": "",
+   "parent_ref": "jitendradoce5d0-1",
+   "key_terms": [],
+   "short_description": "Copy of Approved Amended Plan listed as Annexure E to the Agreement for Sale; copy not in file",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-44",
+   "doc_type": "Title Certificate",
+   "category": "title_certificate",
+   "level": "land",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [],
+   "issued_by": "",
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "",
+   "furnished": false,
+   "execution_status": "",
+   "pages": "",
+   "parent_ref": "jitendradoce5d0-1",
+   "key_terms": [],
+   "short_description": "Title Certificate listed as Annexure F to the Agreement for Sale; copy not in file",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-46",
+   "doc_type": "Board Resolution",
+   "category": "other",
+   "level": "project",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Citadel Realty & Developers Ltd.",
+     "role": "Issuing Authority"
+    }
+   ],
+   "issued_by": "Citadel Realty & Developers Ltd.",
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "",
+   "furnished": false,
+   "execution_status": "",
+   "pages": "",
+   "parent_ref": "jitendradoce5d0-1",
+   "key_terms": [],
+   "short_description": "Copy of Resolution passed at the board meeting of Citadel Realty & Developers Ltd., Annexure I to the Agreement for Sale; copy not in file",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-47",
+   "doc_type": "RERA Registration Certificate",
+   "category": "approval",
+   "level": "project",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [],
+   "issued_by": "",
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "",
+   "furnished": false,
+   "execution_status": "",
+   "pages": "",
+   "parent_ref": "jitendradoce5d0-1",
+   "key_terms": [],
+   "short_description": "RERA Registration Certificate listed as Annexure J to the Agreement for Sale; copy not in file",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-31",
+   "doc_type": "Agreement for Sale",
+   "category": "title_transfer",
+   "level": "premises",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_no_raw": "904/2026",
+   "doc_number": "904",
+   "doc_year": "2026",
+   "sro": "Joint Sub-Registrar Mumbai-26",
+   "parties": [
+    {
+     "name": "M/s Shree Swami Samarth Builders & Developers",
+     "role": "Promoter/Confirming Party"
+    }
+   ],
+   "issued_by": "",
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "",
+   "furnished": true,
+   "execution_status": "registered",
+   "pages": "31-40",
+   "parent_ref": "",
+   "key_terms": [
+    "Clause 13.1: possession on or before 31 December 2028, subject to Allottee not being in breach and all dues paid",
+    "Delay: Allottee may terminate on 15 days' notice; refund with interest at 2% above SBI highest MCLR",
+    "Clause 14: on cancellation without promoter's fault, 10% of total consideration is forfeited; balance refunded within 30 days",
+    "Clause 15.1: title certificate dated 18/07/2023 of Sab Law Services annexed as Annexure F1",
+    "Clause 16.1: Allottee has not requested car parking; any parking allotted is stack parking",
+    "Clause 16.3: until society formation and conveyance, no transfer or leave and licence without the Promoter's written consent",
+    "Clause 16.8: Promoter may mortgage or charge the Larger Land, except the said Apartment",
+    "Clauses 1.3.10 and 17: maintenance paid by post-dated cheques or one cheque for 24 months; Promoter pays for unsold units after 3 years from society formation",
+    "Ad-hoc maintenance deposit for 24 months (on carpet area), payable at registration of the Apartment (cl. 17.1-17.2)",
+    "Maintenance presently estimated at Rs.3125/- per month, with 15% or actual annual increase, whichever is higher (cl. 17.3, 17.8)",
+    "Allottee not to transfer, let or part with possession without Promoter's written permission until all dues are paid (cl. 19.13)",
+    "Promoter/Confirming Party declares that it has created a mortgage on the said Land (cl. 18.2)",
+    "Promoter declares no litigation, attachment or acquisition notice on the Land (cl. 18.3, 18.7, 20)",
+    "Use is residential only; car park for parking only (cl. 19.18)",
+    "Society to be formed on 51% booking; Promoter decides the society name (cl. 21)",
+    "Vacant, peaceful possession to be handed over at conveyance (cl. 20(viii))",
+    "Cl.21(viii): Society for other buildings to be formed once 51% of allottees have booked",
+    "Cl.22(i): Building conveyed to Society within 3 months of Full Occupation Certificate; basement/podium/stilt retained by Promoter until Apex Body Conveyance",
+    "Cl.22(vi): Promoter retains control of unsold premises and unallotted car parking, and may sell them",
+    "Cl.23-24: Apex Body to be formed within 3 months of last building's Full OC; Larger Land conveyed to it within 3 months of its registration",
+    "Cl.24.1/24.4: Promoter/Confirming Party retains balance FSI/TDR and development potential of the Land/Larger Land",
+    "Cl.24.6: Allottee/Society to reimburse refundable deposits paid by Promoter at conveyance",
+    "Cl.25: Defect liability 5 years from possession; defects to be rectified within 30 days",
+    "Cl.26: Use of common areas subject to timely payment of maintenance charges"
+   ],
+   "short_description": "Agreement for Sale (pages 27-36 of the agreement, clauses 13.1 to 17) between M/s Shree Swami Samarth Builders & Developers, Promoter/Confirming Party, and the Allottee, stamped Joint Sub-Registrar Mumbai-26 No. 904/2026",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-62",
+   "doc_type": "Title Certificate",
+   "category": "title_certificate",
+   "level": "land",
+   "exec_date": "18/07/2023",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Sab Law Services",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Adv. Sunil Salunkhe",
+     "role": "Representative of Sab Law Services"
+    },
+    {
+     "name": "M/s Shree Swami Samarth Builders and Developers",
+     "role": "Addressee"
+    }
+   ],
+   "issued_by": "Sab Law Services, Advocates & Legal Consultants (Adv. Sunil Salunkhe, Partner)",
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "Land with structure (Neelam Sadan) about 351 sq. mtrs. at Old Survey No. 134 Hissa No. 1, New Survey No. 134 Hissa No. 1/1, CTS No. 22 (Part), and land with structure about 243.20 sq. mtrs. out of 374.20 sq. mtrs. at Old Survey No. 127, New Survey No. 127/1, CTS No. 25 (Part), Village Kanjur, Taluka Kurla, Sai Hill, Tembhipada Road, Bhandup (West), Mumbai 400078, S Ward",
+   "furnished": true,
+   "execution_status": "",
+   "pages": "84-85",
+   "parent_ref": "jitendradoce5d0-31",
+   "key_terms": [
+    "Annexure-F; three property flows of title (CTS 22 / Govt. land portion / CTS 25)",
+    "Opinion: M/s Shree Swami Samarth Builders and Developers has clear and marketable title for development of the property",
+    "Search at Sub-Registrar offices Mumbai, Bandra, Chembur, Vikhroli and Mulund for 1994 to 2023",
+    "Some pages of Index-II at the Sub-Registrar office found torn / not ready for inspection",
+    "Slum notification; SRA scheme under DCR 33(10); LOI 10/01/2023, IOA 23/01/2023, CC to plinth 25/05/2023",
+    "Land premium paid to SRA on Government land portion (about 449 sq. mtrs.)",
+    "Annexure F1 to the Agreement; Allottee was provided a copy before execution"
+   ],
+   "short_description": "Title Certificate dated 18/07/2023 issued by Adv. Sunil Salunkhe, Sab Law Services, in favour of M/s Shree Swami Samarth Builders and Developers",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-49",
+   "doc_type": "Agreement for Sale",
+   "category": "title_transfer",
+   "level": "premises",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "2026",
+   "sro": "Joint Sub-Registrar, Mumbai-26",
+   "parties": [
+    {
+     "name": "M/s. Shree Swami Samarth Builders & Developers",
+     "role": "Promoter"
+    }
+   ],
+   "issued_by": "",
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "Apartment No. 1604, 16th floor, Building No. 4, Vecepia CHS (Prop.), carpet area 371 sq. ft",
+   "furnished": false,
+   "execution_status": "registered",
+   "pages": "",
+   "parent_ref": "",
+   "key_terms": [
+    "Annexures D, H, J, C, G, A and B and a part-payment receipt of this agreement appear at pages 71-80"
+   ],
+   "short_description": "Agreement for Sale of Flat No. 1604, 16th floor, Building No. 4, Vecepia CHS (Prop.) by M/s. Shree Swami Samarth Builders & Developers, registered at Joint Sub-Registrar Mumbai-26 in 2026",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-57",
+   "doc_type": "Letter of Intent (Annexure A)",
+   "category": "approval",
+   "level": "project",
+   "exec_date": "10/01/2023",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Slum Rehabilitation Authority",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "M/s. Shree Swami Samarth Builders & Developers",
+     "role": "Developer"
+    }
+   ],
+   "issued_by": "Chief Executive Officer, Slum Rehabilitation Authority",
+   "reference_no": "S/STGOVT/0013/20210707/LOI; S/PVT/0173/20210707/LOI",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "Amalgamated SR Scheme on CTS No. 22 (pt) of Village Kanjur, Bhandup (W), for Siddhivinayak CHS (Prop.) with contiguous scheme on CTS No. 25 (pt) for Neelam Sadan CHS (Prop.) & Laxmi CHS (Prop.)",
+   "furnished": true,
+   "execution_status": "",
+   "pages": "79-80",
+   "parent_ref": "jitendradoce5d0-49",
+   "key_terms": [
+    "LOI under Reg. 33(10) DCPR 2034; valid 3 months from issue",
+    "Rehab completion within 36 months of CC (plot up to 4000 sq.m)",
+    "Maintenance deposit Rs. 40,000/- per tenement",
+    "Provisional PAP 28 (Res 23 + Comm 04 + 01 social); Regular PAP 08",
+    "Conveyance deed for rehab and sale component to be executed before BCC",
+    "NOC from Collector (MSD) required",
+    "Specimen of sub-standard-size rooms / mechanical ventilation clauses to be included in buyers' agreements",
+    "Annexure A1",
+    "Concurrence of tenants of Neelam Sadan, Laxmi CHS and Siddhivinayak CHS",
+    "Revised amalgamated LOI"
+   ],
+   "short_description": "SRA Letter of Intent No. S/STGOVT/0013/20210707/LOI & S/PVT/0173/20210707/LOI for amalgamated SR Scheme at Kanjur, Bhandup (W) in favour of M/s. Shree Swami Samarth Builders & Developers",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-58",
+   "doc_type": "Intimation of Approval (Annexure B)",
+   "category": "approval",
+   "level": "project",
+   "exec_date": "23/01/2023",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Slum Rehabilitation Authority",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "M/s. Shree Swami Samarth Builders & Developers",
+     "role": "Addressee"
+    }
+   ],
+   "issued_by": "Executive Engineer, Slum Rehabilitation Authority",
+   "reference_no": "S/PVT/0173/20210707/AP/S4",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "S.R. Scheme on CTS No. 22 (pt) & 25 (pt) of Village Kanjur, Bhandup (West), Mumbai",
+   "furnished": true,
+   "execution_status": "",
+   "pages": "80",
+   "parent_ref": "jitendradoce5d0-49",
+   "key_terms": [
+    "IOA under Reg. 33(10) DCPR 2034 and Sec. 45 MR&TP Act, on notice dated 19/01/2023 (letter u/no. 056)",
+    "Commencement Certificate to be obtained before starting work",
+    "Compound wall, structural engineer appointment and design submission before CC",
+    "In case of private plots, IOA gives no right to build on land which is not your property",
+    "Annexure B (also cited as Annexure E)"
+   ],
+   "short_description": "SRA Intimation of Approval No. S/PVT/0173/20210707/AP/S4 dated 23/01/2023 for S.R. Scheme on CTS No. 22 (pt) & 25 (pt), Kanjur",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-54",
+   "doc_type": "Commencement Certificate (Annexure C)",
+   "category": "approval",
+   "level": "project",
+   "exec_date": "25/05/2023",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Slum Rehabilitation Authority",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "M/s. Shree Swami Samarth Builders & Developers",
+     "role": "Addressee"
+    }
+   ],
+   "issued_by": "Slum Rehabilitation Authority (Executive Engineer, SRA)",
+   "reference_no": "S/PVT/0173/20210707/AP/S4",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "Composite building on CTS No. 22 (pt) & 25 (pt) of Village Kanjur, Bhandup (W), 'S' Ward, for S.R. Scheme with Siddhivinayak CHS (prop), Neelam Sadan CHS (prop) & Laxmi CHS (prop)",
+   "furnished": true,
+   "execution_status": "",
+   "pages": "75-76",
+   "parent_ref": "jitendradoce5d0-49",
+   "key_terms": [
+    "Commencement Certificate under sec. 44 & 69 MR&TP Act, application No. 056 dated 19/01/2023",
+    "Originally granted up to plinth level only",
+    "Further extended on 05/05/2025: ground to 22nd upper floors (brick work & plaster) for Rehab component",
+    "RCC frame work ground to 18th upper floors for Sale component, as per approved plans dated 23/01/2023",
+    "Valid one year; work to commence within three months",
+    "Annexure C",
+    "Commencement Certificate for Composite Building up to plinth level"
+   ],
+   "short_description": "SRA Commencement Certificate No. S/PVT/0173/20210707/AP/S4 for composite building on CTS No. 22 (pt) & 25 (pt), Kanjur, extended on 05/05/2025 to 22nd floor (rehab) and 18th floor (sale)",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-53",
+   "doc_type": "MahaRERA Registration Certificate (Annexure J)",
+   "category": "approval",
+   "level": "project",
+   "exec_date": "21/08/2023",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Maharashtra Real Estate Regulatory Authority",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Shree Swami Samarth Builders & Developers",
+     "role": "Holder"
+    }
+   ],
+   "issued_by": "Maharashtra Real Estate Regulatory Authority",
+   "reference_no": "P51800052355",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "Project Vecepia CHS, Plot / CTS No. 22 part 25 part at Kanjurmarg, Kurla, Mumbai Suburban, 400078",
+   "furnished": true,
+   "execution_status": "",
+   "pages": "74",
+   "parent_ref": "jitendradoce5d0-49",
+   "key_terms": [
+    "Project registration No. P51800052355",
+    "Valid from 21/08/2023 to 31/12/2028 unless renewed",
+    "70% of realised amounts to be deposited in separate account",
+    "Promoter to execute and register conveyance in favour of allottees / association",
+    "Promoter to take all pending approvals"
+   ],
+   "short_description": "MahaRERA Registration Certificate (Form C) No. P51800052355 dated 21/08/2023 for project Vecepia CHS, valid up to 31/12/2028",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-50",
+   "doc_type": "Payment Receipt",
+   "category": "other",
+   "level": "premises",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "M/s. Shree Swami Samarth Builders & Developers",
+     "role": "Promoter"
+    },
+    {
+     "name": "Partner / Authorised Signatory",
+     "role": "Representative of M/s. Shree Swami Samarth Builders & Developers"
+    }
+   ],
+   "issued_by": "M/s. Shree Swami Samarth Builders & Developers",
+   "reference_no": "",
+   "consideration": "100000",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "Apartment No. 1604 on 16th floor, building no. 4 proposed to be named Vecepia CHS (Prop.)",
+   "furnished": true,
+   "execution_status": "",
+   "pages": "71",
+   "parent_ref": "jitendradoce5d0-49",
+   "key_terms": [
+    "Rs. 1,00,000/- part price / consideration",
+    "Cheque No. 046152 dated 27.10.2026, Union Bank of India",
+    "Two witnesses signed"
+   ],
+   "short_description": "Receipt for Rs.1,00,000/- part consideration towards Apartment No. 1604, 16th floor, Building No. 4, Vecepia CHS (Prop.), by cheque No. 046152 of Union Bank of India, issued by M/s. Shree Swami Samarth Builders & Developers",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-51",
+   "doc_type": "Annexure H - Amenities",
+   "category": "other",
+   "level": "project",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "M/s. Shree Swami Samarth Builders & Developers",
+     "role": "Promoter"
+    },
+    {
+     "name": "Partner",
+     "role": "Representative of M/s. Shree Swami Samarth Builders & Developers"
+    }
+   ],
+   "issued_by": "M/s. Shree Swami Samarth Builders & Developers",
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "",
+   "furnished": true,
+   "execution_status": "",
+   "pages": "72",
+   "parent_ref": "jitendradoce5d0-49",
+   "key_terms": [
+    "Elevator, 100% power backup for common lighting and lifts, society office, security cabin",
+    "Boring water provision; Sintex tank not provided",
+    "Also signed on behalf of CRDL"
+   ],
+   "short_description": "Annexure-H list of amenities signed by the Partner of M/s. Shree Swami Samarth Builders & Developers and on behalf of CRDL",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-52",
+   "doc_type": "Floor Plan (Annexure D)",
+   "category": "plan",
+   "level": "premises",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "M/s. Shree Swami Samarth Builders & Developers",
+     "role": "Promoter"
+    },
+    {
+     "name": "Partner",
+     "role": "Representative of M/s. Shree Swami Samarth Builders & Developers"
+    }
+   ],
+   "issued_by": "",
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "Vecepia CHS (Prop.), Building No. 4, Flat No. 1604, 16th floor, Carpet Area 371 Sq. Ft.; Sai Hill Road (North), Tembhi Pada Road (East), Veronica Bldg (South)",
+   "furnished": true,
+   "execution_status": "",
+   "pages": "73",
+   "parent_ref": "jitendradoce5d0-49",
+   "key_terms": [
+    "Typical floor plan, Flat 1604, carpet area 371 sq. ft",
+    "Also signed on behalf of CRDL"
+   ],
+   "short_description": "Annexure-D typical floor plan (16th floor) of Vecepia CHS (Prop.) Building No. 4, Flat No. 1604, carpet area 371 sq. ft",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-55",
+   "doc_type": "Property Card (Annexure G)",
+   "category": "revenue_record",
+   "level": "land",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "City Survey Officer, Mulund",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "M/s. Nexzone Fiscal Services Pvt. Ltd.",
+     "role": "Holder"
+    }
+   ],
+   "issued_by": "Nagar Bhumapan Adhikari, Mulund",
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "CTS No. 22, Village Kanjur, Taluka Kurla, Mumbai Suburban",
+   "furnished": true,
+   "execution_status": "",
+   "pages": "77",
+   "parent_ref": "jitendradoce5d0-49",
+   "key_terms": [
+    "Tenure class 'C'",
+    "Mutation entries from 1993 to 2014 (fer-far Nos. 328, 494, 825, 829, 841)",
+    "Original holder, lessee and encumbrance columns blank",
+    "Entry dated 16/04/2018: names of Pratapsingh Surajee Vallabhdas, Dilipsingh Surajee Vallabhdas, Veerji, Saraswati Pralhadrai, Damayanti Lilidhar, Vasantkumar Purushottam, Jaylaxmi Gopalji Ganatra and Raja Babulal Manjetia recorded",
+    "Entry dated 16/04/2018: part area purchased by M/s. Nexzone Fiscal Services Pvt. Ltd. from Raja Babulal Manjetia and its name recorded",
+    "Two one-page property cards (Marathi) annexed to the Power of Attorney; details not legible in scan"
+   ],
+   "short_description": "Property Card (Malmatta Patrak) of CTS No. 22, Village Kanjur, issued by City Survey Officer, Mulund",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-60",
+   "doc_type": "SRA Approval Conditions and Notes",
+   "category": "approval",
+   "level": "project",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Slum Rehabilitation Authority",
+     "role": "Issuing Authority"
+    },
+    {
+     "name": "Executive Engineer-III, Slum Rehabilitation Authority",
+     "role": "Representative of Slum Rehabilitation Authority"
+    }
+   ],
+   "issued_by": "Slum Rehabilitation Authority",
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "",
+   "furnished": true,
+   "execution_status": "",
+   "pages": "81-82",
+   "parent_ref": "",
+   "key_terms": [
+    "Conditions to be complied before further C.C. / before granting C.C. to any part of the building",
+    "NOC stage-wise table (AA & CF, H.E., Tree Authority, etc.)",
+    "Conditions to be complied before O.C.C",
+    "Notes: no occupation permission of the sale wing/sale area until Occupation Certificate for the Rehabilitation / Composite building",
+    "CEO (SRA) reserves right to add, amend or delete conditions"
+   ],
+   "short_description": "Annexed SRA conditions / notes sheets (scanned sideways) signed by Executive Engineer-III, Slum Rehabilitation Authority",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-61",
+   "doc_type": "Area Statement (Proforma A)",
+   "category": "plan",
+   "level": "project",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [
+    {
+     "name": "Slum Rehabilitation Authority",
+     "role": "Issuing Authority"
+    }
+   ],
+   "issued_by": "Slum Rehabilitation Authority",
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "",
+   "furnished": true,
+   "execution_status": "",
+   "pages": "83",
+   "parent_ref": "",
+   "key_terms": [
+    "Annexure-E: area statement of plot, deductions, FSI and built-up area (Proforma A and further proforma sheets)"
+   ],
+   "short_description": "Annexure-E Area Statement Proforma 'A' of the SRA scheme (scanned sideways, low legibility)",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-36",
+   "doc_type": "Mortgage Deed",
+   "category": "encumbrance",
+   "level": "project",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [],
+   "issued_by": "",
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "The said Land",
+   "furnished": false,
+   "execution_status": "",
+   "pages": "",
+   "parent_ref": "",
+   "key_terms": [
+    "Clause 18.2: Promoter/Confirming Party has created a mortgage on the said Land, 'as more particularly stated hereinbefore'"
+   ],
+   "short_description": "Mortgage on the said Land recited in clause 18.2",
+   "file": "jitendra_doc.pdf"
+  },
+  {
+   "ref": "jitendradoce5d0-38",
+   "doc_type": "Development Agreement",
+   "category": "development",
+   "level": "project",
+   "exec_date": "",
+   "reg_date": "",
+   "doc_no_raw": "",
+   "doc_number": "",
+   "doc_year": "",
+   "sro": "",
+   "parties": [],
+   "issued_by": "",
+   "reference_no": "",
+   "consideration": "",
+   "market_value": "",
+   "stamp_duty": "",
+   "registration_fee": "",
+   "property_text": "",
+   "furnished": false,
+   "execution_status": "",
+   "pages": "",
+   "parent_ref": "",
+   "key_terms": [
+    "Cl.24.7: As per the Development Agreement, the Promoter/Confirming Party may sell the Apartment on ownership basis with rights in the Land underneath"
+   ],
+   "short_description": "Development Agreement recited in clause 24.7; its own pages, date, number and parties are not printed here",
+   "file": "jitendra_doc.pdf"
+  }
+ ],
+ "receipts": [
+  {
+   "file": "eChallanMH014330745202627U.pdf",
+   "grn": "MH014330745202627U",
+   "date": "23/11/2026"
+  }
+ ],
+ "expect": {
+  "must_find": {
+   "26098/2026": "A",
+   "24310/2023": "AB",
+   "12775/2014": "B",
+   "513/2012": "B",
+   "744/2012": "B",
+   "11379/2014": "B",
+   "9420/2016": "B",
+   "10380/2017": "B",
+   "1600/2019": "B",
+   "11720/2021": "B"
+  },
+  "must_not_find": [
+   "9664/2010",
+   "15967/2021",
+   "22854/2025",
+   "8395/2016",
+   "122/2020",
+   "16834/2023",
+   "18501/2026"
+  ],
+  "in_search": [
+   "24310/2023",
+   "26098/2026"
+  ],
+  "subsisting": [
+   "24310/2023",
+   "12775/2014"
+  ],
+  "sro": "Kurla",
+  "owner_contains": "Chavan",
+  "deal": "registered",
+  "draft": false,
+  "project_mortgage": true,
+  "not_in_chain": [
+   "CRDL"
+  ]
+ }
+}

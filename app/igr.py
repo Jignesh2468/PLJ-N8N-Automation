@@ -243,6 +243,7 @@ def build_keys(subject: dict, parties: List[str]) -> dict:
         "terms": sorted({t.lower().strip() for t in terms if len(t.strip()) >= 3}),
         "survey": re.sub(r"[^\dA-Za-z/]", "", ascii_digits(subject.get("survey_no") or subject.get("cts_no") or "")),
         "skels": subject.get("_bldg_skels") or _plain(name_skels(subject)),
+        "short_words": subject["_short_words"] if subject.get("_short_words") is not None else _short_name_words(subject),
         "land_refs": subject.get("_land_refs") or subject_land_refs(subject),
         "party_skels": sorted({skeleton(core_name(p)) for p in parties if len(skeleton(core_name(p))) >= 6}),
         "hissa": re.sub(r"[^\dA-Za-z/]", "", ascii_digits(subject.get("hissa_no", ""))),
@@ -272,6 +273,11 @@ def score_row(row: dict, keys: dict) -> int:
     sk = skeleton(row["property_raw"])
     if any(x in sk for x in keys.get("skels") or []):
         score += 4
+    elif keys.get("short_words") and is_mortgage_type(row.get("docname_raw", "")):
+        # a project mortgage naming a short building name ('प्रोजेक्ट वेस्पिया सीएचएस … अनसोल्ड सदनिका')
+        words = {skeleton(w) for w in re.split(r"[\s,./()\-:;\"'{}]+", row["property_raw"]) if w}
+        if any(all(w in words for w in g) for g in keys["short_words"]):
+            score += 3
     psk = skeleton(row["seller_raw"] + " " + row["purchaser_raw"])
     score += min(3, sum(1 for t in keys["party_tokens"] if t in text) +
                  2 * sum(1 for x in keys.get("party_skels") or [] if x in psk))
@@ -371,8 +377,9 @@ def skeleton(text: str) -> str:
 
 _GENERIC = re.compile(
     r"\b(?:co\s*-?\s*op(?:erative)?|housing|society|soc|ltd|limited|chs|chsl|llp|pvt|private|the|premises|"
-    r"apartments?|building|bldg|wing|no|shri|shree|sri|m/s)\b\.?|को\s*-?\s*ऑप(?:रेटिव्ह)?|को\s*-?\s*ऑपरेटीव्ह|"
-    r"हौसिंग|हाउसिंग|हौ\.?|सोसायटी|सोसा\.?|सोसायटि|लिमिटेड|लि\.?|मर्यादित|सहकारी|गृहनिर्माण|संस्था|श्री|मे\.|प्रा\.", re.I)
+    r"apartments?|building|bldg|wing|no|shri|shree|sri|m/s|prop|proposed)\b\.?|को\s*-?\s*ऑप(?:रेटिव्ह)?|को\s*-?\s*ऑपरेटीव्ह|"
+    r"हौसिंग|हाउसिंग|हौ\.?|सोसायटी|सोसा\.?|सोसायटि|लिमिटेड|लि\.?|मर्यादित|सहकारी|गृहनिर्माण|संस्था|श्री|मे\.|प्रा\.|"
+    r"प्रॉप\.?|प्रपो(?:झ्ड|ज्ड|झड|ज़्ड)?\.?|प्रस्तावित|नियोजित", re.I)
 # a search term that is only an area / road name ('Tagore Nagar', 'S.V. Road', 'Vikhroli East') — not a building
 _LOCALITY = re.compile(r"^\s*(?:\S+\s+){0,2}(?:nagar|नगर|colony|कॉलनी|road|rd\.?|marg|मार्ग|chowk|चौक|wadi|वाडी|pada|पाडा|"
                        r"gaon|गाव|east|west|पूर्व|पश्चिम|village)\s*$", re.I)
@@ -410,13 +417,27 @@ def name_skels(subject: dict) -> List[str]:
     return sorted(out)
 
 
-def _short_name_words(subject: dict) -> List[str]:
-    """Distinctive words of a short building name (only used when no long name skeleton exists)."""
-    if any(not x.startswith("w:") for x in name_skels(subject)):
-        return []
-    n = re.sub(r"(?i)\b(?:tower|wing|bldg|building|block|no|plot)\b\.?\s*[-–]?\s*[\dA-Za-z]?\b", " ", subject.get("building_name", "") or "")
-    words = [skeleton(w) for w in re.split(r"[\s,./()\-]+", core_name(n)) if w]
-    return [w for w in words if 3 <= len(w) < 5][:2]
+def _short_name_words(subject: dict) -> List[List[str]]:
+    """Short building / project names that give no long skeleton ('Vecepia' = 'वेसेपिया' = 'वेस्पिया' → 'vsp',
+    'Om Sai', 'Woods'): each name as the group of its word skeletons, all of which must appear as WHOLE words of a row.
+    Taken from every name of the subject, even when another (longer) name exists — the old chawl name 'Neelam Sadan'
+    must not hide the name of the new building."""
+    # only the subject's OWN names: the search terms also hold the other societies of a scheme ('Laxmi CHS'), and a
+    # short common word of theirs would match every 'लक्ष्मी' of the search
+    names = [subject.get(k, "") or "" for k in ("building_name", "project_name", "society_name")]
+    groups = []
+    for n in names:
+        for seg in re.split(r"\(|\)|–|—|\s-\s|\bformerly\b|\bearlier\b|\bpreviously\b|known as|पूर्वीचे|उर्फ|alias", n, flags=re.I):
+            seg = re.sub(r"(?i)\b(?:tower|wing|bldg|building|block|chawl|no|plot)\b\.?\s*(?:no\.?|nos\.?)?\s*[-–]?\s*"
+                         r"(?:\d+(?:\s*(?:[-–&,/]|and)\s*\d+)*|[A-Za-z]\b)?", " ", seg)
+            core = core_name(seg)
+            if not core or _LOCALITY.search(core) or len(skeleton(core)) >= 5:
+                continue          # long names are matched by name_skels()
+            words = [skeleton(w) for w in re.split(r"[\s,./()\-]+", core) if w]
+            g = [w for w in words if len(w) >= 3]
+            if g and len(g) == len([w for w in words if w]) and g not in groups:
+                groups.append(g[:2])
+    return groups
 
 
 def _plain(skels) -> List[str]:
@@ -433,6 +454,7 @@ def set_row_stats(subject: dict, rows: List[dict]) -> dict:
     # whole names are always kept; a single word is dropped when it is common in this search (e.g. an area name)
     subject["_bldg_skels"] = [x for x in sk if not x.startswith("w:")] + \
         [x[2:] for x in sk if x.startswith("w:") and sum(x[2:] in t for t in skel_rows) <= max(3, 0.10 * n)]
+    subject["_short_words"] = _short_name_words(subject)
     subject["_land_refs"] = subject_land_refs(subject)
     if subject["_land_refs"]:
         # "common" = the land id is shared by many OTHER buildings (a layout-wide CTS), not just by the units of ours
@@ -453,7 +475,9 @@ def set_row_stats(subject: dict, rows: List[dict]) -> dict:
 # ── land identifiers (survey / hissa / gat / CTS), lists included ───────────────
 _CTS_P = r"c\.?\s*t\.?\s*s\.?|स[ीि]\.?\s*ट[ीि]\.?\s*एस\.?|न\.?\s*भू\.?\s*(?:क्र)?|नगर\s*भूमापन(?:\s*क्रमांक)?|सि\.?\s*स\.?\s*(?:नं|न)|city\s*survey"
 _SVY_P = r"स\.?\s*न\.?|स\.?\s*नं\.?|सर्व्हे|सर्वे|सव्हे|सर्व्ह|र्सव्हे|(?<![A-Za-z])s\.?\s*no\b|survey|(?<![A-Za-z])sr\.?\s*no\b|गट|(?<![A-Za-z])gat\b|(?<![A-Za-z])g\.?\s*no\b"
-_SV = r"(?:" + _CTS_P + "|" + _SVY_P + r")\s*\.?\s*(?:नंबर|नं|न|क्र|क्रं|no|nos|number|क्रमांक)?\s*\.?\s*[:\-]?\s*"
+# longest word first: 'क्र' must not eat the start of 'क्रमांक' ('सीटीएस क्रमांक . 22(पार्ट)' lost its number)
+_SV_NO = r"(?:क्रमांक|क्रं|क्र|नंबर|नं|न|number|nos|no)"
+_SV = r"(?:" + _CTS_P + "|" + _SVY_P + r")\s*\.?\s*" + _SV_NO + r"?\s*\.?\s*[:\-]?\s*"
 _HS = r"(?:हि\.?\s*न\.?|हि\.?\s*नं\.?|हिस्सा|हीस्सा|हिसा|h\.?\s*no\b|hissa)\s*\.?\s*(?:नंबर|नं|न|क्र|nos|no|numbers|number)?\s*\.?\s*[:\-]?\s*"
 _DEV_LETTER = {"अ": "A", "ए": "A", "ब": "B", "बी": "B", "क": "C", "सी": "C", "ड": "D", "डी": "D", "इ": "E", "ई": "E",
                "एफ": "F", "फ": "F", "ई.": "E"}
@@ -474,7 +498,7 @@ def land_refs(text: str) -> List[tuple]:
     """[(kind, main, sub), ...] — kind 'cts' or 'sv'; reads lists such as 'सीटीएस नं. 538/1 पार्ट,464/1पार्ट,463'."""
     t = ascii_digits(text or "")
     out = []
-    for m in re.finditer(r"(" + _CTS_P + "|" + _SVY_P + r")\s*\.?\s*(?:नंबर|नं|न|क्र|क्रं|no|nos|number|क्रमांक)?\s*\.?\s*[:\-]?\s*", t, re.I):
+    for m in re.finditer(r"(" + _CTS_P + "|" + _SVY_P + r")\s*\.?\s*" + _SV_NO + r"?\s*\.?\s*[:\-]?\s*", t, re.I):
         kind = "cts" if re.match(_CTS_P, m.group(1), re.I) else "sv"
         if re.search(r"(?:old|जुना|जुने|जुन्या|जु\.|ओल्ड|former|पूर्वीचा|पूर्वीचे)\s*[.:\-]?\s*$", t[max(0, m.start() - 14):m.start()], re.I):
             kind = "old"                     # old survey no. — replaced by the new number, never used to match
@@ -582,6 +606,13 @@ def land_match(row_refs: List[tuple], subj_refs: List[tuple]) -> dict:
                 partial = True
             else:
                 conflict = True
+    if partial and not strict:
+        # 'CTS 24, Survey 127 (part)' against a subject on 'CTS 22 (part), 25 (part), Survey 127/1': the survey number
+        # alone is shared by many plots — the row's own CTS numbers say it is another plot
+        row_cts = {m for k, m, s in row_refs if k == "cts"}
+        subj_cts = {m for k, m, s in subj_refs if k == "cts"}
+        if row_cts and subj_cts and not (row_cts & subj_cts):
+            partial = False
     other = bool(row_refs) and not (strict or partial or conflict)
     return {"strict": strict, "partial": partial and not strict, "conflict": conflict and not strict, "other": other}
 
@@ -655,12 +686,12 @@ def _facts(row: dict, subject: dict) -> dict:
     bldg_hit = any(sk in row_skel for sk in skels)
     if not bldg_hit:
         # short names ("Woods", "Om Sai") cannot be found inside other words — compare whole words instead
-        short = subject.get("_short_words")
-        if short is None:
-            short = _short_name_words(subject)
-        if short:
-            row_words = {skeleton(w) for w in re.split(r"[\s,./()\-:;\"']+", prop) if w}
-            bldg_hit = all(w in row_words for w in short)
+        groups = subject.get("_short_words")
+        if groups is None:
+            groups = _short_name_words(subject)
+        if groups:
+            row_words = {skeleton(w) for w in re.split(r"[\s,./()\-:;\"'{}]+", prop) if w}
+            bldg_hit = any(all(w in row_words for w in g) for g in groups)
     st = tower_of(" ".join([subject.get("building_name", ""), subject.get("wing", ""), subject.get("project_name", ""),
                             subject.get("full_description", "")]))
     rts = {_tower_key(t) for t in _TOWER.findall(prop)}   # every building the row names ('buildings No. 1 and 2' → both)
@@ -696,13 +727,18 @@ def _facts(row: dict, subject: dict) -> dict:
         hissa_refs = [] if subject.get("_hissa_common") else [x for x in (subject.get("_land_refs") or []) if x[2]]
         if unit_level or listed or not (hissa_refs and land_match(land_refs(prop), hissa_refs)["strict"]):
             land_strict = land_partial = False
+    # the row states its own building name ('इमारतीचे नाव: टियारा') and it is not ours: a flat of another building on
+    # the same (layout-wide) land, whatever its unit number
+    bname = re.search(r"इमारतीचे\s*नाव\s*[:\-]?\s*([^,]{2,60})", prop)
+    other_bldg_name = bool(bname) and not bldg_hit and bool(skels or subject.get("_short_words")) and \
+        len(skeleton(core_name(bname.group(1)))) >= 2
     named_other = (not bldg_hit) and (tower_conflict or bool(re.search(
         r"estate|इस्टेट|इंडस्ट्रियल|industrial park|park|पार्क|nagar|नगर|building name|इमारतीचे नाव|plaza|प्लाझा|tower|टॉवर|"
         r"complex|कॉम्प्लेक्स|paradise|पॅराडाइज|पॅराडाईज|residency|apartment|अपार्टमेंट|society|सोसायटी|bldg|बिल्डींग|इमारत", prop, re.I)))
     return {"unit_hit": unit_hit, "bldg_hit": bldg_hit, "land_strict": land_strict, "land_partial": land_partial,
             "land_conflict": land_conflict, "other_unit": other_unit, "other_survey": other_survey,
             "named_other": named_other, "tower_conflict": tower_conflict, "land_doc": bool(_LAND_DOC.search(row.get("docname_raw", ""))),
-            "listed": listed}
+            "listed": listed, "other_bldg_name": other_bldg_name}
 
 
 def precheck(row: dict, subject: dict):
@@ -777,8 +813,9 @@ def verify_class(row: dict, c: dict, subject: dict) -> None:
         elif (land_strict or bldg_hit) and is_mortgage_type(row.get("docname_raw", "")) and re.search(
                 r"unsold|विक्री\s*न\s*झालेल्या|न\s*विकलेल्या|न\s*विकलेले|project|प्रोजेक्ट|प्रकल्प", row.get("property_raw", ""), re.I):
             new = "B"      # project / land mortgage by the developer (land + unsold units)
-    if f["listed"] and (bldg_hit or land_strict) and is_mortgage_type(row.get("docname_raw", "")):
+    if f["listed"] and (land_strict or (bldg_hit and not other_survey)) and is_mortgage_type(row.get("docname_raw", "")):
         new = "B"          # project mortgage that names the subject unit among the units mortgaged
+        #                    (not when the row's own CTS / survey numbers are all of another land: another scheme)
     if new == "B" and not land_strict and re.search(r"deposit of title|pawn|ठेव", row.get("docname_raw", ""), re.I):
         new = "C"          # a home-loan deposit of title deeds of some unit in the project — not a land deed
     if new == "B" and named_other and not bldg_hit and not is_mortgage_type(row.get("docname_raw", "")) and             _SOCIETY.search(row.get("purchaser_raw", "")):
@@ -798,6 +835,8 @@ def verify_class(row: dict, c: dict, subject: dict) -> None:
         new = "E"          # names another building and nothing ties it to ours
     if f["tower_conflict"] and new in ("A", "D"):
         new = "E"          # same unit number in another building / tower of the layout
+    if f["other_bldg_name"] and new in ("A", "D"):
+        new = "E"          # the row's own building name is another building ('इमारतीचे नाव: टियारा')
     if new != old:
         c["class"] = new
         why = []

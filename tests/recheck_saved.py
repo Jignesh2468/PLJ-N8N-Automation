@@ -58,6 +58,18 @@ def recheck(lead):
         # a link made AFTER the check (a deed cited by number in the papers) is applied again by build_analysis
         if c["id"] in by_id and "cited by number" not in (c.get("reason") or ""):
             igr.verify_class(by_id[c["id"]], c, subject)
+    # rows the current pre-filter short-lists but the saved run never classified: decided by the code alone, as the
+    # live pipeline does for rows beyond the AI limit (precheck, else 'F' corrected by the printed identifiers)
+    cand, _ = igr.prefilter(rows, igr.build_keys(subject, []))
+    for r in cand:
+        if r["id"] in classes:
+            continue
+        pc = igr.precheck(r, subject)
+        c = {"id": r["id"], "class": pc[0] if pc else "F", "reason": pc[1] if pc else "not classified in the saved run — code check only",
+             "parties": igr.default_parties(r, r["docname_raw"])}
+        igr.verify_class(r, c, subject)
+        igr.assign_mortgage_roles(r, c)
+        classes[r["id"]] = c
     lead_info = {"leadid": lead, "custname": an0.get("applicant") or lead}
     # files the AI run set aside as another property keep that observation
     foreign = [{"file": m.group(1), "description": m.group(2)} for f in an0.get("flags", [])
