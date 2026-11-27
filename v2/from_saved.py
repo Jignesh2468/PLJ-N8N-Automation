@@ -98,7 +98,11 @@ def parse_property(text: str) -> dict:
 
 
 def load_saved(path: str) -> List[dict]:
-    an = json.load(open(path, encoding="utf-8"))
+    return docs_from_analysis(json.load(open(path, encoding="utf-8")))
+
+
+def docs_from_analysis(an: dict) -> List[dict]:
+    """The documents of a saved analysis (the live system's legal_analysis_ai.json) as v2 documents."""
     out = []
     for d in an.get("documents", []):
         if d.get("source") == "igr":

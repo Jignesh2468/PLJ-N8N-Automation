@@ -21,6 +21,11 @@ from . import config, pipeline, supa
 app = FastAPI(title="PLJ Legal AI", version="1.0-final")
 app.add_middleware(CORSMiddleware, allow_origins=["*"], allow_methods=["GET", "POST"], allow_headers=["*"])
 
+# v2 engine (evidence-based) — mounted only when explicitly switched on; production endpoints below are unchanged
+if config.env("V2_ENABLED") == "1":
+    from v2.api import router as _v2_router
+    app.include_router(_v2_router)
+
 
 def require_key(x_api_key: Optional[str] = Header(default=None)):
     expected = config.api_key()

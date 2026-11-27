@@ -314,7 +314,9 @@ def chain_of_title(case: str, stage1: dict, steps: List[dict], flags: List[dict]
     obs = [f for f in flags if f["topic"] != "charge"]
     out.append("<h3>Observations / documents and information required</h3><table><tr><th>Sr.</th><th>Observation</th></tr>")
     for i, f in enumerate(obs, 1):
-        out.append(f"<tr><td>{i:02d}.</td><td>{E(en.text(f['text']))}</td></tr>")
+        items = "".join(f"<li>{E(en.text(x))}</li>" for x in f.get("items") or [])
+        out.append(f"<tr><td>{i:02d}.</td><td>{E(en.text(f['text']))}"
+                   + (f"<ul style='margin:4px 0 0 18px'>{items}</ul>" if items else "") + "</td></tr>")
     if not obs:
         out.append("<tr><td>—</td><td>None.</td></tr>")
     out.append("</table><div class=sig><p>Place: Mumbai.</p><p>Date: " + f"{date.today():%d/%m/%Y}" +

@@ -217,3 +217,59 @@ def _years(ys: List[int]) -> str:
     if start is not None:
         out.append(f"{start}" if start == prev else f"{start}–{prev}")
     return ", ".join(out)
+
+
+# ── grouping: a lawyer reads one observation per KIND of problem, with the deeds listed under it ────────────
+_GROUPS = [
+    ("its copy is not among the papers",
+     "The following registered deeds were found in the search, but their copies are not among the papers — "
+     "certified copies to be obtained:", r"^(.*?) is registered"),
+    ("is in the papers but not found in the search data",
+     "The following deeds are in the papers but were not found in the search data supplied — certified copy / "
+     "Index-II to be obtained and verified:", r"^(.*?) is in the papers"),
+    ("the deed / record by which they acquired it is not in the papers",
+     "For the following transfers, the earlier title of the transferors is not shown in the papers or the search — "
+     "earlier title deeds / revenue records to be obtained:", r"^By the (.*?); the deed"),
+    ("no release found in the search data — subsisting",
+     "The following mortgages / charges have no release in the search data — subsisting; NOC / release to be "
+     "obtained for the subject unit before disbursement:", r"^(.*?): no release found"),
+    ("may be the same", "The following names are nearly identical — confirm from the documents whether each pair is "
+     "one party spelt two ways:", r"^(.*?) may be the same"),
+    ("as agent(s), but the party they sign for is not clear",
+     "The following signatories sign as agents, but the party they sign for is not clear from the document — confirm:",
+     r"^(.*?) sign in"),
+    ("is named as a party in", "The following persons appear as parties in some papers but sign for a firm elsewhere — "
+     "confirm whether they are parties in their own right or only signatories:", r"^'(.*?)' is named"),
+    ("have nearly the same name", "The following signatories have nearly the same names — one person spelt two ways, "
+     "or two people; confirm:", r"^Signatories (.*?) of"),
+    ("is a party in the papers but is not shown in its search entry",
+     "In the following deeds, a party named in the papers is not shown in the search entry — verify with Index-II:",
+     r"^(.*?) is a party"),
+]
+
+
+def group_flags(flags: List[dict], min_size: int = 3) -> List[dict]:
+    """Repeated findings of one kind become ONE observation with the items listed (conflicts, charges and entries
+    to verify stay individual — each needs its own decision)."""
+    import re as _re
+    out, buckets = [], {}
+    for f in flags:
+        g = next((g for g in _GROUPS if g[0] in f["text"]), None)
+        if g:
+            buckets.setdefault(g, []).append(f)
+        else:
+            out.append(f)
+    for (key, head, rx), fs in buckets.items():
+        if len(fs) < min_size:
+            out += fs
+            continue
+        items = []
+        for f in fs:
+            m = _re.search(rx, f["text"])
+            item = (m.group(1) if m else f["text"]).strip()
+            if item not in items:
+                items.append(item)
+        out.append({"level": fs[0]["level"], "topic": fs[0]["topic"], "text": head, "items": items,
+                    "sources": [s for f in fs for s in f.get("sources", [])][:6]})
+    order = {"conflict": 0, "verify": 1, "missing": 2}
+    return sorted(out, key=lambda f: (order.get(f["level"], 3), f["topic"]))
